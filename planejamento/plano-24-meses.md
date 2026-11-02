@@ -8,7 +8,7 @@ Weekly study commitment: 15–17 hours
 Total estimated workload: 1,560–1,768 hours
 Current level: Beginner
 English level: Intermediate
-Primary study environment: Linux / Termux(Android)
+Primary study environment: Linux / Termux (Android)
 Programming language: Python
 Version control: Git and GitHub
 
@@ -62,10 +62,7 @@ Total| 15–17 hours
 
 The allocation may change according to the difficulty of each subject.
 
-Learning cycle
-
 Each subject follows this sequence:
-
 1. Learn the concept.
 2. Study a practical example.
 3. Execute guided exercises.
@@ -74,10 +71,8 @@ Each subject follows this sequence:
 6. Complete an assessment.
 7. Review mistakes and reinforce weak areas.
 
-Evidence-based learning
 
 Every week must produce evidence of learning, such as:
-
 - Markdown notes.
 - Solved exercises.
 - Python scripts.
@@ -94,11 +89,9 @@ Every week must produce evidence of learning, such as:
 The program is divided into eight progressive phases.
 
 Phase 1 — Months 1–3
-
 Computer Science Foundations
 
 Main subjects:
-
 - Computational thinking.
 - Algorithms and pseudocode.
 - Python fundamentals.
@@ -111,7 +104,6 @@ Main subjects:
 - Technical English foundations.
 
 Expected outcomes:
-
 - Write simple Python programs independently.
 - Understand basic algorithms and logical operations.
 - Use Git for version control.
@@ -119,15 +111,13 @@ Expected outcomes:
 - Explain fundamental programming concepts.
 
 Main deliverable:
-
 Foundational Programming Portfolio
 
-Phase 2 — Months 4–6
 
+Phase 2 — Months 4–6
 Operating Systems, Linux, and Computer Networks
 
 Main subjects:
-
 - Linux architecture and administration.
 - Filesystems and permissions.
 - Processes and services.
@@ -142,7 +132,6 @@ Main subjects:
 - Basic network security.
 
 Expected outcomes:
-
 - Navigate and administer Linux environments.
 - Understand permissions and process management.
 - Explain how computers communicate over networks.
@@ -150,15 +139,13 @@ Expected outcomes:
 - Use command-line networking tools responsibly.
 
 Main deliverable:
-
 Linux Administration and Networking Laboratory Portfolio
 
-Phase 3 — Months 7–9
 
+Phase 3 — Months 7–9
 Programming, Systems, and Security Foundations
 
 Main subjects:
-
 - Intermediate Python.
 - Object-oriented programming.
 - Data structures and algorithms.
@@ -172,7 +159,6 @@ Main subjects:
 - Common software vulnerabilities.
 
 Expected outcomes:
-
 - Develop structured Python applications.
 - Automate routine technical tasks.
 - Understand fundamental database operations.
@@ -180,15 +166,13 @@ Expected outcomes:
 - Recognize common security weaknesses.
 
 Main deliverable:
-
 Python Security Tools and Secure Coding Projects
 
-Phase 4 — Months 10–12
 
+Phase 4 — Months 10–12
 Web Security and Application Security
 
 Main subjects:
-
 - Web architecture.
 - HTML, CSS, and JavaScript fundamentals.
 - HTTP requests and responses.
@@ -203,7 +187,6 @@ Main subjects:
 - Secure application development.
 
 Expected outcomes:
-
 - Understand how web applications operate.
 - Identify common web application vulnerabilities.
 - Test applications in authorized laboratories.
@@ -211,15 +194,13 @@ Expected outcomes:
 - Recommend practical mitigations.
 
 Main deliverable:
-
 Web Application Security Assessment Portfolio
 
-Phase 5 — Months 13–15
 
+Phase 5 — Months 13–15
 Defensive Security and Security Operations
 
 Main subjects:
-
 - Security monitoring fundamentals.
 - System and network logs.
 - SIEM concepts.
@@ -234,7 +215,6 @@ Main subjects:
 - Security policies and risk management.
 
 Expected outcomes:
-
 - Analyze basic security logs.
 - Recognize suspicious activity.
 - Understand incident response procedures.
@@ -242,15 +222,13 @@ Expected outcomes:
 - Recommend defensive controls.
 
 Main deliverable:
-
 Blue Team Monitoring and Incident Response Project
 
-Phase 6 — Months 16–18
 
+Phase 6 — Months 16–18
 Offensive Security and Penetration Testing
 
 Main subjects:
-
 - Penetration testing methodology.
 - Reconnaissance and information gathering.
 - Service enumeration.
@@ -264,7 +242,6 @@ Main subjects:
 - Rules of engagement and legal authorization.
 
 Expected outcomes:
-
 - Conduct structured security assessments in authorized environments.
 - Understand the relationship between vulnerabilities, exploits, and impact.
 - Use security testing tools responsibly.
@@ -272,17 +249,15 @@ Expected outcomes:
 - Recommend corrective actions.
 
 Main deliverable:
-
 Authorized Penetration Testing Report
 
 All offensive exercises must be conducted in systems owned by the student or in explicitly authorized training environments.
 
-Phase 7 — Months 19–21
 
+Phase 7 — Months 19–21
 Cloud Security, Advanced Systems, and Security Engineering
 
 Main subjects:
-
 - Cloud computing fundamentals.
 - Cloud service models.
 - Identity and access management.
@@ -298,7 +273,6 @@ Main subjects:
 - Risk assessment.
 
 Expected outcomes:
-
 - Understand common cloud security risks.
 - Apply fundamental identity and access controls.
 - Recognize insecure configurations.
@@ -307,15 +281,13 @@ Expected outcomes:
 - Produce security architecture documentation.
 
 Main deliverable:
-
 Cloud Security and Secure Infrastructure Project
 
-Phase 8 — Months 22–24
 
+Phase 8 — Months 22–24
 Specialization, Research, and Professional Portfolio
 
 Main subjects:
-
 - Advanced review of core cybersecurity disciplines.
 - Selection of a professional specialization.
 - Independent security research.
@@ -328,7 +300,6 @@ Main subjects:
 - Career planning and interview preparation.
 
 Possible specialization paths:
-
 - Application Security (AppSec).
 - Penetration Testing and Red Team.
 - Blue Team and Security Operations.
@@ -338,7 +309,6 @@ Possible specialization paths:
 - Vulnerability Research.
 
 Expected outcomes:
-
 - Demonstrate practical competence in a selected area.
 - Present a coherent technical portfolio.
 - Produce professional-quality technical documentation.
@@ -346,17 +316,14 @@ Expected outcomes:
 - Identify the next steps for professional specialization.
 
 Main deliverable:
-
 Final Cybersecurity Capstone Project and Professional Portfolio
 
 ---
 
 5. Technical English Development
-
 Technical English is a continuous component throughout the program.
 
 Weekly activities:
-
 - Read technical documentation.
 - Learn cybersecurity terminology.
 - Write short technical summaries.
@@ -365,7 +332,6 @@ Weekly activities:
 - Practice technical presentations.
 
 Expected progression:
-
 Period| English objective
 Months 1–6| Understand basic technical documentation
 Months 7–12| Explain programming and security concepts
@@ -375,11 +341,9 @@ Months 19–24| Present projects and communicate technical decisions
 ---
 
 6. Practical Laboratory Policy
-
 All practical activities must follow legal, ethical, and professional standards.
 
 The student must:
-
 - Work only on systems they own or have explicit authorization to test.
 - Use intentionally vulnerable applications and controlled laboratories.
 - Avoid unauthorized scanning, exploitation, access, or data collection.
@@ -392,11 +356,9 @@ The objective is to develop professional security skills, not to compromise syst
 ---
 
 7. Evaluation and Progression Criteria
-
 Progress is measured by demonstrated competence, not simply by time spent studying.
 
 Each week should include:
-
 - Completion of assigned lessons.
 - Exercises and practical activities.
 - Technical notes.
@@ -405,7 +367,6 @@ Each week should include:
 - Technical English practice.
 
 Suggested performance scale
-
 Score| Status| Meaning
 90–100%| Excellent| Strong understanding and independent execution
 80–89%| Approved| Competent performance
@@ -417,11 +378,9 @@ A phase should be considered complete only when its essential competencies have 
 ---
 
 8. Portfolio and Documentation Standards
-
 All relevant work must be organized in the GitHub repository.
 
 The repository should contain:
-
 - The main program overview.
 - The 24-month plan.
 - The curriculum.
@@ -440,11 +399,9 @@ The portfolio must demonstrate the student's actual work. Do not claim skills, c
 ---
 
 9. Certification Strategy
-
 Certifications are supporting milestones, not substitutes for practical competence.
 
 Potential certification paths will be evaluated according to:
-
 - Current knowledge level.
 - Prerequisite skills.
 - Professional objectives.
@@ -457,9 +414,8 @@ Certification choices and exam versions must be reviewed when the student approa
 ---
 
 10. Final Success Criteria
-
+    
 At the end of the 24-month program, the student should have:
-
 - A structured foundation in Computer Science.
 - Practical Linux and networking skills.
 - Python programming experience.
@@ -476,11 +432,9 @@ At the end of the 24-month program, the student should have:
 ---
 
 11. Program Governance and Updates
-
 This document is the strategic reference for the 24-month program.
 
 It should be updated only when there are meaningful changes to:
-
 - Program objectives.
 - Phase structure.
 - Weekly study availability.
