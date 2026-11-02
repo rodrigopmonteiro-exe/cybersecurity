@@ -112,10 +112,6 @@ Level| Classification| Description
 3| Competent| Performs, explains, and corrects tasks independently.
 4| Advanced| Handles unfamiliar problems and evaluates alternative approaches.
 
-Completing a lesson does not automatically mean that a competency has been acquired.
-
-A skill is considered consolidated only after it has been demonstrated again through independent application and retention assessments.
-
 6. Technical Areas
 
 Computer Science Foundations
@@ -226,12 +222,8 @@ The learning process includes:
 - Explaining technical concepts in English.
 - Developing professional communication skills.
 
-English is treated as a continuous technical competency, not as a separate subject limited to one period.
 
 10. Certifications and Professional Development
-
-Professional certifications will be considered according to demonstrated knowledge, practical experience, career objectives, and available resources.
-
 Potential certification paths include:
 
 - ISC2 Certified in Cybersecurity (CC).
@@ -244,39 +236,8 @@ Potential certification paths include:
 - AWS Certified Security – Specialty.
 - OffSec certifications.
 
-These are potential objectives, not a promise that every certification will be completed within 24 months.
 
-Preparation and examination decisions will be based on official exam objectives, practical readiness, and current certification requirements.
-
-11. Repository Structure
-
-The repository is organized to preserve the academic plan, weekly progress, technical evidence, and practical projects.
-
-cybersecurity/
-│
-├── README.md
-│
-├── planejamento/
-│   ├── README.md
-│   ├── plano-24-meses.md
-│   ├── grade-curricular.md
-│   ├── cronograma-geral.md
-│   ├── competencias.md
-│   ├── bibliografia.md
-│   ├── certificacoes.md
-│   └── estado-atual-do-curso.md
-│
-├── semana-001/
-├── semana-002/
-├── semana-003/
-│
-├── projetos/
-│
-└── laboratorios/
-
-The structure will expand as new subjects, projects, and practical activities are introduced.
-
-12. Progress Tracking and Evidence
+11. Progress Tracking and Evidence
 
 Progress is documented through:
 
@@ -291,52 +252,8 @@ Progress is documented through:
 - Competency updates.
 - Technical English activities.
 
-The repository serves as a verifiable record of the learning process.
 
-A completed activity is not automatically evidence of mastery. Competencies are updated only when supported by assessment results and practical demonstrations.
-
-13. Current Progress
-
-<details>
-<summary>Current status — November 2026</summary>Current stage: Period 1 — Computer Science Foundations.
-
-Current week: Week 002 — In progress.
-
-Completed stage: Week 001 — Orientation, initial assessment, environment setup, and introductory foundations.
-
-Activities already introduced:
-
-- Python fundamentals.
-- Propositional logic.
-- Basic Linux commands.
-- Termux environment.
-- Git and GitHub configuration.
-- Initial repository organization.
-
-Current priorities:
-
-- Continue the foundational curriculum.
-- Complete pending assessments.
-- Document practical evidence.
-- Evaluate competencies through independent exercises.
-- Maintain the weekly learning record.
-
-The competency matrix is updated progressively as skills are demonstrated.
-
-</details>14. Academic Documentation
-
-The "planejamento/" directory contains the official program documents:
-
-Document| Purpose
-"24-Month Plan" (planejamento/plano-24-meses.md)| Overall educational strategy.
-"Curriculum" (planejamento/grade-curricular.md)| Subjects and academic content.
-"General Schedule" (planejamento/cronograma-geral.md)| 104-week learning roadmap.
-"Competency Matrix" (planejamento/competencias.md)| Assessment levels and demonstrated skills.
-"Bibliography" (planejamento/bibliografia.md)| Academic and technical references.
-"Certifications" (planejamento/certificacoes.md)| Professional certification strategy.
-"Current Course Status" (planejamento/estado-atual-do-curso.md)| Official progress and continuity record.
-
-15. Long-Term Vision
+12. Long-Term Vision
 
 The long-term objective is to build a professional profile based on:
 
@@ -349,13 +266,9 @@ The long-term objective is to build a professional profile based on:
 - Verifiable projects and contributions.
 - Continuous learning and development.
 
-International professional recognition is an ambitious long-term aspiration. It requires sustained technical excellence, meaningful contributions, practical experience, and a record of work that can be evaluated by the wider professional community.
-
-This 24-month program is the foundation of that journey, not a guarantee of professional recognition.
-
 ---
 
-16. Guiding Principle
+13. Guiding Principle
 
 Learn deeply. Practice consistently. Demonstrate competence. Document everything. Improve continuously.
 
