@@ -1,12 +1,12 @@
-CERTIFICAÇÕES
+# CERTIFICAÇÕES
 
-Formação Completa em Ciência da Computação e Cibersegurança — 24 Meses
+**Formação Completa em Ciência da Computação e Cibersegurança — 24 Meses**
 
-Documento de planejamento, preparação e acompanhamento de certificações profissionais
+*Documento de planejamento, preparação e acompanhamento de certificações profissionais*
 
 ---
 
-1. Objetivo
+## 1. Objetivo
 
 Este documento estabelece a estratégia de certificações profissionais ao longo dos 24 meses de formação.
 
@@ -24,7 +24,7 @@ A estratégia contempla:
 
 A escolha definitiva dependerá do desempenho nas avaliações, da evolução técnica, dos interesses profissionais e dos recursos financeiros disponíveis.
 
-2. Princípios da estratégia
+## 2. Princípios da estratégia
 
 As seguintes regras serão adotadas:
 
@@ -37,23 +37,22 @@ As seguintes regras serão adotadas:
 7. Associar cada certificação a projetos e evidências no GitHub.
 8. Não sacrificar a formação em Ciência da Computação para estudar exclusivamente para provas.
 
-Princípio central: a certificação valida uma parte do conhecimento. Ela não substitui experiência, autonomia técnica, projetos e capacidade de resolver problemas reais.
+**Princípio central:** a certificação valida uma parte do conhecimento. Ela não substitui experiência, autonomia técnica, projetos e capacidade de resolver problemas reais.
 
 ---
 
-PARTE I — CERTIFICAÇÕES DE FUNDAMENTOS
+# PARTE I — CERTIFICAÇÕES DE FUNDAMENTOS
 
-3. ISC2 Certified in Cybersecurity (CC)
+## 3. ISC2 Certified in Cybersecurity (CC)
 
-**Prioridade alta** **Entrada na área**
+**Prioridade alta — Entrada na área**
 
-Organização: ISC2
+- Organização: ISC2.
+- Nível: Inicial.
 
-Nível: Inicial.
+**Objetivo:** validar conhecimentos fundamentais de cibersegurança.
 
-Objetivo: validar conhecimentos fundamentais de cibersegurança.
-
-Conteúdos
+### Conteúdos
 
 - Princípios de segurança.
 - Governança e conceitos de segurança.
@@ -62,11 +61,11 @@ Conteúdos
 - Operações de segurança.
 - Resposta a incidentes.
 
-Requisitos
+### Requisitos
 
 Não exige experiência profissional prévia.
 
-Preparação recomendada
+### Preparação recomendada
 
 - Fundamentos de redes.
 - Conceitos de segurança da informação.
@@ -75,28 +74,26 @@ Preparação recomendada
 - Gestão de riscos.
 - Operações básicas de segurança.
 
-Recursos oficiais
+### Recursos oficiais
 
 - Certificação: https://www.isc2.org/certifications/cc
 - Programa e conteúdo do exame: https://www.isc2.org/certifications/cc/cc-certification-exam-outline
 
-Período planejado: meses 6–9, condicionado à aprovação nas avaliações dos fundamentos.
+**Período planejado:** meses 6–9, condicionado à aprovação nas avaliações dos fundamentos.
 
-Observação: confirmar o idioma disponível, as condições de inscrição, eventuais programas gratuitos e as taxas aplicáveis antes de agendar. As ofertas promocionais podem mudar.
+**Observação:** confirmar o idioma disponível, as condições de inscrição, eventuais programas gratuitos e as taxas aplicáveis antes de agendar. As ofertas promocionais podem mudar.
 
-4. Cisco Certified Support Technician — Cybersecurity (CCST Cybersecurity)
+## 4. Cisco Certified Support Technician — Cybersecurity (CCST Cybersecurity)
 
-**Prioridade alta**  **Entrada na área**
+**Prioridade alta — Entrada na área**
 
-Organização: Cisco.
+- Organização: Cisco.
+- Nível: Inicial.
+- Exame: 100-160.
 
-Nível: Inicial.
+**Objetivo:** validar conhecimentos introdutórios de segurança cibernética e preparação para funções técnicas de entrada.
 
-Exame: 100-160.
-
-Objetivo: validar conhecimentos introdutórios de segurança cibernética e preparação para funções técnicas de entrada.
-
-Conteúdos
+### Conteúdos
 
 - Princípios de segurança.
 - Segurança de redes.
@@ -105,7 +102,7 @@ Conteúdos
 - Gestão de riscos.
 - Tratamento de incidentes.
 
-Preparação recomendada
+### Preparação recomendada
 
 - Fundamentos de redes TCP/IP.
 - Conceitos de ameaças e vulnerabilidades.
@@ -113,30 +110,29 @@ Preparação recomendada
 - Noções de resposta a incidentes.
 - Fundamentos de infraestrutura.
 
-Recursos oficiais
+### Recursos oficiais
 
 - Certificação: https://www.cisco.com/site/us/en/learn/training-certifications/exams/ccst-cybersecurity.html
 - Cisco Networking Academy: https://www.netacad.com/
 
-Período planejado: meses 6–10.
+**Período planejado:** meses 6–10.
 
-Observação: poderá ser escolhida como alternativa ou complemento à ISC2 CC. Não é necessário realizar as duas automaticamente. A decisão dependerá do conteúdo já dominado, do custo e da relevância profissional.
+**Observação:** poderá ser escolhida como alternativa ou complemento à ISC2 CC. Não é necessário realizar as duas automaticamente. A decisão dependerá do conteúdo já dominado, do custo e da relevância profissional.
 
 ---
 
-PARTE II — REDES E INFRAESTRUTURA
+# PARTE II — REDES E INFRAESTRUTURA
 
-5. CompTIA Network+
+## 5. CompTIA Network+
 
 **Prioridade média**
 
-Organização: CompTIA.
+- Organização: CompTIA.
+- Nível: Intermediário de fundamentos de infraestrutura.
 
-Nível: Intermediário de fundamentos de infraestrutura.
+**Objetivo:** validar conhecimentos de redes e administração de infraestrutura.
 
-Objetivo: validar conhecimentos de redes e administração de infraestrutura.
-
-Conteúdos
+### Conteúdos
 
 - Arquitetura de redes.
 - Protocolos e serviços.
@@ -146,7 +142,7 @@ Conteúdos
 - Segurança de redes.
 - Monitoramento e solução de problemas.
 
-Preparação recomendada
+### Preparação recomendada
 
 - Modelo TCP/IP e modelo OSI.
 - IPv4 e IPv6.
@@ -156,28 +152,27 @@ Preparação recomendada
 - Análise de tráfego com Wireshark.
 - Diagnóstico de problemas de conectividade.
 
-Recursos oficiais
+### Recursos oficiais
 
 - Certificação: https://www.comptia.org/certifications/network
 - Objetivos do exame: consultar a versão vigente na página oficial.
 
-Período planejado: meses 7–12.
+**Período planejado:** meses 7–12.
 
-Critério para inscrição: conseguir configurar, interpretar e diagnosticar redes em laboratórios sem depender constantemente de instruções.
+**Critério para inscrição:** conseguir configurar, interpretar e diagnosticar redes em laboratórios sem depender constantemente de instruções.
 
-Observação: é uma opção de certificação paga. Não é obrigatório realizá-la caso outra certificação de redes cubra adequadamente os objetivos profissionais.
+**Observação:** é uma opção de certificação paga. Não é obrigatório realizá-la caso outra certificação de redes cubra adequadamente os objetivos profissionais.
 
-6. CompTIA A+
+## 6. CompTIA A+
 
 **Prioridade opcional**
 
-Organização: CompTIA.
+- Organização: CompTIA.
+- Nível: Inicial.
 
-Nível: Inicial.
+**Objetivo:** validar conhecimentos gerais de suporte técnico, hardware, sistemas operacionais e infraestrutura.
 
-Objetivo: validar conhecimentos gerais de suporte técnico, hardware, sistemas operacionais e infraestrutura.
-
-Conteúdos
+### Conteúdos
 
 - Hardware.
 - Sistemas operacionais.
@@ -186,29 +181,28 @@ Conteúdos
 - Segurança básica.
 - Suporte e solução de problemas.
 
-Recursos oficiais
+### Recursos oficiais
 
 https://www.comptia.org/certifications/a
 
-Período planejado: somente se uma avaliação indicar lacunas relevantes em hardware, suporte técnico ou administração de sistemas.
+**Período planejado:** somente se uma avaliação indicar lacunas relevantes em hardware, suporte técnico ou administração de sistemas.
 
-Decisão: não será uma prioridade automática. Como o objetivo principal é cibersegurança, devemos evitar gastar tempo e dinheiro com certificações que não contribuam diretamente para as competências necessárias.
+**Decisão:** não será uma prioridade automática. Como o objetivo principal é cibersegurança, devemos evitar gastar tempo e dinheiro com certificações que não contribuam diretamente para as competências necessárias.
 
 ---
 
-PARTE III — SEGURANÇA DA INFORMAÇÃO
+# PARTE III — SEGURANÇA DA INFORMAÇÃO
 
-7. CompTIA Security+
+## 7. CompTIA Security+
 
 **Prioridade alta**
 
-Organização: CompTIA.
+- Organização: CompTIA.
+- Nível: Fundamentos profissionais de segurança.
 
-Nível: Fundamentos profissionais de segurança.
+**Objetivo:** validar conhecimentos de segurança da informação e conceitos aplicados à proteção de sistemas e organizações.
 
-Objetivo: validar conhecimentos de segurança da informação e conceitos aplicados à proteção de sistemas e organizações.
-
-Conteúdos
+### Conteúdos
 
 - Conceitos gerais de segurança.
 - Ameaças e vulnerabilidades.
@@ -219,7 +213,7 @@ Conteúdos
 - Operações de segurança.
 - Gestão de riscos e resposta a incidentes.
 
-Preparação recomendada
+### Preparação recomendada
 
 - Redes de computadores.
 - Linux e Windows.
@@ -228,30 +222,29 @@ Preparação recomendada
 - Gestão de vulnerabilidades.
 - Monitoramento e resposta a incidentes.
 
-Recursos oficiais
+### Recursos oficiais
 
 - Certificação: https://www.comptia.org/certifications/security
 - Objetivos do exame: consultar a versão vigente antes da preparação.
 
-Período planejado: meses 10–16.
+**Período planejado:** meses 10–16.
 
-Critério para inscrição: demonstrar domínio dos fundamentos de redes, sistemas operacionais, ameaças, controles e operações de segurança.
+**Critério para inscrição:** demonstrar domínio dos fundamentos de redes, sistemas operacionais, ameaças, controles e operações de segurança.
 
 ---
 
-PARTE IV — SEGURANÇA DEFENSIVA
+# PARTE IV — SEGURANÇA DEFENSIVA
 
-8. Blue Team Level 1 (BTL1)
+## 8. Blue Team Level 1 (BTL1)
 
 **Prioridade alta para trilha defensiva**
 
-Organização: Security Blue Team.
+- Organização: Security Blue Team.
+- Nível: Prático e profissional de entrada.
 
-Nível: Prático e profissional de entrada.
+**Objetivo:** desenvolver e avaliar habilidades de análise e defesa cibernética.
 
-Objetivo: desenvolver e avaliar habilidades de análise e defesa cibernética.
-
-Competências relacionadas
+### Competências relacionadas
 
 - Análise de phishing.
 - Investigação de incidentes.
@@ -261,7 +254,7 @@ Competências relacionadas
 - Análise de ameaças.
 - Investigação de eventos suspeitos.
 
-Preparação recomendada
+### Preparação recomendada
 
 - Linux e Windows.
 - Redes.
@@ -271,26 +264,26 @@ Preparação recomendada
 - Ferramentas de monitoramento.
 - Relatórios de incidentes.
 
-Recursos oficiais
+### Recursos oficiais
 
 https://www.securityblue.team/
 
-Período planejado: meses 13–19.
+**Período planejado:** meses 13–19.
 
-Critério para inscrição: concluir laboratórios de análise de eventos, investigar cenários simulados e produzir relatórios técnicos.
+**Critério para inscrição:** concluir laboratórios de análise de eventos, investigar cenários simulados e produzir relatórios técnicos.
 
-Observação: verificar requisitos, formato do exame, preço e condições de acesso diretamente com a instituição.
+**Observação:** verificar requisitos, formato do exame, preço e condições de acesso diretamente com a instituição.
 
-9. OffSec Defense Analyst
+## 9. OffSec Defense Analyst
+
 **Prioridade complementar**
 
-Organização: OffSec.
+- Organização: OffSec.
+- Nível: Prático.
 
-Nível: Prático.
+**Objetivo:** validar habilidades de análise e operações defensivas de segurança.
 
-Objetivo: validar habilidades de análise e operações defensivas de segurança.
-
-Competências relacionadas
+### Competências relacionadas
 
 - Monitoramento.
 - Detecção de ameaças.
@@ -298,29 +291,28 @@ Competências relacionadas
 - Investigação.
 - Operações de segurança.
 
-Recursos oficiais
+### Recursos oficiais
 
 https://www.offsec.com/
 
-Período planejado: meses 17–24 ou posteriormente.
+**Período planejado:** meses 17–24 ou posteriormente.
 
-Decisão: considerar somente se a trilha defensiva for escolhida como especialização prioritária e houver orçamento e preparação suficientes.
+**Decisão:** considerar somente se a trilha defensiva for escolhida como especialização prioritária e houver orçamento e preparação suficientes.
 
 ---
 
-PARTE V — SEGURANÇA OFENSIVA
+# PARTE V — SEGURANÇA OFENSIVA
 
-10. CompTIA PenTest+
+## 10. CompTIA PenTest+
 
 **Prioridade complementar**
 
-Organização: CompTIA.
+- Organização: CompTIA.
+- Nível: Intermediário.
 
-Nível: Intermediário.
+**Objetivo:** validar conhecimentos de testes de intrusão, avaliação de vulnerabilidades e comunicação de resultados.
 
-Objetivo: validar conhecimentos de testes de intrusão, avaliação de vulnerabilidades e comunicação de resultados.
-
-Conteúdos
+### Conteúdos
 
 - Planejamento de testes.
 - Reconhecimento.
@@ -330,7 +322,7 @@ Conteúdos
 - Análise de resultados.
 - Relatórios e recomendações.
 
-Preparação recomendada
+### Preparação recomendada
 
 - Redes TCP/IP.
 - Linux.
@@ -340,25 +332,24 @@ Preparação recomendada
 - Ferramentas de análise.
 - Documentação técnica.
 
-Recursos oficiais
+### Recursos oficiais
 
 https://www.comptia.org/certifications/pentest
 
-Período planejado: meses 17–23.
+**Período planejado:** meses 17–23.
 
-Critério para inscrição: conseguir executar testes autorizados em laboratórios, interpretar resultados e documentar vulnerabilidades e recomendações.
+**Critério para inscrição:** conseguir executar testes autorizados em laboratórios, interpretar resultados e documentar vulnerabilidades e recomendações.
 
-11. OffSec Certified Professional (OSCP) / OSCP+
+## 11. OffSec Certified Professional (OSCP) / OSCP+
 
 **Objetivo avançado**
 
-Organização: OffSec.
+- Organização: OffSec.
+- Nível: Avançado e prático.
 
-Nível: Avançado e prático.
+**Objetivo:** validar habilidades práticas de testes de intrusão, exploração e escalonamento de privilégios.
 
-Objetivo: validar habilidades práticas de testes de intrusão, exploração e escalonamento de privilégios.
-
-Competências relacionadas
+### Competências relacionadas
 
 - Reconhecimento e enumeração.
 - Exploração de vulnerabilidades.
@@ -369,7 +360,7 @@ Competências relacionadas
 - Metodologia de pentesting.
 - Relatórios profissionais.
 
-Pré-requisitos recomendados
+### Pré-requisitos recomendados
 
 A certificação não exige pré-requisitos formais para inscrição, mas a OffSec recomenda:
 
@@ -377,33 +368,31 @@ A certificação não exige pré-requisitos formais para inscrição, mas a OffS
 - Experiência razoável com administração Linux e Windows.
 - Familiaridade com Bash e/ou Python.
 
-Recursos oficiais
+### Recursos oficiais
 
 - Curso PEN-200: https://www.offsec.com/courses/pen-200/
 - Perguntas frequentes: https://help.offsec.com/hc/en-us/articles/12483872278932-PEN-200-FAQ
 - Guia do exame: https://help.offsec.com/hc/en-us/articles/360040165632-OSCP-Exam-Guide
 
-Período planejado: meses 22–24 ou após a conclusão da formação, conforme o desempenho.
+**Período planejado:** meses 22–24 ou após a conclusão da formação, conforme o desempenho.
 
-Decisão: é uma meta avançada, não uma obrigação para terminar o programa. A preparação exige experiência prática consistente e investimento financeiro significativo.
+**Decisão:** é uma meta avançada, não uma obrigação para terminar o programa. A preparação exige experiência prática consistente e investimento financeiro significativo.
 
 ---
 
-PARTE VI — COMPUTAÇÃO EM NUVEM
+# PARTE VI — COMPUTAÇÃO EM NUVEM
 
-12. AWS Certified Cloud Practitioner
+## 12. AWS Certified Cloud Practitioner
 
 **Prioridade alta para trilha de cloud**
 
-Organização: Amazon Web Services.
+- Organização: Amazon Web Services.
+- Nível: Fundamental.
+- Exame: CLF-C02.
 
-Nível: Fundamental.
+**Objetivo:** validar conhecimentos gerais de computação em nuvem e serviços AWS.
 
-Exame: CLF-C02.
-
-Objetivo: validar conhecimentos gerais de computação em nuvem e serviços AWS.
-
-Conteúdos
+### Conteúdos
 
 - Conceitos de cloud computing.
 - Serviços AWS.
@@ -412,28 +401,26 @@ Conteúdos
 - Arquitetura básica.
 - Custos e cobrança.
 
-Recursos oficiais
+### Recursos oficiais
 
 - Certificação: https://aws.amazon.com/certification/certified-cloud-practitioner/
 - Guia do exame: https://docs.aws.amazon.com/pt_br/aws-certification/latest/examguides/
 
-Período planejado: meses 16–20.
+**Período planejado:** meses 16–20.
 
-Observação: é uma certificação introdutória. Ela não comprova, isoladamente, capacidade de projetar ou proteger arquiteturas complexas em nuvem.
+**Observação:** é uma certificação introdutória. Ela não comprova, isoladamente, capacidade de projetar ou proteger arquiteturas complexas em nuvem.
 
-13. AWS Certified Security — Specialty
+## 13. AWS Certified Security — Specialty
 
 **Objetivo avançado**
 
-Organização: Amazon Web Services.
+- Organização: Amazon Web Services.
+- Nível: Especialidade.
+- Exame vigente consultado: SCS-C03.
 
-Nível: Especialidade.
+**Objetivo:** validar conhecimentos avançados de implementação de segurança em ambientes AWS.
 
-Exame vigente consultado: SCS-C03.
-
-Objetivo: validar conhecimentos avançados de implementação de segurança em ambientes AWS.
-
-Conteúdos
+### Conteúdos
 
 - Detecção.
 - Resposta a incidentes.
@@ -442,28 +429,27 @@ Conteúdos
 - Proteção de dados.
 - Fundamentos de segurança e governança.
 
-Recursos oficiais
+### Recursos oficiais
 
 - Certificação: https://aws.amazon.com/certification/certified-security-specialty/
 - Guia do exame: https://docs.aws.amazon.com/aws-certification/latest/security-specialty-03.html
 
-Período planejado: após o período 7, preferencialmente depois de experiência prática consistente com AWS.
+**Período planejado:** após o período 7, preferencialmente depois de experiência prática consistente com AWS.
 
-Atenção: a AWS informa que a versão em português do exame será descontinuada após 31 de dezembro de 2026. Como esta formação se estende por dois anos, será necessário verificar a versão e o idioma disponíveis na data da inscrição.
+**Atenção:** a AWS informa que a versão em português do exame será descontinuada após 31 de dezembro de 2026. Como esta formação se estende por dois anos, será necessário verificar a versão e o idioma disponíveis na data da inscrição.
 
 ---
 
-PARTE VII — CERTIFICAÇÕES AVANÇADAS FUTURAS
+# PARTE VII — CERTIFICAÇÕES AVANÇADAS FUTURAS
 
-14. CISSP — Certified Information Systems Security Professional
+## 14. CISSP — Certified Information Systems Security Professional
 
-Organização: ISC2.
+- Organização: ISC2.
+- Nível: Avançado.
 
-Nível: Avançado.
+**Objetivo:** validar conhecimentos abrangentes de segurança da informação, arquitetura, gestão de riscos e governança.
 
-Objetivo: validar conhecimentos abrangentes de segurança da informação, arquitetura, gestão de riscos e governança.
-
-Áreas de conhecimento
+### Áreas de conhecimento
 
 - Gestão de segurança e riscos.
 - Segurança de ativos.
@@ -474,45 +460,47 @@ Objetivo: validar conhecimentos abrangentes de segurança da informação, arqui
 - Operações de segurança.
 - Segurança no desenvolvimento de software.
 
-Recursos oficiais
+### Recursos oficiais
 
 https://www.isc2.org/certifications/cissp
 
-Planejamento: objetivo de carreira de longo prazo, não meta obrigatória dos primeiros 24 meses.
+**Planejamento:** objetivo de carreira de longo prazo, não meta obrigatória dos primeiros 24 meses.
 
-Observação: exige experiência profissional relevante para a certificação plena. A possibilidade de obter o status de Associate of ISC2 após aprovação no exame, quando aplicável, deve ser verificada nas regras oficiais vigentes.
+**Observação:** exige experiência profissional relevante para a certificação plena. A possibilidade de obter o status de Associate of ISC2 após aprovação no exame, quando aplicável, deve ser verificada nas regras oficiais vigentes.
 
-15. Outras especializações futuras
+## 15. Outras especializações futuras
 
 Conforme a trilha escolhida, poderemos avaliar:
 
-Área| Certificações possíveis
-Segurança ofensiva| OSWE, OSEP, OSED
-Segurança defensiva| OSDA, BTL2
-Cloud Security| AWS Security Specialty, CCSP
-Segurança de aplicações| CSSLP, OSWA
-Auditoria e governança| CISA, CISM
-Gestão de segurança| CISSP, CISM
+| Área | Certificações possíveis |
+|---|---|
+| Segurança ofensiva | OSWE, OSEP, OSED |
+| Segurança defensiva | OSDA, BTL2 |
+| Cloud Security | AWS Security Specialty, CCSP |
+| Segurança de aplicações | CSSLP, OSWA |
+| Auditoria e governança | CISA, CISM |
+| Gestão de segurança | CISSP, CISM |
 
 Essas certificações não fazem parte das metas obrigatórias dos primeiros 24 meses. Serão avaliadas conforme experiência, especialização e objetivos profissionais.
 
 ---
 
-PARTE VIII — CURSOS COM CERTIFICADO DE CONCLUSÃO
+# PARTE VIII — CURSOS COM CERTIFICADO DE CONCLUSÃO
 
-16. Cursos gratuitos e certificados educacionais
+## 16. Cursos gratuitos e certificados educacionais
 
 Os seguintes programas podem complementar a formação:
 
-Curso ou programa| Instituição| Finalidade
-CS50P| Harvard| Programação Python
-CS50x| Harvard| Fundamentos de Ciência da Computação
-Cisco Networking Academy| Cisco| Redes e fundamentos de segurança
-Google Cybersecurity Professional Certificate| Google / Coursera| Fundamentos de segurança e preparação profissional
-AWS Skill Builder| AWS| Fundamentos e prática em nuvem
-Microsoft Learn| Microsoft| Tecnologias e segurança Microsoft
+| Curso ou programa | Instituição | Finalidade |
+|---|---|---|
+| CS50P | Harvard | Programação Python |
+| CS50x | Harvard | Fundamentos de Ciência da Computação |
+| Cisco Networking Academy | Cisco | Redes e fundamentos de segurança |
+| Google Cybersecurity Professional Certificate | Google / Coursera | Fundamentos de segurança e preparação profissional |
+| AWS Skill Builder | AWS | Fundamentos e prática em nuvem |
+| Microsoft Learn | Microsoft | Tecnologias e segurança Microsoft |
 
-Links:
+### Links
 
 - CS50P: https://cs50.harvard.edu/python/
 - CS50x: https://cs50.harvard.edu/x/
@@ -521,25 +509,26 @@ Links:
 - AWS Skill Builder: https://skillbuilder.aws/
 - Microsoft Learn: https://learn.microsoft.com/training/
 
-Importante: um certificado de conclusão de curso comprova participação ou conclusão de uma formação. Não deve ser apresentado como equivalente a uma certificação profissional obtida por exame supervisionado.
+**Importante:** um certificado de conclusão de curso comprova participação ou conclusão de uma formação. Não deve ser apresentado como equivalente a uma certificação profissional obtida por exame supervisionado.
 
 ---
 
-PARTE IX — CRONOGRAMA ESTRATÉGICO
+# PARTE IX — CRONOGRAMA ESTRATÉGICO
 
-17. Distribuição planejada nos 24 meses
+## 17. Distribuição planejada nos 24 meses
 
-Período| Semanas| Estratégia de certificação
-1| 1–13| Construir fundamentos. Não priorizar exames pagos.
-2| 14–26| Consolidar Linux, sistemas operacionais e redes.
-3| 27–39| Avaliar preparação para ISC2 CC ou Cisco CCST.
-4| 40–52| Preparar Security+ e fortalecer AppSec.
-5| 53–65| Avaliar BTL1 e desenvolver competências defensivas.
-6| 66–78| Avaliar PenTest+ ou aprofundar laboratórios ofensivos.
-7| 79–91| Preparar Cloud Practitioner e projetos de cloud security.
-8| 92–104| Avaliar uma certificação alinhada à especialização escolhida.
+| Período | Semanas | Estratégia de certificação |
+|---|---|---|
+| 1 | 1–13 | Construir fundamentos. Não priorizar exames pagos. |
+| 2 | 14–26 | Consolidar Linux, sistemas operacionais e redes. |
+| 3 | 27–39 | Avaliar preparação para ISC2 CC ou Cisco CCST. |
+| 4 | 40–52 | Preparar Security+ e fortalecer AppSec. |
+| 5 | 53–65 | Avaliar BTL1 e desenvolver competências defensivas. |
+| 6 | 66–78 | Avaliar PenTest+ ou aprofundar laboratórios ofensivos. |
+| 7 | 79–91 | Preparar Cloud Practitioner e projetos de cloud security. |
+| 8 | 92–104 | Avaliar uma certificação alinhada à especialização escolhida. |
 
-Meta realista
+### Meta realista
 
 A meta não é obter todas as certificações listadas.
 
@@ -557,9 +546,9 @@ A quantidade de certificações será definida pela qualidade da preparação, n
 
 ---
 
-PARTE X — CRITÉRIOS DE AUTORIZAÇÃO PARA REALIZAR UM EXAME
+# PARTE X — CRITÉRIOS DE AUTORIZAÇÃO PARA REALIZAR UM EXAME
 
-18. Avaliação de prontidão
+## 18. Avaliação de prontidão
 
 Antes de recomendar uma inscrição, serão avaliados:
 
@@ -572,7 +561,7 @@ Antes de recomendar uma inscrição, serão avaliados:
 7. Conhecimento dos limites e requisitos do exame.
 8. Viabilidade financeira.
 
-Critério interno de preparação
+### Critério interno de preparação
 
 Como referência inicial, utilizaremos:
 
@@ -583,37 +572,38 @@ Como referência inicial, utilizaremos:
 
 Esse percentual é um critério pedagógico interno, não uma nota oficial de aprovação.
 
-Decisão final: recomendar a inscrição somente quando houver evidência suficiente de prontidão.
+**Decisão final:** recomendar a inscrição somente quando houver evidência suficiente de prontidão.
 
 ---
 
-PARTE XI — CONTROLE DE CERTIFICAÇÕES
+# PARTE XI — CONTROLE DE CERTIFICAÇÕES
 
-19. Registro individual
+## 19. Registro individual
 
 Cada certificação será acompanhada por este modelo:
 
-Campo| Registro
-Certificação| 
-Instituição| 
-Versão do exame| 
-Objetivo profissional| 
-Período planejado| 
-Pré-requisitos| 
-Conteúdos pendentes| 
-Recursos de preparação| 
-Simulados| 
-Desempenho nos simulados| 
-Laboratórios realizados| 
-Custo estimado| 
-Idioma do exame| 
-Data de inscrição| 
-Data do exame| 
-Resultado| 
-Validade / renovação| 
-Evidências no GitHub| 
+| Campo | Registro |
+|---|---|
+| Certificação | |
+| Instituição | |
+| Versão do exame | |
+| Objetivo profissional | |
+| Período planejado | |
+| Pré-requisitos | |
+| Conteúdos pendentes | |
+| Recursos de preparação | |
+| Simulados | |
+| Desempenho nos simulados | |
+| Laboratórios realizados | |
+| Custo estimado | |
+| Idioma do exame | |
+| Data de inscrição | |
+| Data do exame | |
+| Resultado | |
+| Validade / renovação | |
+| Evidências no GitHub | |
 
-20. Estados de acompanhamento
+## 20. Estados de acompanhamento
 
 - [ ] Não planejada.
 - [ ] Planejada.
@@ -629,16 +619,17 @@ Evidências no GitHub|
 
 Uma certificação somente será marcada como aprovada após confirmação do resultado oficial.
 
-21. Histórico de certificações
+## 21. Histórico de certificações
 
-Data| Certificação| Estado| Evidência
-| | | 
+| Data | Certificação | Estado | Evidência |
+|---|---|---|---|
+| | | | |
 
 ---
 
-PARTE XII — POLÍTICA FINANCEIRA
+# PARTE XII — POLÍTICA FINANCEIRA
 
-22. Controle de custos
+## 22. Controle de custos
 
 Os exames e treinamentos pagos poderão representar um investimento considerável.
 
@@ -655,15 +646,11 @@ Antes de qualquer inscrição, registrar:
 - Validade da certificação.
 - Custos de renovação.
 
-Não assumir que um curso gratuito oferece gratuitamente o exame de certificação.
-
-Os preços não serão fixados neste documento porque podem mudar. A confirmação será feita diretamente no site da instituição antes da inscrição.
-
 ---
 
-PARTE XIII — REVISÃO E ATUALIZAÇÃO
+# PARTE XIII — REVISÃO E ATUALIZAÇÃO
 
-23. Revisão periódica
+## 23. Revisão periódica
 
 Este documento será revisado:
 
@@ -676,20 +663,20 @@ Este documento será revisado:
 
 As páginas oficiais das instituições prevalecerão sobre informações de terceiros.
 
-24. Próxima ação
+## 24. Próxima ação
 
-Estado atual: nenhuma certificação profissional está declarada como aprovada.
+**Estado atual:** nenhuma certificação profissional está declarada como aprovada.
 
-Prioridade imediata: continuar a formação básica, consolidar Python, Linux, lógica e redes.
+**Prioridade imediata:** continuar a formação básica, consolidar Python, Linux, lógica e redes.
 
-Próxima decisão: avaliar a preparação para ISC2 CC ou Cisco CCST Cybersecurity somente depois de demonstrar domínio dos fundamentos necessários.
+**Próxima decisão:** avaliar a preparação para ISC2 CC ou Cisco CCST Cybersecurity somente depois de demonstrar domínio dos fundamentos necessários.
 
 ---
 
-25. Princípio profissional
+## 25. Princípio profissional
 
 Certificações podem abrir portas, mas não substituem competência.
 
 O objetivo desta formação é desenvolver um profissional capaz de compreender sistemas, construir soluções, identificar riscos, investigar incidentes, testar controles e comunicar resultados com rigor técnico.
 
-A certificação será consequência da competência demonstrada — nunca um substituto para ela.
+**A certificação será consequência da competência demonstrada — nunca um substituto para ela.**
