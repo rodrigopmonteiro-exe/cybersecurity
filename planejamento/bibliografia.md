@@ -1,12 +1,12 @@
-BIBLIOGRAFIA
+# BIBLIOGRAFIA
 
-Formação Completa em Ciência da Computação e Cibersegurança — 24 Meses
+**Formação Completa em Ciência da Computação e Cibersegurança — 24 Meses**
 
-Documento de referências acadêmicas, técnicas e práticas
+*Documento de referências acadêmicas, técnicas e práticas*
 
 ---
 
-1. Objetivo
+## 1. Objetivo
 
 Este documento reúne as principais referências utilizadas na formação em Ciência da Computação e Cibersegurança.
 
@@ -29,7 +29,7 @@ A bibliografia foi organizada de acordo com os oito períodos do programa de 24 
 
 A lista não representa uma obrigação de ler todos os materiais integralmente. As referências serão selecionadas conforme o conteúdo de cada aula, a necessidade de aprofundamento e as avaliações.
 
-2. Critérios de seleção
+## 2. Critérios de seleção
 
 As fontes foram selecionadas considerando:
 
@@ -41,21 +41,21 @@ As fontes foram selecionadas considerando:
 6. Compatibilidade com a progressão do estudante.
 7. Disponibilidade de conteúdo em inglês para desenvolver vocabulário técnico.
 
-Prioridade de estudo:
+### Prioridade de estudo
 
-- Prioridade A: material principal, recomendado para estudo obrigatório quando indicado na aula.
-- Prioridade B: material complementar, utilizado para aprofundamento.
-- Prioridade C: material avançado, utilizado em projetos, especializações e pesquisas.
+- **Prioridade A:** material principal, recomendado para estudo obrigatório quando indicado na aula.
+- **Prioridade B:** material complementar, utilizado para aprofundamento.
+- **Prioridade C:** material avançado, utilizado em projetos, especializações e pesquisas.
 
 ---
 
-PARTE I — FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO
+# PARTE I — FUNDAMENTOS DE CIÊNCIA DA COMPUTAÇÃO
 
-3. Programação e Python
+## 3. Programação e Python
 
-Livros e materiais principais
+### Livros e materiais principais
 
-1. Python for Everybody — Charles Severance
+**1. Python for Everybody — Charles Severance**
 
 - Autor: Charles R. Severance.
 - Conteúdo: fundamentos de programação, variáveis, funções, estruturas condicionais, repetições, arquivos e processamento de dados.
@@ -64,7 +64,7 @@ Livros e materiais principais
 
 https://www.py4e.com/
 
-2. Think Python — Allen B. Downey
+**2. Think Python — Allen B. Downey**
 
 - Conteúdo: pensamento computacional, funções, estruturas de dados, recursão e programação orientada a objetos.
 - Prioridade: A.
@@ -72,7 +72,7 @@ https://www.py4e.com/
 
 https://greenteapress.com/wp/think-python-3rd-edition/
 
-3. Python Documentation
+**3. Python Documentation**
 
 - Instituição: Python Software Foundation.
 - Conteúdo: sintaxe, estruturas de dados, módulos, exceções, bibliotecas e referência da linguagem.
@@ -81,7 +81,7 @@ https://greenteapress.com/wp/think-python-3rd-edition/
 
 https://docs.python.org/3/
 
-4. Automate the Boring Stuff with Python — Al Sweigart
+**4. Automate the Boring Stuff with Python — Al Sweigart**
 
 - Conteúdo: automação de tarefas, arquivos, processamento de dados e scripts.
 - Prioridade: B.
@@ -89,9 +89,9 @@ https://docs.python.org/3/
 
 https://automatetheboringstuff.com/
 
-Cursos universitários
+### Cursos universitários
 
-CS50's Introduction to Programming with Python
+**CS50's Introduction to Programming with Python**
 
 - Instituição: Harvard University.
 - Conteúdo: programação, funções, condicionais, loops, exceções, bibliotecas e testes.
@@ -100,9 +100,9 @@ CS50's Introduction to Programming with Python
 
 https://cs50.harvard.edu/python/
 
-4. Algoritmos e estruturas de dados
+## 4. Algoritmos e estruturas de dados
 
-1. OpenDSA
+**1. OpenDSA**
 
 - Conteúdo: estruturas de dados, algoritmos, árvores, grafos, ordenação e análise de algoritmos.
 - Prioridade: A.
@@ -110,13 +110,13 @@ https://cs50.harvard.edu/python/
 
 https://opendsa-server.cs.vt.edu/
 
-2. Introduction to Algorithms — Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest e Clifford Stein
+**2. Introduction to Algorithms — Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest e Clifford Stein**
 
 - Conteúdo: análise de algoritmos, estruturas de dados, grafos, programação dinâmica e otimização.
 - Prioridade: B.
 - Referência acadêmica avançada.
 
-3. VisuAlgo
+**3. VisuAlgo**
 
 - Conteúdo: visualização de algoritmos e estruturas de dados.
 - Prioridade: B.
@@ -124,9 +124,9 @@ https://opendsa-server.cs.vt.edu/
 
 https://visualgo.net/
 
-5. Matemática discreta e lógica
+## 5. Matemática discreta e lógica
 
-1. MIT OpenCourseWare — Mathematics for Computer Science
+**1. MIT OpenCourseWare — Mathematics for Computer Science**
 
 - Instituição: Massachusetts Institute of Technology.
 - Conteúdo: lógica, provas matemáticas, conjuntos, relações, funções, indução, combinatória, grafos e probabilidade discreta.
@@ -135,13 +135,13 @@ https://visualgo.net/
 
 https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/
 
-2. Discrete Mathematics and Its Applications — Kenneth H. Rosen
+**2. Discrete Mathematics and Its Applications — Kenneth H. Rosen**
 
 - Conteúdo: lógica proposicional, conjuntos, relações, funções, teoria dos números, combinatória e grafos.
 - Prioridade: B.
 - Referência universitária.
 
-3. Mathematics for Computer Science — Eric Lehman, F. Thomson Leighton e Albert R. Meyer
+**3. Mathematics for Computer Science — Eric Lehman, F. Thomson Leighton e Albert R. Meyer**
 
 - Conteúdo: fundamentos matemáticos utilizados na Ciência da Computação.
 - Prioridade: A.
@@ -149,9 +149,9 @@ https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/
 
 https://courses.csail.mit.edu/6.042/spring18/mcs.pdf
 
-6. Sistemas digitais e arquitetura de computadores
+## 6. Sistemas digitais e arquitetura de computadores
 
-1. Nand2Tetris
+**1. Nand2Tetris**
 
 - Conteúdo: portas lógicas, circuitos digitais, arquitetura de computadores, linguagem de máquina, assembler e construção de um computador.
 - Prioridade: A.
@@ -159,23 +159,23 @@ https://courses.csail.mit.edu/6.042/spring18/mcs.pdf
 
 https://www.nand2tetris.org/
 
-2. Digital Design and Computer Architecture — David Money Harris e Sarah L. Harris
+**2. Digital Design and Computer Architecture — David Money Harris e Sarah L. Harris**
 
 - Conteúdo: lógica digital, processadores, arquitetura e organização de computadores.
 - Prioridade: B.
 
-3. Computer Organization and Design — David A. Patterson e John L. Hennessy
+**3. Computer Organization and Design — David A. Patterson e John L. Hennessy**
 
 - Conteúdo: organização de computadores, processadores, memória e arquitetura.
 - Prioridade: B.
 
 ---
 
-PARTE II — SISTEMAS OPERACIONAIS E REDES
+# PARTE II — SISTEMAS OPERACIONAIS E REDES
 
-7. Linux e sistemas operacionais
+## 7. Linux e sistemas operacionais
 
-1. The Linux Command Line — William Shotts
+**1. The Linux Command Line — William Shotts**
 
 - Conteúdo: terminal, comandos, arquivos, permissões, processos, shell scripting e administração básica.
 - Prioridade: A.
@@ -183,7 +183,7 @@ PARTE II — SISTEMAS OPERACIONAIS E REDES
 
 https://linuxcommand.org/tlcl.php
 
-2. Linux Journey
+**2. Linux Journey**
 
 - Conteúdo: fundamentos de Linux, linha de comando, permissões, processos, gerenciamento de pacotes e administração.
 - Prioridade: A.
@@ -191,7 +191,7 @@ https://linuxcommand.org/tlcl.php
 
 https://linuxjourney.com/
 
-3. Linux man-pages
+**3. Linux man-pages**
 
 - Conteúdo: documentação técnica oficial das interfaces e chamadas de sistema Linux.
 - Prioridade: A.
@@ -199,7 +199,7 @@ https://linuxjourney.com/
 
 https://www.man7.org/linux/man-pages/
 
-4. Operating Systems: Three Easy Pieces
+**4. Operating Systems: Three Easy Pieces**
 
 - Autores: Remzi H. Arpaci-Dusseau e Andrea C. Arpaci-Dusseau.
 - Conteúdo: virtualização, concorrência, memória, processos e armazenamento.
@@ -208,22 +208,22 @@ https://www.man7.org/linux/man-pages/
 
 https://pages.cs.wisc.edu/~remzi/OSTEP/
 
-5. The Linux Documentation Project
+**5. The Linux Documentation Project**
 
 - Conteúdo: documentação e guias sobre sistemas Linux.
 - Prioridade: B.
 
 https://tldp.org/
 
-8. Redes de computadores
+## 8. Redes de computadores
 
-1. Computer Networking: A Top-Down Approach — James Kurose e Keith Ross
+**1. Computer Networking: A Top-Down Approach — James Kurose e Keith Ross**
 
 - Conteúdo: arquitetura de redes, protocolos, HTTP, DNS, TCP, UDP, roteamento e segurança.
 - Prioridade: A.
 - Referência universitária.
 
-2. Cisco Networking Academy
+**2. Cisco Networking Academy**
 
 - Conteúdo: fundamentos de redes, endereçamento IP, equipamentos, protocolos e infraestrutura.
 - Prioridade: A.
@@ -231,7 +231,7 @@ https://tldp.org/
 
 https://www.netacad.com/
 
-3. Cloudflare Learning Center
+**3. Cloudflare Learning Center**
 
 - Conteúdo: DNS, HTTP, HTTPS, TCP/IP, TLS, CDN, ataques de rede e conceitos de segurança.
 - Prioridade: A.
@@ -239,7 +239,7 @@ https://www.netacad.com/
 
 https://www.cloudflare.com/learning/
 
-4. Wireshark Documentation
+**4. Wireshark Documentation**
 
 - Conteúdo: captura, análise e interpretação de tráfego de rede.
 - Prioridade: A.
@@ -247,7 +247,7 @@ https://www.cloudflare.com/learning/
 
 https://www.wireshark.org/docs/
 
-5. RFC Editor
+**5. RFC Editor**
 
 - Conteúdo: especificações técnicas de protocolos e padrões da Internet.
 - Prioridade: B.
@@ -255,7 +255,7 @@ https://www.wireshark.org/docs/
 
 https://www.rfc-editor.org/
 
-9. Protocolos e ferramentas de rede
+## 9. Protocolos e ferramentas de rede
 
 Referências práticas:
 
@@ -265,17 +265,17 @@ Referências práticas:
 - OpenSSH Manual: https://www.openssh.com/manual.html
 - Linux iproute2 Documentation: https://www.kernel.org/doc/Documentation/networking/
 
-Prioridade: A.
+**Prioridade:** A.
 
 O uso das ferramentas de reconhecimento e análise será realizado em ambientes próprios, laboratórios ou sistemas com autorização explícita.
 
 ---
 
-PARTE III — FUNDAMENTOS DE SEGURANÇA DA INFORMAÇÃO
+# PARTE III — FUNDAMENTOS DE SEGURANÇA DA INFORMAÇÃO
 
-10. Fundamentos de cibersegurança
+## 10. Fundamentos de cibersegurança
 
-1. NIST Cybersecurity Framework 2.0
+**1. NIST Cybersecurity Framework 2.0**
 
 - Instituição: National Institute of Standards and Technology.
 - Conteúdo: governança, identificação, proteção, detecção, resposta e recuperação.
@@ -284,7 +284,7 @@ PARTE III — FUNDAMENTOS DE SEGURANÇA DA INFORMAÇÃO
 
 https://www.nist.gov/cyberframework
 
-2. CIS Critical Security Controls
+**2. CIS Critical Security Controls**
 
 - Instituição: Center for Internet Security.
 - Conteúdo: controles prioritários de segurança, gestão de ativos, proteção, monitoramento e resposta.
@@ -293,7 +293,7 @@ https://www.nist.gov/cyberframework
 
 https://www.cisecurity.org/controls
 
-3. CISA — Cybersecurity Resources
+**3. CISA — Cybersecurity Resources**
 
 - Instituição: Cybersecurity and Infrastructure Security Agency.
 - Conteúdo: recomendações, alertas, práticas defensivas e segurança de infraestrutura.
@@ -302,7 +302,7 @@ https://www.cisecurity.org/controls
 
 https://www.cisa.gov/cybersecurity
 
-4. Security Engineering — Ross Anderson
+**4. Security Engineering — Ross Anderson**
 
 - Conteúdo: princípios de engenharia de segurança, sistemas, criptografia, autenticação, infraestrutura e modelos de ameaça.
 - Prioridade: B.
@@ -310,19 +310,19 @@ https://www.cisa.gov/cybersecurity
 
 https://www.cl.cam.ac.uk/~rja14/book.html
 
-11. Criptografia
+## 11. Criptografia
 
-1. Serious Cryptography — Jean-Philippe Aumasson
+**1. Serious Cryptography — Jean-Philippe Aumasson**
 
 - Conteúdo: conceitos e aplicações práticas de criptografia moderna.
 - Prioridade: B.
 
-2. Cryptography Engineering — Niels Ferguson, Bruce Schneier e Tadayoshi Kohno
+**2. Cryptography Engineering — Niels Ferguson, Bruce Schneier e Tadayoshi Kohno**
 
 - Conteúdo: projeto e implementação de sistemas criptográficos.
 - Prioridade: B.
 
-3. Cryptography I — Dan Boneh
+**3. Cryptography I — Dan Boneh**
 
 - Instituição: Stanford University.
 - Conteúdo: criptografia simétrica, criptografia de chave pública, assinaturas e protocolos.
@@ -331,7 +331,7 @@ https://www.cl.cam.ac.uk/~rja14/book.html
 
 https://www.coursera.org/learn/crypto
 
-4. OWASP Cryptographic Storage Cheat Sheet
+**4. OWASP Cryptographic Storage Cheat Sheet**
 
 - Conteúdo: armazenamento seguro de dados e boas práticas criptográficas.
 - Prioridade: A.
@@ -341,11 +341,11 @@ https://cheatsheetseries.owasp.org/
 
 ---
 
-PARTE IV — DESENVOLVIMENTO SEGURO E SEGURANÇA DE APLICAÇÕES
+# PARTE IV — DESENVOLVIMENTO SEGURO E SEGURANÇA DE APLICAÇÕES
 
-12. Desenvolvimento web
+## 12. Desenvolvimento web
 
-1. MDN Web Docs
+**1. MDN Web Docs**
 
 - Conteúdo: HTML, CSS, JavaScript, HTTP, APIs e fundamentos de desenvolvimento web.
 - Prioridade: A.
@@ -353,7 +353,7 @@ PARTE IV — DESENVOLVIMENTO SEGURO E SEGURANÇA DE APLICAÇÕES
 
 https://developer.mozilla.org/
 
-2. The Odin Project
+**2. The Odin Project**
 
 - Conteúdo: desenvolvimento web, programação, Git, JavaScript e projetos práticos.
 - Prioridade: B.
@@ -361,7 +361,7 @@ https://developer.mozilla.org/
 
 https://www.theodinproject.com/
 
-3. Full Stack Open
+**3. Full Stack Open**
 
 - Instituição: University of Helsinki.
 - Conteúdo: desenvolvimento web moderno, APIs, React, Node.js, testes e bancos de dados.
@@ -370,9 +370,9 @@ https://www.theodinproject.com/
 
 https://fullstackopen.com/en/
 
-13. Segurança de aplicações — AppSec
+## 13. Segurança de aplicações — AppSec
 
-1. OWASP Top 10
+**1. OWASP Top 10**
 
 - Conteúdo: principais categorias de riscos de segurança em aplicações web.
 - Prioridade: A.
@@ -380,7 +380,7 @@ https://fullstackopen.com/en/
 
 https://owasp.org/www-project-top-ten/
 
-2. OWASP Web Security Testing Guide
+**2. OWASP Web Security Testing Guide**
 
 - Conteúdo: metodologia de testes de segurança em aplicações web.
 - Prioridade: A.
@@ -388,7 +388,7 @@ https://owasp.org/www-project-top-ten/
 
 https://owasp.org/www-project-web-security-testing-guide/
 
-3. OWASP Application Security Verification Standard — ASVS
+**3. OWASP Application Security Verification Standard — ASVS**
 
 - Conteúdo: requisitos verificáveis de segurança para aplicações.
 - Prioridade: A.
@@ -396,7 +396,7 @@ https://owasp.org/www-project-web-security-testing-guide/
 
 https://owasp.org/www-project-application-security-verification-standard/
 
-4. PortSwigger Web Security Academy
+**4. PortSwigger Web Security Academy**
 
 - Conteúdo: SQL injection, XSS, autenticação, controle de acesso, SSRF, CSRF e outras vulnerabilidades.
 - Prioridade: A.
@@ -404,7 +404,7 @@ https://owasp.org/www-project-application-security-verification-standard/
 
 https://portswigger.net/web-security
 
-5. Secure Software Development Framework — NIST SP 800-218
+**5. Secure Software Development Framework — NIST SP 800-218**
 
 - Instituição: NIST.
 - Conteúdo: práticas de desenvolvimento seguro de software.
@@ -415,11 +415,11 @@ https://csrc.nist.gov/pubs/sp/800/218/final
 
 ---
 
-PARTE V — SEGURANÇA DEFENSIVA E OPERAÇÕES
+# PARTE V — SEGURANÇA DEFENSIVA E OPERAÇÕES
 
-14. SOC, SIEM e monitoramento
+## 14. SOC, SIEM e monitoramento
 
-1. Splunk Education
+**1. Splunk Education**
 
 - Conteúdo: pesquisa, análise de logs, monitoramento e fundamentos de SIEM.
 - Prioridade: A.
@@ -427,7 +427,7 @@ PARTE V — SEGURANÇA DEFENSIVA E OPERAÇÕES
 
 https://www.splunk.com/en_us/training.html
 
-2. Elastic Security Documentation
+**2. Elastic Security Documentation**
 
 - Conteúdo: monitoramento, detecção, análise de eventos e segurança de endpoints.
 - Prioridade: A.
@@ -435,7 +435,7 @@ https://www.splunk.com/en_us/training.html
 
 https://www.elastic.co/guide/en/security/current/index.html
 
-3. Wazuh Documentation
+**3. Wazuh Documentation**
 
 - Conteúdo: monitoramento de integridade, detecção de ameaças, análise de logs e segurança de endpoints.
 - Prioridade: A.
@@ -443,7 +443,7 @@ https://www.elastic.co/guide/en/security/current/index.html
 
 https://documentation.wazuh.com/
 
-4. MITRE ATT&CK
+**4. MITRE ATT&CK**
 
 - Conteúdo: táticas, técnicas e procedimentos utilizados por adversários.
 - Prioridade: A.
@@ -451,9 +451,9 @@ https://documentation.wazuh.com/
 
 https://attack.mitre.org/
 
-15. Resposta a incidentes e forense digital
+## 15. Resposta a incidentes e forense digital
 
-1. NIST SP 800-61 Rev. 3 — Incident Response Recommendations and Considerations for Cybersecurity Risk Management
+**1. NIST SP 800-61 Rev. 3 — Incident Response Recommendations and Considerations for Cybersecurity Risk Management**
 
 - Instituição: NIST.
 - Conteúdo: preparação, detecção, resposta, recuperação e integração com gestão de riscos.
@@ -462,7 +462,7 @@ https://attack.mitre.org/
 
 https://csrc.nist.gov/pubs/sp/800/61/r3/final
 
-2. Autopsy Documentation
+**2. Autopsy Documentation**
 
 - Conteúdo: investigação forense digital e análise de evidências.
 - Prioridade: A.
@@ -470,7 +470,7 @@ https://csrc.nist.gov/pubs/sp/800/61/r3/final
 
 https://www.autopsy.com/support/
 
-3. Volatility 3 Documentation
+**3. Volatility 3 Documentation**
 
 - Conteúdo: análise forense de memória.
 - Prioridade: B.
@@ -478,7 +478,7 @@ https://www.autopsy.com/support/
 
 https://volatility3.readthedocs.io/
 
-4. Digital Forensics Frameworks and Guidance — NIST
+**4. Digital Forensics Frameworks and Guidance — NIST**
 
 - Conteúdo: publicações e orientações sobre investigação digital e evidências.
 - Prioridade: B.
@@ -487,25 +487,25 @@ https://www.nist.gov/
 
 ---
 
-PARTE VI — SEGURANÇA OFENSIVA E TESTES DE INTRUSÃO
+# PARTE VI — SEGURANÇA OFENSIVA E TESTES DE INTRUSÃO
 
-16. Metodologia de pentesting
+## 16. Metodologia de pentesting
 
-1. OWASP Web Security Testing Guide
+**1. OWASP Web Security Testing Guide**
 
 - Conteúdo: metodologia de testes em aplicações web.
 - Prioridade: A.
 
 https://owasp.org/www-project-web-security-testing-guide/
 
-2. Penetration Testing Execution Standard — PTES
+**2. Penetration Testing Execution Standard — PTES**
 
 - Conteúdo: pré-engajamento, coleta de informações, modelagem de ameaças, análise de vulnerabilidades, exploração e relatório.
 - Prioridade: A.
 
 http://www.pentest-standard.org/
 
-3. NIST SP 800-115 — Technical Guide to Information Security Testing and Assessment
+**3. NIST SP 800-115 — Technical Guide to Information Security Testing and Assessment**
 
 - Conteúdo: planejamento e execução de testes técnicos de segurança.
 - Prioridade: A.
@@ -513,9 +513,9 @@ http://www.pentest-standard.org/
 
 https://csrc.nist.gov/pubs/sp/800/115/final
 
-17. Laboratórios de segurança ofensiva
+## 17. Laboratórios de segurança ofensiva
 
-1. TryHackMe
+**1. TryHackMe**
 
 - Conteúdo: laboratórios guiados de Linux, redes, segurança, SOC e pentesting.
 - Prioridade: A.
@@ -523,7 +523,7 @@ https://csrc.nist.gov/pubs/sp/800/115/final
 
 https://tryhackme.com/
 
-2. Hack The Box Academy
+**2. Hack The Box Academy**
 
 - Conteúdo: fundamentos técnicos, Linux, redes, pentesting e segurança ofensiva.
 - Prioridade: A.
@@ -531,7 +531,7 @@ https://tryhackme.com/
 
 https://academy.hackthebox.com/
 
-3. OverTheWire — Wargames
+**3. OverTheWire — Wargames**
 
 - Conteúdo: desafios progressivos de Linux, shell, segurança e exploração.
 - Prioridade: A.
@@ -539,14 +539,14 @@ https://academy.hackthebox.com/
 
 https://overthewire.org/wargames/
 
-4. Metasploitable
+**4. Metasploitable**
 
 - Conteúdo: ambiente intencionalmente vulnerável para treinamento controlado.
 - Prioridade: B.
 
 https://docs.rapid7.com/metasploit/metasploitable-2/
 
-5. OWASP Juice Shop
+**5. OWASP Juice Shop**
 
 - Conteúdo: aplicação web vulnerável para treinamento de AppSec.
 - Prioridade: A.
@@ -554,15 +554,15 @@ https://docs.rapid7.com/metasploit/metasploitable-2/
 
 https://owasp.org/www-project-juice-shop/
 
-Regra de segurança: todos os testes ofensivos deverão ocorrer em laboratórios, sistemas próprios ou ambientes para os quais exista autorização explícita. Não realizar varreduras, exploração ou testes em sistemas de terceiros sem autorização.
+**Regra de segurança:** todos os testes ofensivos deverão ocorrer em laboratórios, sistemas próprios ou ambientes para os quais exista autorização explícita. Não realizar varreduras, exploração ou testes em sistemas de terceiros sem autorização.
 
 ---
 
-PARTE VII — CLOUD, CONTAINERS E DEVSECOPS
+# PARTE VII — CLOUD, CONTAINERS E DEVSECOPS
 
-18. Computação em nuvem
+## 18. Computação em nuvem
 
-1. AWS Skill Builder
+**1. AWS Skill Builder**
 
 - Conteúdo: fundamentos de nuvem, arquitetura, segurança e serviços AWS.
 - Prioridade: A.
@@ -570,7 +570,7 @@ PARTE VII — CLOUD, CONTAINERS E DEVSECOPS
 
 https://skillbuilder.aws/
 
-2. Microsoft Learn — Azure
+**2. Microsoft Learn — Azure**
 
 - Conteúdo: fundamentos de cloud computing, identidade, redes e segurança Azure.
 - Prioridade: A.
@@ -578,7 +578,7 @@ https://skillbuilder.aws/
 
 https://learn.microsoft.com/training/azure/
 
-3. Google Cloud Documentation
+**3. Google Cloud Documentation**
 
 - Conteúdo: arquitetura, identidade, redes, serviços e segurança em nuvem.
 - Prioridade: A.
@@ -586,16 +586,16 @@ https://learn.microsoft.com/training/azure/
 
 https://cloud.google.com/docs
 
-4. AWS Well-Architected Framework — Security Pillar
+**4. AWS Well-Architected Framework — Security Pillar**
 
 - Conteúdo: princípios de arquitetura segura em nuvem.
 - Prioridade: A.
 
 https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html
 
-19. Containers e DevSecOps
+## 19. Containers e DevSecOps
 
-1. Docker Documentation
+**1. Docker Documentation**
 
 - Conteúdo: imagens, containers, redes, volumes e segurança.
 - Prioridade: A.
@@ -603,7 +603,7 @@ https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html
 
 https://docs.docker.com/
 
-2. Kubernetes Documentation
+**2. Kubernetes Documentation**
 
 - Conteúdo: arquitetura, implantação, orquestração e segurança de clusters.
 - Prioridade: B.
@@ -611,7 +611,7 @@ https://docs.docker.com/
 
 https://kubernetes.io/docs/
 
-3. GitHub Actions Documentation
+**3. GitHub Actions Documentation**
 
 - Conteúdo: automação de workflows, CI/CD e integração de verificações de segurança.
 - Prioridade: A.
@@ -619,14 +619,14 @@ https://kubernetes.io/docs/
 
 https://docs.github.com/actions
 
-4. OWASP Software Component Verification Standard e Dependency-Check
+**4. OWASP Software Component Verification Standard e Dependency-Check**
 
 - Conteúdo: riscos de dependências e componentes de software.
 - Prioridade: B.
 
 https://owasp.org/
 
-5. SLSA — Supply-chain Levels for Software Artifacts
+**5. SLSA — Supply-chain Levels for Software Artifacts**
 
 - Conteúdo: segurança da cadeia de suprimentos de software.
 - Prioridade: B.
@@ -635,32 +635,32 @@ https://slsa.dev/
 
 ---
 
-PARTE VIII — PESQUISA, ESPECIALIZAÇÃO E DESENVOLVIMENTO PROFISSIONAL
+# PARTE VIII — PESQUISA, ESPECIALIZAÇÃO E DESENVOLVIMENTO PROFISSIONAL
 
-20. Pesquisa e leitura técnica
+## 20. Pesquisa e leitura técnica
 
-1. Google Scholar
+**1. Google Scholar**
 
 - Finalidade: pesquisa de artigos acadêmicos, publicações e citações.
 - Prioridade: A.
 
 https://scholar.google.com/
 
-2. arXiv — Computer Science
+**2. arXiv — Computer Science**
 
 - Finalidade: artigos e pesquisas em Ciência da Computação.
 - Prioridade: B.
 
 https://arxiv.org/
 
-3. USENIX Security Symposium
+**3. USENIX Security Symposium**
 
 - Finalidade: pesquisas acadêmicas em segurança de sistemas e redes.
 - Prioridade: B.
 
 https://www.usenix.org/conferences/byname/108
 
-4. IEEE Xplore
+**4. IEEE Xplore**
 
 - Finalidade: artigos científicos e publicações técnicas.
 - Prioridade: B.
@@ -668,7 +668,7 @@ https://www.usenix.org/conferences/byname/108
 
 https://ieeexplore.ieee.org/
 
-5. ACM Digital Library
+**5. ACM Digital Library**
 
 - Finalidade: pesquisas acadêmicas em computação e segurança.
 - Prioridade: B.
@@ -676,34 +676,34 @@ https://ieeexplore.ieee.org/
 
 https://dl.acm.org/
 
-21. Inglês técnico
+## 21. Inglês técnico
 
 O inglês será desenvolvido continuamente durante os 24 meses.
 
-Referências
+### Referências
 
-1. Cambridge Dictionary
+**1. Cambridge Dictionary**
 
 - Finalidade: vocabulário, pronúncia e exemplos de uso.
 - Prioridade: A.
 
 https://dictionary.cambridge.org/
 
-2. Oxford Learner's Dictionaries
+**2. Oxford Learner's Dictionaries**
 
 - Finalidade: definições e exemplos de vocabulário.
 - Prioridade: A.
 
 https://www.oxfordlearnersdictionaries.com/
 
-3. BBC Learning English
+**3. BBC Learning English**
 
 - Finalidade: compreensão auditiva, vocabulário e gramática.
 - Prioridade: B.
 
 https://www.bbc.co.uk/learningenglish
 
-4. Technical documentation in English
+**4. Technical documentation in English**
 
 Documentações que deverão ser lidas progressivamente:
 
@@ -713,7 +713,7 @@ Documentações que deverão ser lidas progressivamente:
 - OWASP: https://owasp.org/
 - NIST: https://www.nist.gov/cybersecurity
 
-Atividades obrigatórias
+### Atividades obrigatórias
 
 - Aprender vocabulário técnico em cada semana.
 - Ler documentação original em inglês.
@@ -723,23 +723,24 @@ Atividades obrigatórias
 
 ---
 
-PARTE IX — PLANO DE UTILIZAÇÃO DA BIBLIOGRAFIA
+# PARTE IX — PLANO DE UTILIZAÇÃO DA BIBLIOGRAFIA
 
-22. Distribuição por período
+## 22. Distribuição por período
 
-Período| Semanas| Referências principais
-1| 1–13| Python for Everybody, Think Python, MIT Mathematics for Computer Science, CS50P, Nand2Tetris
-2| 14–26| The Linux Command Line, OSTEP, Linux Journey, Kurose & Ross, Cisco Networking Academy
-3| 27–39| Python Documentation, OpenDSA, NIST CSF, CIS Controls, Cryptography I
-4| 40–52| MDN, OWASP Top 10, OWASP WSTG, ASVS, PortSwigger Academy
-5| 53–65| NIST SP 800-61 Rev. 3, MITRE ATT&CK, Wazuh, Elastic Security, Splunk
-6| 66–78| PTES, NIST SP 800-115, Nmap, TryHackMe, HTB Academy, OverTheWire
-7| 79–91| AWS Skill Builder, Microsoft Learn, Docker, Kubernetes, SLSA
-8| 92–104| Security Engineering, pesquisas acadêmicas, documentação avançada e referências da especialização escolhida
+| Período | Semanas | Referências principais |
+|---|---|---|
+| 1 | 1–13 | Python for Everybody, Think Python, MIT Mathematics for Computer Science, CS50P, Nand2Tetris |
+| 2 | 14–26 | The Linux Command Line, OSTEP, Linux Journey, Kurose & Ross, Cisco Networking Academy |
+| 3 | 27–39 | Python Documentation, OpenDSA, NIST CSF, CIS Controls, Cryptography I |
+| 4 | 40–52 | MDN, OWASP Top 10, OWASP WSTG, ASVS, PortSwigger Academy |
+| 5 | 53–65 | NIST SP 800-61 Rev. 3, MITRE ATT&CK, Wazuh, Elastic Security, Splunk |
+| 6 | 66–78 | PTES, NIST SP 800-115, Nmap, TryHackMe, HTB Academy, OverTheWire |
+| 7 | 79–91 | AWS Skill Builder, Microsoft Learn, Docker, Kubernetes, SLSA |
+| 8 | 92–104 | Security Engineering, pesquisas acadêmicas, documentação avançada e referências da especialização escolhida |
 
 A distribuição é orientativa. Referências poderão ser antecipadas ou adiadas de acordo com os pré-requisitos e as avaliações.
 
-23. Método de estudo das referências
+## 23. Método de estudo das referências
 
 Para cada assunto, utilizar o seguinte processo:
 
@@ -751,7 +752,7 @@ Para cada assunto, utilizar o seguinte processo:
 6. Produzir um resumo técnico em Markdown.
 7. Demonstrar compreensão por meio de avaliação independente.
 
-Regra contra excesso de material
+### Regra contra excesso de material
 
 Não estudar vários livros simultaneamente sobre o mesmo assunto sem necessidade.
 
@@ -764,7 +765,7 @@ Para cada módulo, selecionar:
 
 A profundidade do estudo será determinada pelos objetivos de aprendizagem e pelos resultados das avaliações.
 
-24. Política de atualização bibliográfica
+## 24. Política de atualização bibliográfica
 
 A bibliografia será revisada periodicamente.
 
@@ -778,18 +779,19 @@ Atualizar quando:
 
 Materiais normativos, como publicações NIST e padrões OWASP, deverão ser consultados em suas versões oficiais vigentes.
 
-25. Registro de leituras e referências utilizadas
+## 25. Registro de leituras e referências utilizadas
 
 Para manter rastreabilidade, cada material efetivamente utilizado deverá ser registrado:
 
-Data| Referência| Assunto| Tipo de uso| Status
-| | | Principal / Complementar / Consulta| Não iniciado / Em andamento / Concluído
+| Data | Referência | Assunto | Tipo de uso | Status |
+|---|---|---|---|---|
+| | | | Principal / Complementar / Consulta | Não iniciado / Em andamento / Concluído |
 
 Não marcar uma referência como concluída apenas por ter sido aberta ou consultada superficialmente.
 
 ---
 
-26. Princípio acadêmico
+## 26. Princípio acadêmico
 
 A qualidade da formação não será medida pela quantidade de livros, cursos ou links acumulados.
 
@@ -805,4 +807,4 @@ Será medida pela capacidade de:
 - Produzir documentação técnica de qualidade.
 - Defender decisões com argumentos e evidências.
 
-Objetivo final: construir uma base sólida em Ciência da Computação e desenvolver competências avançadas em Cibersegurança, sustentadas por conhecimento acadêmico, prática técnica, pesquisa e projetos verificáveis.
+**Objetivo final:** construir uma base sólida em Ciência da Computação e desenvolver competências avançadas em Cibersegurança, sustentadas por conhecimento acadêmico, prática técnica, pesquisa e projetos verificáveis.
