@@ -1,874 +1,814 @@
-Cybersecurity and Computer Science Curriculum
+# FORMAÇÃO EM CIBERSEGURANÇA
+## Grade Curricular Oficial — Plano de 24 Meses
 
-24-Month Integrated Curriculum
-
-Program duration: 24 months
-Structure: 8 academic periods
-Duration per period: 3 months
-Estimated workload: 15–17 hours per week
-Estimated total workload: 1,560–1,768 hours
-Starting level: Beginner
-
----
-
-1. Curriculum Structure
-
-The curriculum integrates Computer Science, Mathematics, Programming, Systems Administration, Networking, and Cybersecurity.
-
-Each academic period includes:
-- Core subjects.
-- Learning objectives.
-- Essential topics.
-- Practical activities.
-- Required competencies.
-- A practical project or assessment.
-
-Technical English is a continuous subject throughout the program.
+**Período:** 23/10/2026 a 22/10/2028  
+**Duração:** 24 meses  
+**Carga horária:** 15 a 17 horas semanais  
+**Nível inicial:** Iniciante  
+**Ambiente principal:** Termux (Android)  
+**Versão:** 1.0 
 
 ---
 
-2. Academic Period 1 — Months 1–3
-Computer Science Foundations
+# 1. OBJETIVO DA FORMAÇÃO
 
-Subject 1: Computational Thinking and Algorithms
+Desenvolver uma formação progressiva, teórica e prática em Ciência da Computação e Cibersegurança, partindo dos fundamentos até competências avançadas de segurança ofensiva, defensiva, engenharia de segurança e pesquisa.
 
-Topics:
-- Computational thinking.
-- Problem decomposition.
-- Algorithm design.
-- Pseudocode.
-- Flowcharts.
-- Variables and data representation.
-- Conditions and loops.
-- Functions.
-- Algorithm efficiency fundamentals.
+A formação deverá desenvolver:
 
-Competencies:
-- Decompose problems into smaller tasks.
-- Design logical solutions.
-- Represent algorithms using pseudocode.
-- Explain the execution flow of a program.
-  
-
-Subject 2: Python Programming I
-
-Topics:
-- Python installation and environment.
-- Syntax and indentation.
-- Variables and data types.
-- Input and output.
-- Operators.
-- Conditional statements.
-- Loops.
-- Functions.
-- Lists, tuples, dictionaries, and sets.
-- Basic error handling.
-- File operations.
-
-Competencies:
-- Write simple Python programs.
-- Use fundamental data structures.
-- Debug basic errors.
-- Build small command-line applications.
-
-
-Subject 3: Discrete Mathematics I
-
-Topics:
-- Propositions.
-- Logical operators.
-- Truth tables.
-- Logical equivalence.
-- Predicates and quantifiers.
-- Sets.
-- Relations.
-- Functions.
-- Basic counting principles.
-
-Competencies:
-- Evaluate logical expressions.
-- Construct truth tables.
-- Understand basic mathematical structures used in computing.
-  
-
-Subject 4: Digital Systems and Number Representation
-
-Topics:
-- Binary, decimal, and hexadecimal systems.
-- Binary conversion.
-- Binary arithmetic.
-- Bits and bytes.
-- Boolean algebra.
-- Logic gates.
-- Basic digital representation.
-
-Competencies:
-- Convert between number systems.
-- Explain binary representation.
-- Understand basic digital logic.
-
-
-Subject 5: Technical English I
-
-Topics:
-- Technical vocabulary.
-- Basic programming terminology.
-- Reading technical instructions.
-- Understanding error messages.
-- Writing short technical explanations.
-
-Practical requirement:
-Produce a short English explanation of a Python program every week.
-
-Period project:
-Build a collection of Python command-line programs and document the algorithms behind them.
+- Fundamentos sólidos de Ciência da Computação.
+- Programação e automação com Python.
+- Administração de sistemas Linux e Windows.
+- Redes de computadores e protocolos.
+- Segurança de aplicações.
+- Segurança ofensiva em ambientes autorizados.
+- Defesa cibernética e monitoramento.
+- Análise de vulnerabilidades.
+- Resposta a incidentes.
+- Segurança em nuvem.
+- DevSecOps.
+- Forense digital.
+- Pesquisa e desenvolvimento de projetos.
+- Inglês técnico para atuação internacional.
 
 ---
 
-3. Academic Period 2 — Months 4–6
+# 2. ESTRUTURA CURRICULAR
 
-Operating Systems and Computer Networks
+A formação está dividida em oito fases, distribuídas ao longo de 104 semanas.
 
-Subject 6: Linux Administration I
-
-Topics:
-- Linux architecture.
-- Filesystem hierarchy.
-- Navigation and file management.
-- Users and groups.
-- Permissions.
-- Processes.
-- Services.
-- Package management.
-- Shell fundamentals.
-- Environment variables.
-- Basic shell scripting.
-
-Competencies:
-- Navigate Linux confidently.
-- Manage files and permissions.
-- Understand processes and services.
-- Automate simple tasks.
-  
-
-Subject 7: Operating Systems I
-
-Topics:
-- Operating system concepts.
-- Kernel and user space.
-- Processes and threads.
-- Memory management.
-- Filesystems.
-- System calls.
-- Permissions and isolation.
-- Resource management.
-
-Competencies:
-- Explain the main responsibilities of an operating system.
-- Understand process and memory fundamentals.
-- Identify basic operating system security mechanisms.
-  
-
-Subject 8: Computer Networks I
-
-Topics:
-- Network fundamentals.
-- OSI and TCP/IP models.
-- Ethernet.
-- MAC and IP addressing.
-- IPv4 and subnetting.
-- IPv6 fundamentals.
-- TCP and UDP.
-- Routing and switching.
-- DNS and DHCP.
-- HTTP and HTTPS.
-- Network troubleshooting.
-
-Competencies:
-- Explain how network communication works.
-- Interpret IP addresses and subnet masks.
-- Identify common network protocols.
-- Diagnose basic connectivity problems.
-  
-
-Subject 9: Networking Tools and Practices
-
-Topics:
-- ping.
-- traceroute.
-- ip and ip route.
-- ss.
-- curl.
-- dig and nslookup.
-- tcpdump fundamentals.
-- Wireshark fundamentals.
-- Network configuration and troubleshooting.
-
-Competencies:
-- Use diagnostic tools responsibly.
-- Interpret basic network traffic.
-- Document troubleshooting procedures.
-
-
-Subject 10: Technical English II
-
-Topics:
-- Linux command vocabulary.
-- Networking terminology.
-- Reading system documentation.
-- Understanding technical tutorials.
-- Writing command explanations.
-
-Period project:
-Build a Linux and networking laboratory portfolio with command records, network diagrams, and troubleshooting reports.
+| Fase | Período | Área de formação |
+|---|---|---|
+| 1 | Semanas 01–13 | Fundamentos da Computação |
+| 2 | Semanas 14–26 | Redes, Sistemas e Programação |
+| 3 | Semanas 27–39 | Fundamentos de Cibersegurança |
+| 4 | Semanas 40–52 | Segurança Ofensiva e AppSec |
+| 5 | Semanas 53–65 | Blue Team, SOC e Resposta a Incidentes |
+| 6 | Semanas 66–78 | Cloud, DevSecOps e Forense Digital |
+| 7 | Semanas 79–91 | Especialização e Pesquisa |
+| 8 | Semanas 92–104 | Portfólio, Carreira e Projeto Final |
 
 ---
 
-4. Academic Period 3 — Months 7–9
+# 3. FASE 1 — FUNDAMENTOS DA COMPUTAÇÃO
 
-Programming, Data, and Security Foundations
+**Período:** Semanas 01–13
 
-Subject 11: Python Programming II
+## Disciplinas
 
-Topics:
-- Modular programming.
-- Object-oriented programming.
-- Classes and objects.
-- Exceptions.
-- Modules and packages.
-- Virtual environments.
-- Regular expressions.
-- JSON and CSV.
-- APIs and HTTP requests.
-- Logging.
-- Testing fundamentals.
+### 3.1 Introdução à Ciência da Computação
 
-Competencies:
-- Build modular Python applications.
-- Automate technical tasks.
-- Process structured data.
-- Write basic tests.
-  
+- História e evolução da computação.
+- Arquitetura básica de computadores.
+- Hardware e software.
+- Sistemas operacionais.
+- Representação de dados.
+- Sistemas binários, decimais e hexadecimais.
+- Memória e armazenamento.
+- Processadores e instruções.
 
-Subject 12: Data Structures and Algorithms
+### 3.2 Lógica Matemática e Matemática Discreta
 
-Topics:
-- Arrays and lists.
-- Stacks and queues.
-- Linked lists.
-- Hash tables.
-- Trees and graphs.
-- Searching algorithms.
-- Sorting algorithms.
-- Big O notation.
-- Algorithmic complexity.
+- Proposições lógicas.
+- Valores verdadeiros e falsos.
+- Operadores lógicos.
+- Tabelas-verdade.
+- Equivalências lógicas.
+- Conjuntos.
+- Relações e funções.
+- Introdução à teoria dos grafos.
+- Raciocínio matemático.
 
-Competencies:
-- Select appropriate data structures.
-- Understand algorithm performance.
-- Implement basic searching and sorting algorithms.
+### 3.3 Fundamentos de Programação com Python
 
+- Variáveis e tipos de dados.
+- Entrada e saída.
+- Operadores.
+- Condicionais.
+- Estruturas de repetição.
+- Funções.
+- Listas e dicionários.
+- Tratamento de erros.
+- Manipulação de arquivos.
+- Introdução à programação modular.
 
-Subject 13: Database Fundamentals
+### 3.4 Linux e Terminal
 
-Topics:
-- Relational database concepts.
-- Tables, rows, and columns.
-- Primary and foreign keys.
-- SQL fundamentals.
-- SELECT, INSERT, UPDATE, and DELETE.
-- JOIN operations.
-- Constraints.
-- Indexes.
-- Database access control.
-- SQL security fundamentals.
+- Introdução ao Linux.
+- Estrutura de diretórios.
+- Navegação pelo terminal.
+- Manipulação de arquivos.
+- Permissões.
+- Usuários e grupos.
+- Gerenciamento de pacotes.
+- Processos.
+- Variáveis de ambiente.
+- Shell scripting básico.
 
-Competencies:
-- Design simple relational databases.
-- Write SQL queries.
-- Explain basic database security risks.
+### 3.5 Git e GitHub
 
+- Controle de versão.
+- Repositórios.
+- Commits.
+- Branches.
+- Merge.
+- GitHub.
+- Documentação Markdown.
+- Organização de projetos.
+- Histórico de alterações.
 
-Subject 14: Cybersecurity Fundamentals
+## Projeto integrador
 
-Topics:
-- Confidentiality, integrity, and availability.
-- Threats, vulnerabilities, and risks.
-- Attack surfaces.
-- Security controls.
-- Authentication and authorization.
-- Least privilege.
-- Defense in depth.
-- Security policies.
-- Basic risk assessment.
-- Security ethics and legal boundaries.
+Desenvolver um repositório pessoal contendo:
 
-Competencies:
-- Identify basic security risks.
-- Distinguish threats, vulnerabilities, and impacts.
-- Recommend appropriate security controls.
-
-
-Subject 15: Cryptography Fundamentals
-
-Topics:
-- Cryptographic objectives.
-- Symmetric encryption.
-- Asymmetric encryption.
-- Hash functions.
-- Salting.
-- Digital signatures.
-- Certificates.
-- Public key infrastructure.
-- TLS fundamentals.
-- Key management.
-
-Competencies:
-- Explain fundamental cryptographic mechanisms.
-- Distinguish encryption from hashing.
-- Understand basic certificate and key-management concepts.
-
-Period project:
-Develop Python utilities for file integrity checking, structured log processing, and basic security automation.
+- Anotações técnicas.
+- Exercícios de Python.
+- Exercícios de lógica.
+- Comandos Linux documentados.
+- Histórico de versões.
+- Relatório de aprendizagem.
 
 ---
 
-5. Academic Period 4 — Months 10–12
+# 4. FASE 2 — REDES, SISTEMAS E PROGRAMAÇÃO
 
-Web Development and Application Security
+**Período:** Semanas 14–26
 
-Subject 16: Web Technologies
+## Disciplinas
 
-Topics:
-- Client-server architecture.
-- HTML fundamentals.
-- CSS fundamentals.
-- JavaScript fundamentals.
-- HTTP requests and responses.
-- Headers and status codes.
-- Cookies and sessions.
-- REST APIs.
-- JSON.
-- Authentication workflows.
+### 4.1 Redes de Computadores
 
-Competencies:
-- Explain how web applications communicate.
-- Understand common web application components.
-- Inspect HTTP requests and responses.
+- Conceitos fundamentais de redes.
+- Modelo OSI.
+- Modelo TCP/IP.
+- Endereçamento IPv4 e IPv6.
+- Sub-redes.
+- Máscaras de rede.
+- Gateway.
+- DNS.
+- DHCP.
+- ARP.
+- TCP e UDP.
+- Portas e serviços.
+- Roteamento.
+- NAT.
 
-  
-Subject 17: Web Application Security
+### 4.2 Administração de Sistemas Linux
 
-Topics:
+- Estrutura avançada do Linux.
+- Gerenciamento de usuários.
+- Permissões e propriedade.
+- Processos e serviços.
+- Logs.
+- Gerenciamento de armazenamento.
+- Shell scripting.
+- SSH.
+- Administração básica de servidores.
+
+### 4.3 Programação Python Intermediária
+
+- Programação orientada a objetos.
+- Classes e objetos.
+- Módulos e bibliotecas.
+- Expressões regulares.
+- Manipulação de arquivos.
+- JSON e CSV.
+- Requisições HTTP.
+- APIs.
+- Automação de tarefas.
+- Depuração e testes.
+
+### 4.4 Sistemas Operacionais
+
+- Arquitetura de sistemas operacionais.
+- Processos e threads.
+- Gerenciamento de memória.
+- Sistemas de arquivos.
+- Chamadas de sistema.
+- Concorrência.
+- Virtualização.
+- Introdução ao Windows.
+
+### 4.5 Inglês Técnico I
+
+- Vocabulário de computação.
+- Leitura de documentação.
+- Termos de redes.
+- Termos de programação.
+- Leitura de manuais.
+- Interpretação de mensagens de erro.
+
+## Projeto integrador
+
+Desenvolver ferramentas simples em Python para:
+
+- Consultar informações de rede.
+- Processar arquivos.
+- Automatizar tarefas Linux.
+- Consumir APIs.
+- Gerar relatórios técnicos.
+
+---
+
+# 5. FASE 3 — FUNDAMENTOS DE CIBERSEGURANÇA
+
+**Período:** Semanas 27–39
+
+## Disciplinas
+
+### 5.1 Fundamentos de Segurança da Informação
+
+- Confidencialidade.
+- Integridade.
+- Disponibilidade.
+- Autenticidade.
+- Não repúdio.
+- Gestão de riscos.
+- Ativos e ameaças.
+- Vulnerabilidades.
+- Controles de segurança.
+- Princípio do menor privilégio.
+
+### 5.2 Criptografia
+
+- Fundamentos matemáticos.
+- Criptografia simétrica.
+- Criptografia assimétrica.
+- Hashes.
+- Assinaturas digitais.
+- Certificados digitais.
+- Infraestrutura de chaves públicas.
+- TLS e HTTPS.
+- Gerenciamento de chaves.
+
+### 5.3 Segurança de Redes
+
+- Firewalls.
+- Sistemas IDS e IPS.
+- VPN.
+- Segmentação de redes.
+- Monitoramento de tráfego.
+- Análise de pacotes.
+- Segurança de protocolos.
+- Hardening de redes.
+
+### 5.4 Gestão de Vulnerabilidades
+
+- Identificação de ativos.
+- Análise de vulnerabilidades.
+- Classificação de riscos.
+- CVE.
+- CVSS.
+- Correção e mitigação.
+- Gestão de patches.
+- Relatórios técnicos.
+
+### 5.5 Governança e Ética
+
+- Ética profissional.
+- Autorização para testes.
+- Escopo de avaliação.
+- Privacidade.
+- Proteção de dados.
+- Políticas de segurança.
+- Gestão de riscos.
+- Introdução a ISO 27001 e NIST CSF.
+
+## Projeto integrador
+
+Elaborar uma avaliação de segurança de um laboratório próprio, incluindo:
+
+- Inventário de ativos.
+- Identificação de riscos.
+- Análise de vulnerabilidades.
+- Recomendações de segurança.
+- Relatório técnico.
+
+---
+
+# 6. FASE 4 — SEGURANÇA OFENSIVA E APPSEC
+
+**Período:** Semanas 40–52
+
+## Disciplinas
+
+### 6.1 Fundamentos de Segurança Ofensiva
+
+- Metodologia de testes de intrusão.
+- Planejamento e escopo.
+- Reconhecimento autorizado.
+- Enumeração.
+- Análise de serviços.
+- Identificação de vulnerabilidades.
+- Validação controlada.
+- Documentação de evidências.
+
+### 6.2 Segurança de Aplicações Web
+
+- Arquitetura web.
+- HTTP e HTTPS.
+- Cookies e sessões.
+- Autenticação.
+- Autorização.
+- Controle de acesso.
+- Segurança de APIs.
 - OWASP Top 10.
-- Broken access control.
-- Injection vulnerabilities.
-- Cross-site scripting.
-- Cross-site request forgery.
-- Authentication weaknesses.
-- Session management.
-- Security misconfiguration.
-- File upload risks.
-- API security fundamentals.
+- Validação de entradas.
+- Gestão de sessões.
 
-Competencies:
-- Recognize common application vulnerabilities.
-- Explain their impact.
-- Recommend appropriate mitigations.
-- Test intentionally vulnerable applications in authorized environments.
+### 6.3 Análise de Vulnerabilidades Web
 
+- SQL Injection.
+- Cross-Site Scripting.
+- Cross-Site Request Forgery.
+- Server-Side Request Forgery.
+- Falhas de autenticação.
+- Falhas de controle de acesso.
+- Exposição de informações.
+- Configurações inseguras.
 
-Subject 18: Secure Software Development
+### 6.4 Ferramentas de Segurança Ofensiva
 
-Topics:
-- Secure coding principles.
-- Input validation.
-- Output encoding.
-- Authentication design.
-- Authorization checks.
-- Secure session management.
-- Dependency security.
-- Error handling.
-- Secrets management.
-- Code review fundamentals.
+- Nmap.
+- Wireshark.
+- Burp Suite.
+- OWASP ZAP.
+- Metasploit Framework.
+- Ferramentas de análise de aplicações.
 
-Competencies:
-- Identify insecure coding patterns.
-- Apply basic defensive programming techniques.
-- Review code for common security weaknesses.
+### 6.5 Desenvolvimento Seguro
 
+- Secure Coding.
+- Validação de entradas.
+- Tratamento de erros.
+- Autenticação segura.
+- Gerenciamento de segredos.
+- Revisão de código.
+- Testes de segurança.
 
-Subject 19: Application Security Testing
+## Projeto integrador
 
-Topics:
-- Security testing methodology.
-- Test scope and authorization.
-- Browser developer tools.
-- Proxy fundamentals.
-- Burp Suite fundamentals.
-- OWASP ZAP fundamentals.
-- Vulnerability validation.
-- Evidence collection.
-- Technical reporting.
+Executar uma avaliação de segurança em uma aplicação de laboratório, documentando:
 
-Competencies:
-- Perform structured tests in controlled environments.
-- Document reproducible findings.
-- Recommend remediation.
-
-Period project:
-Conduct a documented security assessment of an intentionally vulnerable web application and produce a professional report.
+- Escopo autorizado.
+- Metodologia.
+- Vulnerabilidades identificadas.
+- Evidências.
+- Impacto.
+- Recomendações.
+- Relatório final.
 
 ---
 
-6. Academic Period 5 — Months 13–15
+# 7. FASE 5 — BLUE TEAM, SOC E RESPOSTA A INCIDENTES
 
-Defensive Security and Security Operations
+**Período:** Semanas 53–65
 
-Subject 20: Security Operations Fundamentals
+## Disciplinas
 
-Topics:
-- Security operations concepts.
-- Security monitoring.
-- Log sources.
-- Event correlation.
-- Indicators of compromise.
-- Threat intelligence.
-- Security alert triage.
-- Detection fundamentals.
+### 7.1 Defesa Cibernética
 
-Competencies:
-- Understand security monitoring workflows.
-- Identify suspicious events.
-- Explain basic detection processes.
+- Fundamentos de Blue Team.
+- Defesa em profundidade.
+- Hardening.
+- Gestão de atualizações.
+- Monitoramento.
+- Detecção de ameaças.
+- Segurança de endpoints.
 
+### 7.2 Monitoramento e SOC
 
-Subject 21: SIEM and Log Analysis
+- Estrutura de um SOC.
+- SIEM.
+- Coleta de logs.
+- Correlação de eventos.
+- Indicadores de comprometimento.
+- Análise de alertas.
+- Threat Intelligence.
+- MITRE ATT&CK.
 
-Topics:
-- Log formats.
-- Windows and Linux logs.
-- Syslog.
-- Event correlation.
-- SIEM architecture.
-- Search and filtering.
-- Alert investigation.
-- Detection rules.
-- Basic dashboards.
+### 7.3 Resposta a Incidentes
 
-Competencies:
-- Analyze system logs.
-- Identify relevant security events.
-- Document investigations.
+- Preparação.
+- Identificação.
+- Contenção.
+- Erradicação.
+- Recuperação.
+- Lições aprendidas.
+- Documentação.
+- Comunicação de incidentes.
 
+### 7.4 Análise de Malware
 
-Subject 22: Incident Response
+- Fundamentos de malware.
+- Tipos de ameaças.
+- Análise estática.
+- Análise dinâmica.
+- Indicadores de comprometimento.
+- Ambientes isolados.
+- Técnicas de persistência.
+- Comportamento malicioso.
 
-Topics:
-- Incident response lifecycle.
-- Preparation.
-- Identification.
-- Containment.
-- Eradication.
-- Recovery.
-- Lessons learned.
-- Incident documentation.
-- Communication and escalation.
+### 7.5 Forense Digital — Fundamentos
 
-Competencies:
-- Explain incident response procedures.
-- Build a basic incident timeline.
-- Produce structured incident reports.
+- Preservação de evidências.
+- Cadeia de custódia.
+- Integridade de arquivos.
+- Hashes forenses.
+- Análise de logs.
+- Introdução à análise de discos.
 
+## Projeto integrador
 
-Subject 23: Digital Forensics Fundamentals
+Simular um incidente em laboratório e produzir:
 
-Topics:
-- Evidence preservation.
-- Chain of custody.
-- File metadata.
-- File hashes.
-- Disk and memory forensics concepts.
-- Timeline analysis.
-- Basic forensic tools.
-- Evidence reporting.
-
-Competencies:
-- Understand evidence integrity.
-- Perform basic forensic analysis in controlled environments.
-- Document findings carefully.
-
-
-Subject 24: Endpoint and System Defense
-
-Topics:
-- System hardening.
-- Endpoint protection.
-- Access controls.
-- Patch management.
-- Secure configuration.
-- Backup strategies.
-- Vulnerability management.
-- Basic malware analysis concepts.
-
-Competencies:
-- Identify insecure system configurations.
-- Apply basic hardening measures.
-- Understand endpoint defense.
-
-Period project:
-Investigate a simulated security incident using logs, evidence, and a documented incident response process.
+- Linha do tempo.
+- Evidências.
+- Análise técnica.
+- Indicadores de comprometimento.
+- Plano de contenção.
+- Relatório de resposta.
 
 ---
 
-7. Academic Period 6 — Months 16–18
+# 8. FASE 6 — CLOUD, DEVSECOPS E FORENSE DIGITAL
 
-Offensive Security and Penetration Testing
+**Período:** Semanas 66–78
 
-Subject 25: Penetration Testing Methodology
+## Disciplinas
 
-Topics:
-- Penetration testing concepts.
-- Rules of engagement.
-- Scope definition.
-- Authorization.
-- Testing methodology.
-- Reconnaissance.
-- Enumeration.
-- Vulnerability assessment.
-- Validation.
-- Reporting.
+### 8.1 Computação em Nuvem
 
-Competencies:
-- Plan an authorized assessment.
-- Define scope and limitations.
-- Follow a structured testing methodology.
+- Fundamentos de cloud computing.
+- IaaS, PaaS e SaaS.
+- Arquiteturas em nuvem.
+- Redes virtuais.
+- Identidade e acesso.
+- Armazenamento.
+- Segurança de infraestrutura.
+- Monitoramento.
 
+### 8.2 Segurança em Cloud
 
-Subject 26: Network Security Testing
+- IAM.
+- Controle de acesso.
+- Gestão de segredos.
+- Criptografia.
+- Segurança de armazenamento.
+- Segurança de redes.
+- Monitoramento.
+- Configurações incorretas.
+- Resposta a incidentes em cloud.
 
-Topics:
-- Network discovery.
-- Service enumeration.
-- Port scanning concepts.
-- Service identification.
-- Vulnerability validation.
-- Network segmentation.
-- Firewall testing.
-- Network security reporting.
+### 8.3 DevSecOps
 
-Competencies:
-- Evaluate network exposure in authorized laboratories.
-- Interpret scan results.
-- Explain network security weaknesses.
+- Ciclo de desenvolvimento seguro.
+- Integração contínua.
+- Entrega contínua.
+- Segurança em pipelines.
+- SAST.
+- DAST.
+- SCA.
+- Análise de dependências.
+- Gestão de segredos.
+- Containers.
 
+### 8.4 Docker e Kubernetes
 
-Subject 27: Exploitation Fundamentals
+- Containers.
+- Imagens.
+- Volumes.
+- Redes.
+- Dockerfile.
+- Orquestração.
+- Kubernetes.
+- Segurança de containers.
+- Controle de acesso.
 
-Topics:
-- Vulnerability classes.
-- Exploit concepts.
-- Common attack paths.
-- Privilege escalation concepts.
-- Password security.
-- Misconfiguration exploitation.
-- Post-exploitation risks.
-- Defensive mitigations.
+### 8.5 Forense Digital Avançada
 
-Competencies:
-- Explain how vulnerabilities can be exploited.
-- Validate weaknesses in controlled environments.
-- Connect technical findings to business impact.
+- Aquisição de evidências.
+- Imagens forenses.
+- Análise de sistemas de arquivos.
+- Recuperação de dados.
+- Análise de memória.
+- Análise de artefatos.
+- Relatórios periciais.
 
+## Projeto integrador
 
-Subject 28: Security Assessment and Reporting
+Construir e documentar um ambiente de aplicação com:
 
-Topics:
-- Evidence collection.
-- Reproducibility.
-- Risk ratings.
-- Technical impact.
-- Business impact.
-- Remediation recommendations.
-- Executive summaries.
-- Responsible disclosure.
-
-Competencies:
-- Produce clear security assessment reports.
-- Prioritize findings.
-- Communicate technical risks to different audiences.
-
-Period project:
-Perform an authorized penetration test in a controlled training environment and deliver a complete assessment report.
+- Infraestrutura controlada.
+- Pipeline de desenvolvimento.
+- Verificações de segurança.
+- Monitoramento.
+- Relatório de riscos.
+- Procedimentos de resposta.
 
 ---
 
-8. Academic Period 7 — Months 19–21
+# 9. FASE 7 — ESPECIALIZAÇÃO E PESQUISA
 
-Cloud Security and Security Engineering
+**Período:** Semanas 79–91
 
-Subject 29: Cloud Computing Fundamentals
+## Disciplinas
 
-Topics:
-- Cloud computing concepts.
-- IaaS, PaaS, and SaaS.
-- Public, private, and hybrid cloud.
-- Shared responsibility model.
-- Cloud networking.
-- Storage services.
-- Identity services.
-- Cloud deployment concepts.
+### 9.1 Pesquisa em Cibersegurança
 
-Competencies:
-- Explain cloud service models.
-- Understand shared security responsibilities.
-- Identify common cloud risks.
+- Metodologia científica.
+- Revisão bibliográfica.
+- Leitura de artigos.
+- Formulação de hipóteses.
+- Experimentação.
+- Análise de resultados.
+- Escrita técnica.
+- Publicação de pesquisas.
 
+### 9.2 Engenharia de Segurança
 
-Subject 30: Cloud Security
+- Arquitetura segura.
+- Modelagem de ameaças.
+- Segurança por design.
+- Revisão de arquitetura.
+- Gestão de riscos técnicos.
+- Segurança de sistemas distribuídos.
 
-Topics:
-- Identity and access management.
-- Multi-factor authentication.
-- Least privilege.
-- Cloud network security.
-- Storage security.
-- Encryption.
-- Logging and monitoring.
-- Secure configuration.
-- Cloud threat modeling.
-- Cloud incident response fundamentals.
+### 9.3 Especialização Técnica
 
-Competencies:
-- Identify insecure cloud configurations.
-- Apply fundamental cloud security controls.
-- Explain cloud access risks.
+A trilha será escolhida conforme desempenho, interesse e avaliação de competências.
 
+Possibilidades:
 
-Subject 31: Containers and DevSecOps
+- Red Team e Pentest.
+- Blue Team e SOC.
+- Application Security.
+- Cloud Security.
+- Digital Forensics.
+- Malware Analysis.
+- Security Engineering.
+- Threat Intelligence.
 
-Topics:
-- Container fundamentals.
-- Docker.
-- Container images.
-- Image scanning.
-- Container isolation.
-- CI/CD concepts.
-- Dependency scanning.
-- Static application security testing.
-- Dynamic application security testing.
-- Secrets management.
-- Secure software delivery.
+### 9.4 Inglês Técnico Avançado
 
-Competencies:
-- Understand container security.
-- Identify common CI/CD risks.
-- Apply basic security checks to development workflows.
+- Leitura de pesquisas.
+- Documentação avançada.
+- Escrita de relatórios.
+- Apresentações técnicas.
+- Comunicação profissional.
+- Discussão de vulnerabilidades.
 
+## Projeto integrador
 
-Subject 32: Security Architecture and Threat Modeling
+Desenvolver uma pesquisa técnica aplicada à trilha escolhida, contendo:
 
-Topics:
-- Security architecture principles.
-- Trust boundaries.
-- Attack surfaces.
-- Threat modeling.
-- Security requirements.
-- Risk analysis.
-- Defense in depth.
-- Secure design.
-- Architecture documentation.
-
-Competencies:
-- Identify architectural security risks.
-- Build basic threat models.
-- Recommend security controls based on system requirements.
-
-Period project:
-Design and document a secure cloud-based application architecture with a threat model and security controls.
+- Problema.
+- Fundamentação.
+- Metodologia.
+- Ambiente experimental.
+- Resultados.
+- Discussão.
+- Conclusão.
+- Referências.
 
 ---
 
-9. Academic Period 8 — Months 22–24
+# 10. FASE 8 — PORTFÓLIO, CARREIRA E PROJETO FINAL
 
-Specialization and Professional Development
+**Período:** Semanas 92–104
 
-Subject 33: Advanced Cybersecurity Practice
+## Disciplinas
 
-Topics:
-- Advanced review of core disciplines.
-- Integrated security scenarios.
-- Complex laboratory exercises.
-- Vulnerability analysis.
-- Defensive and offensive perspectives.
-- Security research methods.
+### 10.1 Engenharia de Projetos
 
-Competencies:
-- Combine knowledge from multiple security disciplines.
-- Analyze complex scenarios.
-- Defend technical decisions.
+- Planejamento.
+- Definição de escopo.
+- Requisitos.
+- Arquitetura.
+- Implementação.
+- Testes.
+- Documentação.
+- Apresentação.
 
+### 10.2 Portfólio Profissional
 
-Subject 34: Professional Specialization
+- Organização do GitHub.
+- Projetos técnicos.
+- Relatórios.
+- Documentação.
+- Estudos de caso.
+- Publicação de pesquisas.
+- Apresentação de competências.
 
-Choose one primary track:
-Track A — Application Security
-- Advanced web security.
-- API security.
-- Secure code review.
-- Application threat modeling.
-- Secure development lifecycle.
+### 10.3 Preparação para o Mercado Internacional
 
-Track B — Red Team and Penetration Testing
-- Advanced assessment methodology.
-- Active Directory security concepts.
-- Enterprise network assessment.
-- Attack path analysis.
-- Professional penetration testing reports.
+- Currículo técnico.
+- LinkedIn.
+- Entrevistas.
+- Comunicação profissional.
+- Inglês para entrevistas.
+- Preparação para certificações.
+- Participação em comunidades técnicas.
 
-Track C — Blue Team and Security Operations
-- Advanced log analysis.
-- Detection engineering.
-- Threat hunting fundamentals.
-- Incident investigation.
-- Security operations improvement.
+### 10.4 Projeto Final de Formação
 
-Track D — Incident Response and Digital Forensics
-- Advanced evidence analysis.
-- Incident reconstruction.
-- Forensic methodology.
-- Malware investigation fundamentals.
-- Incident reporting.
+Desenvolver um projeto abrangente relacionado à especialização escolhida.
 
-Track E — Cloud Security
-- Cloud architecture security.
-- Identity governance.
-- Cloud monitoring.
-- Infrastructure security.
-- Cloud incident response.
+O projeto deverá demonstrar:
 
-Track F — Security Engineering
-- Security architecture.
-- Secure infrastructure.
-- Automation.
-- Security testing integration.
-- Engineering risk management.
-  
+- Domínio dos fundamentos.
+- Capacidade de análise.
+- Competência técnica.
+- Aplicação prática.
+- Segurança e ética.
+- Documentação profissional.
+- Comunicação dos resultados.
 
-Subject 35: Research and Technical Communication
+## Entrega final
 
-Topics:
-- Research methodology.
-- Technical literature review.
-- Security advisory analysis.
-- Vulnerability documentation.
-- Technical writing.
-- Professional presentations.
-- Technical English.
-- Ethical publication and responsible disclosure.
-
-Competencies:
-- Research a technical security problem.
-- Evaluate evidence.
-- Write a structured technical paper or report.
-- Present findings in English.
-
-
-Subject 36: Career and Certification Preparation
-
-Topics:
-- Professional portfolio.
-- Resume and professional profile.
-- Technical interviews.
-- Certification requirements.
-- Certification exam preparation.
-- Career pathways.
-- Continuous professional development.
-
-Competencies:
-- Present practical work professionally.
-- Identify realistic entry-level opportunities.
-- Build a continued learning plan.
-
-Final project
-
-Develop an integrated cybersecurity project demonstrating:
-- A clearly defined technical problem.
-- Documented scope and methodology.
-- Practical implementation or investigation.
-- Security analysis.
-- Evidence and reproducible results.
-- Risk assessment.
-- Remediation recommendations.
-- Professional technical documentation.
-- An English executive summary.
+- Projeto técnico completo.
+- Repositório público, quando seguro e apropriado.
+- Documentação.
+- Relatório executivo.
+- Relatório técnico.
+- Apresentação em inglês.
+- Autoavaliação de competências.
 
 ---
 
-10. Continuous Subject — Technical English
+# 11. FORMAÇÃO TRANSVERSAL
 
-Technical English is studied throughout all eight academic periods.
+As disciplinas abaixo serão desenvolvidas durante os 24 meses.
 
-Core activities:
-- Technical reading.
-- Vocabulary acquisition.
-- Documentation interpretation.
-- Written technical explanations.
-- Security report reading.
-- Oral explanation of projects.
-- Professional communication.
+## 11.1 Inglês Técnico
 
-The level of difficulty increases as technical knowledge develops.
+- Vocabulário de computação.
+- Leitura de documentação.
+- Interpretação de artigos.
+- Escrita técnica.
+- Comunicação profissional.
+- Apresentações.
 
----
+## 11.2 Matemática e Raciocínio Lógico
 
-11. Curriculum Prerequisites and Progression
+- Lógica proposicional.
+- Álgebra.
+- Matemática discreta.
+- Estatística.
+- Probabilidade.
+- Matemática aplicada à criptografia.
 
-The curriculum is cumulative.
+## 11.3 Ética e Responsabilidade Profissional
 
-The recommended progression is:
-1. Programming and mathematical logic before advanced automation.
-2. Linux fundamentals before system hardening.
-3. Networking fundamentals before network security testing.
-4. Programming and databases before application security.
-5. Security fundamentals before specialized security operations.
-6. Web and network fundamentals before penetration testing.
-7. Systems and networking before cloud security.
-8. Core cybersecurity competence before advanced specialization.
+- Autorização.
+- Legalidade.
+- Privacidade.
+- Proteção de dados.
+- Responsabilidade técnica.
+- Divulgação responsável de vulnerabilidades.
 
-Students should review and reinforce prerequisite topics when assessments reveal gaps.
+## 11.4 Documentação Técnica
 
----
-
-12. Assessment Requirements
-
-Each academic period must include:
-- Written or oral knowledge assessment.
-- Practical exercises.
-- At least one documented laboratory.
-- A practical project.
-- Technical English activities.
-- A review of previous competencies.
-
-A passing score alone does not replace practical demonstration.
-
-The student must be able to explain what was done, why it was done, what the results mean, and how the work could be improved.
+- Markdown.
+- Git.
+- GitHub.
+- Relatórios.
+- Registros de laboratório.
+- Documentação de projetos.
+- Organização de evidências.
 
 ---
 
-13. Curriculum Review Policy
+# 12. ROTINA SEMANAL DE ESTUDOS
 
-This curriculum is the subject-level reference for the 24-month program.
+**Carga horária de referência: 15 a 17 horas.**
 
-It may be revised when:
-- A prerequisite is missing.
-- An assessment reveals a knowledge gap.
-- A subject requires more practical depth.
-- A technology or professional requirement changes.
-- The student's specialization is selected.
+| Atividade | Horas semanais |
+|---|---:|
+| Aulas e teoria | 4 h |
+| Programação e exercícios | 3 h |
+| Laboratórios práticos | 4 h |
+| Matemática e fundamentos | 1,5 h |
+| Inglês técnico | 1,5 h |
+| Revisão e documentação | 1,5 h |
+| **Total** | **15,5 h** |
 
-Detailed weekly topics and dates belong in "cronograma-geral.md".
+A distribuição poderá ser ajustada conforme a complexidade dos conteúdos e o desempenho demonstrado.
 
-Lesson plans, exercises, and weekly evidence belong in their respective weekly folders.
+---
 
-Curriculum principle: Build foundations first. Integrate knowledge. Demonstrate competence through practice.
+# 13. SISTEMA DE AVALIAÇÃO
+
+| Critério | Peso |
+|---|---:|
+| Fundamentos teóricos | 20% |
+| Exercícios | 20% |
+| Laboratórios práticos | 30% |
+| Projetos e documentação | 20% |
+| Inglês técnico | 10% |
+| **Total** | **100%** |
+
+## Critérios de aprovação
+
+- Nota mínima de referência: 80/100.
+- Demonstração prática das competências.
+- Entrega das evidências solicitadas.
+- Documentação adequada.
+- Correção das lacunas identificadas.
+- Respeito às regras de segurança e ética.
+
+A aprovação em uma disciplina não será determinada apenas pela conclusão das atividades. Será necessário demonstrar domínio do conteúdo.
+
+---
+
+# 14. MARCOS DE DESENVOLVIMENTO
+
+| Período | Resultado esperado |
+|---|---|
+| Mês 3 | Fundamentos de computação e programação |
+| Mês 6 | Redes, Linux e programação intermediária |
+| Mês 9 | Fundamentos de segurança da informação |
+| Mês 12 | Segurança ofensiva e aplicações web |
+| Mês 15 | Defesa, SOC e resposta a incidentes |
+| Mês 18 | Cloud, DevSecOps e forense |
+| Mês 21 | Especialização e pesquisa |
+| Mês 24 | Portfólio e projeto final |
+
+Esses marcos são referências de planejamento, não aprovações automáticas.
+
+---
+
+# 15. PROJETOS INTEGRADORES
+
+Ao longo da formação, serão desenvolvidos projetos progressivos:
+
+1. Repositório de fundamentos de computação.
+2. Ferramentas de automação em Python.
+3. Laboratório de redes.
+4. Avaliação de segurança de laboratório.
+5. Auditoria de aplicação web.
+6. Simulação de resposta a incidentes.
+7. Ambiente seguro em cloud.
+8. Pesquisa técnica especializada.
+9. Projeto final de formação.
+
+Todos os projetos deverão possuir documentação e evidências verificáveis.
+
+---
+
+# 16. FONTES DE ESTUDO
+
+A bibliografia e os recursos complementares serão organizados no arquivo:
+
+`bibliografia.md`
+
+As certificações e respectivas trilhas de preparação serão organizadas no arquivo:
+
+`certificacoes.md`
+
+Priorizar:
+
+- Documentação oficial.
+- Livros técnicos reconhecidos.
+- Cursos universitários.
+- Laboratórios práticos.
+- Artigos científicos.
+- Plataformas de treinamento.
+- Normas e frameworks de segurança.
+
+---
+
+# 17. REGRAS ACADÊMICAS E OPERACIONAIS
+
+1. As aulas serão ministradas individualmente e em sequência.
+2. Cada aula terá objetivos, conteúdo, exercícios e critérios de avaliação.
+3. A matriz de competências será atualizada conforme evidências demonstradas.
+4. O avanço dependerá do desempenho, não apenas do calendário.
+5. Conteúdos não dominados deverão ser revisados.
+6. Cada semana deverá produzir documentação.
+7. Os projetos deverão ser versionados no GitHub.
+8. Os laboratórios ofensivos deverão possuir autorização e escopo definidos.
+9. O inglês técnico será integrado continuamente.
+10. A trilha de especialização será definida com base no desempenho e nos interesses demonstrados.
+
+---
+
+# 18. RESULTADO FINAL ESPERADO
+
+Ao término dos 24 meses, espera-se que o estudante tenha desenvolvido:
+
+- Base sólida em Ciência da Computação.
+- Conhecimento de redes e sistemas operacionais.
+- Capacidade de programação e automação.
+- Fundamentos avançados de segurança da informação.
+- Experiência prática em laboratórios.
+- Conhecimento de ferramentas profissionais.
+- Capacidade de analisar vulnerabilidades.
+- Capacidade de implementar controles de segurança.
+- Conhecimento de resposta a incidentes.
+- Experiência em projetos técnicos.
+- Inglês técnico aplicado.
+- Portfólio documentado.
+- Capacidade de conduzir estudos e pesquisas.
+
+**Observação:** esta grade estabelece uma formação intensiva e abrangente. A especialização profissional dependerá da profundidade alcançada, da prática contínua, da qualidade dos projetos e da experiência acumulada.
