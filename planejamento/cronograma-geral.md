@@ -19,7 +19,7 @@ A execução seguirá o desempenho demonstrado, e não exclusivamente as datas p
 
 ---
 
-1. APRESENTAÇÃO DO PROGRAMA
+**1. APRESENTAÇÃO DO PROGRAMA**
 
 O programa tem como objetivo desenvolver uma formação sólida e progressiva em Ciência da Computação e Cibersegurança, partindo dos fundamentos até a execução de projetos técnicos avançados.
 
@@ -43,7 +43,7 @@ Importante: os 24 meses representam uma formação intensiva e um objetivo de de
 
 ---
 
-2. PERFIL DE PARTIDA
+**2. PERFIL DE PARTIDA**
 
 - Área| Situação inicial
 - Ciência da Computação| Iniciante
@@ -62,7 +62,7 @@ Quando uma atividade exigir recursos superiores aos oferecidos pelo Termux, ser�
 
 ---
 
-3. METODOLOGIA DE ENSINO
+**3. METODOLOGIA DE ENSINO**
 
 Cada semana será desenvolvida por meio de atividades acadêmicas e práticas.
 
@@ -96,7 +96,7 @@ As aulas completas serão ministradas individualmente, conforme a sequência do 
 
 ---
 
-4. ROTINA SEMANAL
+**4. ROTINA SEMANAL**
 Carga horária de referência: 15,5 horas.
 
 Dia| Atividade| Duração
@@ -126,7 +126,7 @@ Será necessário demonstrar compreensão por meio de exercícios, explicações
 
 ---
 
-5. MARCOS TRIMESTRAIS
+**5. MARCOS TRIMESTRAIS**
 
 Marco| Período aproximado| Resultado esperado
 - Mês 03| Janeiro/2027| Scripts básicos, Linux, Git e lógica
@@ -142,7 +142,7 @@ Os marcos serão submetidos a avaliações próprias. Caso existam lacunas relev
 
 ---
 
-6. CRONOGRAMA COMPLETO — 104 SEMANAS
+**6. CRONOGRAMA COMPLETO — 104 SEMANAS**
 
 **FASE 1 — FUNDAMENTOS DA COMPUTAÇÃO**
 
@@ -1790,7 +1790,7 @@ Conteúdos:
 
 ---
 
-🎯 DECLARAÇÃO FINAL DO PROGRAMA
+🎯 **DECLARAÇÃO FINAL DO PROGRAMA**
 
 Este cronograma representa o compromisso acadêmico de uma formação progressiva, prática e orientada por competências.
 
