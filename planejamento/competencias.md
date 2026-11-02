@@ -17,7 +17,6 @@ Version control: Git and GitHub
 This document defines the technical, analytical, practical, and professional competencies required throughout the 24-month Computer Science and Cybersecurity program.
 
 Its purpose is to:
-
 - Measure actual learning progress.
 - Identify knowledge gaps.
 - Establish clear progression requirements.
@@ -50,7 +49,6 @@ Important: Level 4 does not mean expert-level professional mastery. It indicates
 3.1 Computational Thinking and Algorithms
 
 Required competencies:
-
 - [ ] Decompose complex problems into smaller tasks.
 - [ ] Identify inputs, processes, and outputs.
 - [ ] Design algorithms using pseudocode.
@@ -65,10 +63,10 @@ Evidence:
 - Flowcharts.
 - Independent problem-solving projects.
 
+
 3.2 Python Programming
 
 Required competencies:
-
 - [ ] Understand variables and data types.
 - [ ] Use operators and expressions.
 - [ ] Implement conditional statements.
@@ -85,16 +83,15 @@ Required competencies:
 - [ ] Debug and improve existing code.
 
 Evidence:
-
 - Python scripts.
 - Programming exercises.
 - Documented projects.
 - Tests and debugging records.
 
+
 3.3 Mathematics and Discrete Structures
 
 Required competencies:
-
 - [ ] Understand propositions and logical operators.
 - [ ] Construct truth tables.
 - [ ] Apply logical equivalence.
@@ -105,16 +102,15 @@ Required competencies:
 - [ ] Apply basic mathematical reasoning to computing problems.
 
 Evidence:
-
 - Solved exercises.
 - Mathematical explanations.
 - Number conversion exercises.
 - Boolean logic examples.
 
+
 3.4 Data Structures and Algorithms
 
 Required competencies:
-
 - [ ] Understand arrays and lists.
 - [ ] Implement stacks and queues.
 - [ ] Understand hash tables.
@@ -125,7 +121,6 @@ Required competencies:
 - [ ] Compare basic algorithmic solutions.
 
 Evidence:
-
 - Python implementations.
 - Performance comparisons.
 - Algorithm explanations.
@@ -137,7 +132,6 @@ Evidence:
 4.1 Linux Administration
 
 Required competencies:
-
 - [ ] Navigate the Linux filesystem.
 - [ ] Manage files and directories.
 - [ ] Understand users and groups.
@@ -150,16 +144,15 @@ Required competencies:
 - [ ] Apply basic system-hardening practices.
 
 Evidence:
-
 - Terminal command records.
 - Shell scripts.
 - Administration exercises.
 - System configuration reports.
 
+
 4.2 Operating Systems
 
 Required competencies:
-
 - [ ] Explain the role of the kernel.
 - [ ] Distinguish user space and kernel space.
 - [ ] Explain processes and threads.
@@ -170,7 +163,6 @@ Required competencies:
 - [ ] Identify common operating system security risks.
 
 Evidence:
-
 - Conceptual diagrams.
 - Technical explanations.
 - Practical system observations.
@@ -182,7 +174,6 @@ Evidence:
 5.1 Networking Fundamentals
 
 Required competencies:
-
 - [ ] Explain the OSI and TCP/IP models.
 - [ ] Understand Ethernet and MAC addresses.
 - [ ] Interpret IPv4 addresses.
@@ -195,16 +186,15 @@ Required competencies:
 - [ ] Identify common network troubleshooting problems.
 
 Evidence:
-
 - Network diagrams.
 - Subnetting exercises.
 - Protocol explanations.
 - Troubleshooting reports.
 
+
 5.2 Network Tools
 
 Required competencies:
-
 - [ ] Use ping.
 - [ ] Use traceroute or tracepath when available.
 - [ ] Inspect network interfaces and routes.
@@ -216,7 +206,6 @@ Required competencies:
 - [ ] Interpret basic network diagnostic results.
 
 Evidence:
-
 - Command records.
 - Captured laboratory outputs.
 - Network analysis reports.
@@ -228,7 +217,6 @@ Evidence:
 6.1 Security Principles
 
 Required competencies:
-
 - [ ] Explain confidentiality, integrity, and availability.
 - [ ] Distinguish threats, vulnerabilities, and risks.
 - [ ] Identify attack surfaces.
@@ -240,15 +228,14 @@ Required competencies:
 - [ ] Understand security risk assessment.
 
 Evidence:
-
 - Security analysis exercises.
 - Risk assessment documents.
 - Security control recommendations.
 
+
 6.2 Cryptography
 
 Required competencies:
-
 - [ ] Distinguish encryption and hashing.
 - [ ] Explain symmetric encryption.
 - [ ] Explain asymmetric encryption.
@@ -260,7 +247,6 @@ Required competencies:
 - [ ] Identify basic key-management risks.
 
 Evidence:
-
 - Cryptography exercises.
 - Python demonstrations.
 - File integrity verification reports.
@@ -272,7 +258,6 @@ Evidence:
 7.1 Database Security
 
 Required competencies:
-
 - [ ] Understand relational databases.
 - [ ] Create basic SQL queries.
 - [ ] Understand primary and foreign keys.
@@ -283,15 +268,14 @@ Required competencies:
 - [ ] Identify basic database security controls.
 
 Evidence:
-
 - SQL exercises.
 - Database projects.
 - Secure query examples.
 
+
 7.2 Web Technologies
 
 Required competencies:
-
 - [ ] Explain client-server architecture.
 - [ ] Understand HTML fundamentals.
 - [ ] Understand CSS fundamentals.
@@ -303,15 +287,14 @@ Required competencies:
 - [ ] Explain basic web authentication workflows.
 
 Evidence:
-
 - Web projects.
 - HTTP inspection records.
 - API exercises.
 
+
 7.3 Application Security
 
 Required competencies:
-
 - [ ] Understand the OWASP Top 10.
 - [ ] Identify broken access control.
 - [ ] Understand injection vulnerabilities.
@@ -325,7 +308,6 @@ Required competencies:
 - [ ] Recommend practical remediation.
 
 Evidence:
-
 - Controlled laboratory reports.
 - Secure coding examples.
 - Vulnerability analysis documents.
@@ -338,7 +320,6 @@ Evidence:
 8.1 Security Monitoring and SIEM
 
 Required competencies:
-
 - [ ] Understand security monitoring.
 - [ ] Identify common log sources.
 - [ ] Analyze Linux and Windows event records.
@@ -350,15 +331,14 @@ Required competencies:
 - [ ] Document security investigations.
 
 Evidence:
-
 - Log analysis exercises.
 - Detection examples.
 - Investigation reports.
 
+
 8.2 Incident Response
 
 Required competencies:
-
 - [ ] Explain the incident response lifecycle.
 - [ ] Identify and classify simulated incidents.
 - [ ] Build an incident timeline.
@@ -368,15 +348,14 @@ Required competencies:
 - [ ] Recommend preventive improvements.
 
 Evidence:
-
 - Incident response checklists.
 - Simulated incident reports.
 - Investigation timelines.
 
+
 8.3 Digital Forensics
 
 Required competencies:
-
 - [ ] Understand evidence preservation.
 - [ ] Explain chain of custody.
 - [ ] Calculate and verify file hashes.
@@ -386,15 +365,14 @@ Required competencies:
 - [ ] Preserve evidence integrity.
 
 Evidence:
-
 - Hash verification records.
 - Evidence logs.
 - Forensic laboratory reports.
 
+
 8.4 Endpoint and System Defense
 
 Required competencies:
-
 - [ ] Understand system hardening.
 - [ ] Apply basic access controls.
 - [ ] Understand patch management.
@@ -404,7 +382,6 @@ Required competencies:
 - [ ] Understand vulnerability management.
 
 Evidence:
-
 - Hardening checklists.
 - Configuration reviews.
 - Defensive laboratory reports.
@@ -416,7 +393,6 @@ Evidence:
 9.1 Penetration Testing Methodology
 
 Required competencies:
-
 - [ ] Explain penetration testing methodology.
 - [ ] Define scope and rules of engagement.
 - [ ] Confirm authorization before testing.
@@ -429,16 +405,15 @@ Required competencies:
 - [ ] Produce a professional assessment report.
 
 Evidence:
-
 - Authorized laboratory records.
 - Assessment plans.
 - Technical findings.
 - Penetration testing reports.
 
+
 9.2 Security Testing and Exploitation Fundamentals
 
 Required competencies:
-
 - [ ] Understand common vulnerability classes.
 - [ ] Explain exploitation fundamentals.
 - [ ] Understand privilege escalation concepts.
@@ -448,7 +423,6 @@ Required competencies:
 - [ ] Explain defensive mitigations.
 
 Evidence:
-
 - Controlled laboratory exercises.
 - Vulnerability validation reports.
 - Remediation documentation.
@@ -462,7 +436,6 @@ All offensive security activities must be restricted to owned systems or environ
 10.1 Cloud Computing
 
 Required competencies:
-
 - [ ] Explain IaaS, PaaS, and SaaS.
 - [ ] Understand public, private, and hybrid cloud.
 - [ ] Explain the shared responsibility model.
@@ -472,15 +445,14 @@ Required competencies:
 - [ ] Identify common cloud security risks.
 
 Evidence:
-
 - Cloud architecture diagrams.
 - Shared responsibility matrices.
 - Risk assessments.
 
+
 10.2 Cloud Security and DevSecOps
 
 Required competencies:
-
 - [ ] Apply least privilege to cloud access.
 - [ ] Understand cloud logging and monitoring.
 - [ ] Identify insecure cloud configurations.
@@ -492,16 +464,15 @@ Required competencies:
 - [ ] Explain basic Infrastructure as Code security.
 
 Evidence:
-
 - Secure configuration exercises.
 - Container laboratory reports.
 - CI/CD security diagrams.
 - Cloud security projects.
 
+
 10.3 Security Architecture
 
 Required competencies:
-
 - [ ] Identify trust boundaries.
 - [ ] Identify attack surfaces.
 - [ ] Build basic threat models.
@@ -511,7 +482,6 @@ Required competencies:
 - [ ] Document security architecture decisions.
 
 Evidence:
-
 - Threat models.
 - Architecture diagrams.
 - Security design documents.
@@ -523,7 +493,6 @@ Evidence:
 11.1 Technical Communication
 
 Required competencies:
-
 - [ ] Write clear technical documentation.
 - [ ] Explain technical decisions.
 - [ ] Produce structured laboratory reports.
@@ -532,15 +501,14 @@ Required competencies:
 - [ ] Present projects professionally.
 
 Evidence:
-
 - Markdown documentation.
 - Technical reports.
 - Project presentations.
 
+
 11.2 Technical English
 
 Required competencies:
-
 - [ ] Read technical documentation in English.
 - [ ] Understand common cybersecurity terminology.
 - [ ] Interpret error messages and technical instructions.
@@ -550,16 +518,15 @@ Required competencies:
 - [ ] Present a technical project in English.
 
 Evidence:
-
 - English vocabulary records.
 - Technical summaries.
 - English project documentation.
 - Recorded or written presentations.
 
+
 11.3 Research and Professional Development
 
 Required competencies:
-
 - [ ] Search for reliable technical sources.
 - [ ] Evaluate technical evidence.
 - [ ] Read security advisories.
@@ -570,7 +537,6 @@ Required competencies:
 - [ ] Define continued professional development goals.
 
 Evidence:
-
 - Research notes.
 - Technical experiments.
 - Portfolio projects.
@@ -597,7 +563,6 @@ Months 22–24| Advanced specialization and integrated professional portfolio
 Each competency must be assessed using practical evidence.
 
 Recommended approval requirements:
-
 - Essential competencies must reach Level 3 before independent progression into dependent subjects.
 - Level 4 is a development target for selected specialization competencies.
 - Weak competencies must be reviewed and reassessed.
@@ -627,7 +592,6 @@ Assessment status| Not started / Developing / Competent / Advanced
 15. Final Competency Standard
 
 At the end of the program, the student should demonstrate:
-
 - A solid foundation in Computer Science.
 - Practical programming ability.
 - Linux and networking competence.
