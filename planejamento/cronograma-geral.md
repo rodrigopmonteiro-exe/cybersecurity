@@ -1,1803 +1,917 @@
-🎓 FORMAÇÃO EM CIBERSEGURANÇA
+# Formação em Cibersegurança --- Plano de 24 meses
 
-PLANO ACADÊMICO — DO ZERO À ESPECIALIZAÇÃO AVANÇADA
+Perfil de partida: iniciante; Python inicial; inglês técnico a avaliar; Termux no Android; 15--17 horas por semana. Período de referência: 23/10/2026 a 22/10/2028. Datas semanais podem ser ajustadas conforme disponibilidade e progresso.
 
-<p align="center">PROGRAMA DE FORMAÇÃO — 24 MESES
+Este documento é o mapa mestre do curso. Cada semana tem um tema principal e tópicos operacionais. As aulas completas serão ministradas uma por vez, e a progressão dependerá das avaliações, não apenas do calendário.
 
-23/10/2026 — 22/10/2028
+## Rotina semanal padrão (15,5 horas)
 
-104 SEMANAS · 8 FASES · 8 MARCOS TRIMESTRAIS
+| Dia | Sessão | Tempo |
+|---|---|---|
+| Segunda | Aula principal + prática guiada | 2 h |
+| Terça | Fundamentos, matemática ou redes | 2 h |
+| Quarta | Linux, sistemas ou ferramentas | 2 h |
+| Quinta | Programação/laboratório | 2 h |
+| Sexta | Technical English + documentação | 1,5 h |
+| Sábado | Laboratório/projeto principal | 3 h |
+| Domingo | Revisão espaçada, teste e planejamento | 3 h |
 
-</p>---
+Regra de inglês: reservar 15--20% do tempo semanal, integrado às disciplinas. Cada aula terá vocabulário, leitura, compreensão e produção curta em inglês.
 
+Regra de segurança: testes ofensivos somente em sistemas próprios, laboratórios ou ambientes com autorização explícita e escopo definido.
 
-Natureza: documento mestre do programa acadêmico.
+## Marcos trimestrais
 
-Este cronograma é a referência central para a organização das aulas, avaliações, projetos, laboratórios, revisões e desenvolvimento profissional.
+- Mês 3: scripts básicos, fundamentos de Linux, Git e lógica.
+- Mês 6: diagnóstico de rede, leitura de tráfego e automações simples.
+- Mês 9: checklist de hardening, modelo de ameaças e análise de risco.
+- Mês 12: avaliação web autorizada, correção e relatório reproduzível.
+- Mês 15: investigação de alertas e regras de detecção num SOC de laboratório.
+- Mês 18: projeto de cloud/DevSecOps ou investigação forense.
+- Mês 21: projeto de especialização ou pesquisa técnica reproduzível.
+- Mês 24: projeto final, portfólio em inglês e avaliação de carreira.
 
-A execução seguirá o desempenho demonstrado, e não exclusivamente as datas previstas.
+## Cronograma completo --- 104 semanas
 
----
+### Fase 1 --- Fundamentos da computação (trimestre 1)
 
-**1. APRESENTAÇÃO DO PROGRAMA**
+#### Semana 01 --- Orientação, diagnóstico e ambiente de estudo
 
-O programa tem como objetivo desenvolver uma formação sólida e progressiva em Ciência da Computação e Cibersegurança, partindo dos fundamentos até a execução de projetos técnicos avançados.
+Datas de referência: 23/10/2026--29/10/2026
 
-A formação combina conhecimentos acadêmicos, prática profissional, investigação técnica, programação, administração de sistemas e segurança da informação.
+Tópicos: Diagnóstico; método de estudo; instalação/verificação do Python; Termux; organização de pastas; segurança básica do ambiente.
 
-Objetivos gerais
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-- Desenvolver fundamentos sólidos de Ciência da Computação.
-- Dominar programação Python e automação.
-- Compreender sistemas operacionais e redes.
-- Desenvolver competências em segurança ofensiva autorizada.
-- Desenvolver competências em defesa cibernética e SOC.
-- Compreender segurança de aplicações e desenvolvimento seguro.
-- Conhecer arquitetura e segurança em nuvem.
-- Desenvolver conhecimentos de investigação forense.
-- Realizar projetos técnicos reproduzíveis.
-- Construir portfólio profissional documentado.
-- Desenvolver inglês técnico para atuação internacional.
+#### Semana 02 --- Algoritmos e pensamento computacional
 
-Importante: os 24 meses representam uma formação intensiva e um objetivo de desenvolvimento. Não constituem garantia de especialização internacional ou de domínio profissional absoluto. O nível alcançado será determinado pelas competências efetivamente demonstradas.
+Datas de referência: 30/10/2026--05/11/2026
 
----
+Tópicos: Entrada-processamento-saída; decomposição de problemas; pseudocódigo; fluxogramas; rastreamento manual.
 
-**2. PERFIL DE PARTIDA**
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-- Área| Situação inicial
-- Ciência da Computação| Iniciante
-- Cibersegurança| Iniciante
-- Python| Conhecimentos iniciais
-- Matemática| Básica
-- Inglês| Intermediário
-- Linux| Em desenvolvimento
-- Git/GitHub| Em desenvolvimento
-- Ambiente principal| Termux no Android
-- Disponibilidade| 15–17 horas semanais
+#### Semana 03 --- Python: variáveis e tipos
 
-A formação começará com ferramentas compatíveis com o ambiente disponível.
+Datas de referência: 06/11/2026--12/11/2026
 
-Quando uma atividade exigir recursos superiores aos oferecidos pelo Termux, serão utilizados laboratórios remotos, máquinas virtuais, ambientes em nuvem ou computadores compatíveis.
+Tópicos: Atribuição; int, float, str, bool; print; input; type; conversão de tipos; erros comuns.
 
----
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-**3. METODOLOGIA DE ENSINO**
+#### Semana 04 --- Operadores e expressões
 
-Cada semana será desenvolvida por meio de atividades acadêmicas e práticas.
+Datas de referência: 13/11/2026--19/11/2026
 
-Estrutura de cada semana
+Tópicos: Operadores aritméticos; comparação; precedência; igualdade versus atribuição; concatenação versus soma.
 
-1. Aula teórica e explicação dos conceitos.
-2. Demonstrações práticas orientadas.
-3. Exercícios de fixação.
-4. Laboratórios técnicos.
-5. Technical English.
-6. Produção de documentação.
-7. Avaliação de aprendizagem.
-8. Revisão e planejamento da semana seguinte.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Estrutura de cada aula
+#### Semana 05 --- Lógica proposicional I
 
-Toda aula deverá apresentar:
-- Identificação e numeração.
-- Objetivos de aprendizagem.
-- Pré-requisitos.
-- Conteúdo teórico.
-- Exemplos demonstrativos.
-- Comandos e ferramentas.
-- Exercícios.
-- Laboratório prático.
-- Vocabulário técnico em inglês.
-- Avaliação ou atividade de verificação.
-- Evidências esperadas.
+Datas de referência: 20/11/2026--26/11/2026
 
-As aulas completas serão ministradas individualmente, conforme a sequência do cronograma.
+Tópicos: Proposições; verdadeiro/falso; negação; conjunção; disjunção; tabelas-verdade.
 
----
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-**4. ROTINA SEMANAL**
-Carga horária de referência: 15,5 horas.
+#### Semana 06 --- Python: decisões
 
-Dia| Atividade| Duração
-- Segunda-feira| Aula principal e prática guiada| 2 h
-- Terça-feira| Fundamentos, matemática ou redes| 2 h
-- Quarta-feira| Linux, sistemas ou ferramentas| 2 h
-- Quinta-feira| Programação e laboratório| 2 h
-- Sexta-feira| Technical English e documentação| 1,5 h
-- Sábado| Laboratório ou projeto principal| 3 h
-- Domingo| Revisão, teste e planejamento| 3 h
-TOTAL| | 15,5 h
+Datas de referência: 27/11/2026--03/12/2026
 
-Regra de inglês técnico
-Reservar aproximadamente 15–20% da carga horária semanal para o desenvolvimento do inglês.
+Tópicos: if, elif, else; condições compostas; indentação; validação inicial; casos-limite.
 
-O idioma será integrado às disciplinas, incluindo:
-- Vocabulário técnico.
-- Leitura de documentação.
-- Compreensão de textos técnicos.
-- Interpretação de mensagens de erro.
-- Escrita de relatórios.
-- Comunicação profissional.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Regra de progressão:
-Nenhum conteúdo essencial será considerado dominado apenas porque foi estudado.
-Será necessário demonstrar compreensão por meio de exercícios, explicações, laboratórios ou projetos.
+#### Semana 07 --- Python: repetição
 
----
+Datas de referência: 04/12/2026--10/12/2026
 
-**5. MARCOS TRIMESTRAIS**
+Tópicos: while; for; range; contadores; acumuladores; interrupção de laços; prevenção de laços infinitos.
 
-Marco| Período aproximado| Resultado esperado
-- Mês 03| Janeiro/2027| Scripts básicos, Linux, Git e lógica
-- Mês 06| Abril/2027| Diagnóstico de rede, leitura de tráfego e automações
-- Mês 09| Julho/2027| Hardening, modelagem de ameaças e análise de risco
-- Mês 12| Outubro/2027| Avaliação web autorizada, correção e relatório
-- Mês 15| Janeiro/2028| Investigação de alertas e detecção em SOC
-- Mês 18| Abril/2028| Projeto de cloud/DevSecOps ou investigação forense
-- Mês 21| Julho/2028| Especialização e pesquisa técnica
-- Mês 24| Outubro/2028| Projeto final, portfólio e avaliação profissional
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Os marcos serão submetidos a avaliações próprias. Caso existam lacunas relevantes, o conteúdo será reforçado antes da progressão.
+#### Semana 08 --- Strings e entrada segura
 
----
+Datas de referência: 11/12/2026--17/12/2026
 
-**6. CRONOGRAMA COMPLETO — 104 SEMANAS**
+Tópicos: Métodos de string; strip; lower; f-strings; conversões; entradas inválidas; introdução a try/except.
 
-**FASE 1 — FUNDAMENTOS DA COMPUTAÇÃO**
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Trimestre 1 | Semanas 01–13
+#### Semana 09 --- Estruturas de dados I
 
-Período: 23/10/2026 a 21/01/2027
+Datas de referência: 18/12/2026--24/12/2026
 
-Objetivo da fase: construir a base de lógica, matemática discreta, programação Python, utilização do terminal Linux e controle de versões.
+Tópicos: Listas; índices; fatiamento; operações comuns; percorrer listas; strings como sequências.
 
-**Semana 01 — Orientação, diagnóstico e ambiente de estudo**
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Datas: 23/10/2026 – 29/10/2026
+#### Semana 10 --- Funções
 
-Conteúdos:
-- Diagnóstico inicial.
-- Método de estudo.
-- Instalação e verificação do Python.
-- Termux.
-- Organização de diretórios.
-- Segurança básica do ambiente.
-  
-Entregáveis: notas, exercícios resolvidos, evidência prática e atividade de Technical English.
+Datas de referência: 25/12/2026--31/12/2026
 
+Tópicos: def; parâmetros; retorno; escopo; decomposição; docstrings; funções reutilizáveis.
 
-**Semana 02 — Algoritmos e pensamento computacional**
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Datas: 30/10/2026 – 05/11/2026
+#### Semana 11 --- Matemática discreta I
 
-Conteúdos:
-- Entrada, processamento e saída.
-- Decomposição de problemas.
-- Pseudocódigo.
-- Fluxogramas.
-- Rastreamento manual de algoritmos.
+Datas de referência: 01/01/2027--07/01/2027
 
-Entregáveis: notas, exercícios, algoritmo ou fluxograma e atividade de inglês técnico.
+Tópicos: Conjuntos; subconjuntos; operações; relações; produto cartesiano; aplicações em programação.
 
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-**Semana 03 — Python: variáveis e tipos**
+#### Semana 12 --- Linux e terminal I
 
-Datas: 06/11/2026 – 12/11/2026
+Datas de referência: 08/01/2027--14/01/2027
 
-Conteúdos:
-- Atribuição.
-- Tipos "int", "float", "str" e "bool".
-- "print()", "input()" e "type()".
-- Conversão de tipos.
-- Erros comuns.
-  
-Entregáveis: notas, exercícios e programas Python documentados.
+Tópicos: pwd; ls; cd; mkdir; touch; cp; mv; rm; caminhos absolutos/relativos; man e --help.
 
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-**Semana 04 — Operadores e expressões**
+#### Semana 13 --- Git, revisão e projeto do trimestre
 
-Datas: 13/11/2026 – 19/11/2026
+Datas de referência: 15/01/2027--21/01/2027
 
-Conteúdos:
-- Operadores aritméticos.
-- Operadores de comparação.
-- Precedência de operadores.
-- Igualdade versus atribuição.
-- Concatenação versus soma.
+Tópicos: git init; status; add; commit; log; README; revisão cumulativa; utilitário Python de terminal.
 
-Entregáveis: exercícios de expressões e programas de cálculo.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-**Semana 05 — Lógica proposicional I**
+### Fase 2 --- Redes, sistemas e programação (trimestre 2)
 
-Datas: 20/11/2026 – 26/11/2026
+#### Semana 14 --- Arquitetura de computadores
 
-Conteúdos:
+Datas de referência: 22/01/2027--28/01/2027
 
-- Proposições.
-- Valores verdadeiro e falso.
-- Negação.
-- Conjunção.
-- Disjunção.
-- Tabelas-verdade.
+Tópicos: CPU; RAM; armazenamento; processos; instruções; binário e hexadecimal; representação de dados.
 
-Entregáveis: exercícios de lógica e tabelas-verdade.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-**Semana 06 — Python: decisões**
+#### Semana 15 --- Sistemas operacionais
 
-Datas: 27/11/2026 – 03/12/2026
+Datas de referência: 29/01/2027--04/02/2027
 
-Conteúdos:
+Tópicos: Kernel; espaço de usuário; processos e threads; memória; sistema de arquivos; chamadas de sistema.
 
-- "if", "elif" e "else".
-- Condições compostas.
-- Indentação.
-- Validação inicial.
-- Casos-limite.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Entregáveis: programas com estruturas condicionais e exercícios.
+#### Semana 16 --- Linux: arquivos e permissões
 
-**Semana 07 — Python: repetição**
+Datas de referência: 05/02/2027--11/02/2027
 
-Datas: 04/12/2026 – 10/12/2026
+Tópicos: Proprietário; grupos; chmod; chown; umask; permissões; sudo; usuários e grupos.
 
-Conteúdos:
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-- "while".
-- "for".
-- "range()".
-- Contadores.
-- Acumuladores.
-- Interrupção de laços.
-- Prevenção de laços infinitos.
+#### Semana 17 --- Linux: processos e serviços
 
-Entregáveis: programas com estruturas de repetição e testes.
+Datas de referência: 12/02/2027--18/02/2027
 
-**Semana 08 — Strings e entrada segura**
+Tópicos: ps; top; kill; jobs; systemctl quando disponível; serviços; logs; variáveis de ambiente.
 
-Datas: 11/12/2026 – 17/12/2026
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Conteúdos:
+#### Semana 18 --- Redes I: conceitos básicos
 
-- Métodos de strings.
-- "strip()".
-- "lower()".
-- f-strings.
-- Conversões.
-- Entradas inválidas.
-- Introdução a "try/except".
+Datas de referência: 19/02/2027--25/02/2027
 
-Entregáveis: programas com tratamento inicial de entradas inválidas.
+Tópicos: LAN/WAN; topologias; comutação; roteamento; largura de banda; latência; modelo OSI.
 
-**Semana 09 — Estruturas de dados I**
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Datas: 18/12/2026 – 24/12/2026
+#### Semana 19 --- TCP/IP e encapsulamento
 
-Conteúdos:
+Datas de referência: 26/02/2027--04/03/2027
 
-- Listas.
-- Índices.
-- Fatiamento.
-- Operações comuns.
-- Percorrer listas.
-- Strings como sequências.
+Tópicos: Camadas TCP/IP; quadros, pacotes e segmentos; endereços MAC e IP; gateways.
 
-Entregáveis: exercícios e pequenos programas com listas.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-**Semana 10 — Funções**
+#### Semana 20 --- IPv4 e sub-redes I
 
-Datas: 25/12/2026 – 31/12/2026
+Datas de referência: 05/03/2027--11/03/2027
 
-Conteúdos:
+Tópicos: IPv4; máscara; CIDR; rede/host; endereço privado/público; exercícios de subnetting.
 
-- Definição com "def".
-- Parâmetros.
-- Retorno.
-- Escopo.
-- Decomposição.
-- Docstrings.
-- Funções reutilizáveis.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Entregáveis: biblioteca de funções simples e exercícios.
+#### Semana 21 --- IPv4/IPv6 e roteamento
 
-**Semana 11 — Matemática discreta I**
+Datas de referência: 12/03/2027--18/03/2027
 
-Datas: 01/01/2027 – 07/01/2027
+Tópicos: IPv6 básico; rota padrão; tabela de rotas; NAT; traceroute; limitações de redes móveis.
 
-Conteúdos:
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-- Conjuntos.
-- Subconjuntos.
-- Operações entre conjuntos.
-- Relações.
-- Produto cartesiano.
-- Aplicações em programação.
+#### Semana 22 --- Protocolos essenciais
 
-Entregáveis: exercícios matemáticos e exemplos computacionais.
+Datas de referência: 19/03/2027--25/03/2027
 
-**Semana 12 — Linux e terminal I**
+Tópicos: ARP; ICMP; DHCP; DNS; TCP; UDP; portas; handshake TCP; resolução de nomes.
 
-Datas: 08/01/2027 – 14/01/2027
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Conteúdos:
+#### Semana 23 --- HTTP, HTTPS e TLS
 
-- "pwd".
-- "ls".
-- "cd".
-- "mkdir".
-- "touch".
-- "cp".
-- "mv".
-- "rm".
-- Caminhos absolutos e relativos.
-- "man" e "--help".
+Datas de referência: 26/03/2027--01/04/2027
 
-Entregáveis: exercícios de terminal e estrutura organizada de diretórios.
+Tópicos: Métodos e códigos HTTP; cabeçalhos; cookies; TLS; certificados; requisições e respostas.
 
-**Semana 13 — Git, revisão e projeto do trimestre**
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Datas: 15/01/2027 – 21/01/2027
+#### Semana 24 --- Python intermediário I
 
-Conteúdos:
+Datas de referência: 02/04/2027--08/04/2027
 
-- "git init".
-- "git status".
-- "git add".
-- "git commit".
-- "git log".
-- README.
-- Revisão cumulativa.
-- Desenvolvimento de utilitário Python de terminal.
+Tópicos: Listas/dicionários; módulos; arquivos; JSON; exceções; organização de scripts.
 
-Projeto da fase: utilitário Python funcional, documentado e versionado no GitHub.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Avaliação: domínio de lógica, Python inicial, terminal e Git.
+#### Semana 25 --- Bash, APIs e SQL introdutório
 
----
+Datas de referência: 09/04/2027--15/04/2027
 
-**FASE 2 — REDES, SISTEMAS E PROGRAMAÇÃO**
+Tópicos: Pipe e redirecionamento; grep; sort; cut; curl; APIs; SQL SELECT/WHERE; consultas seguras.
 
-Trimestre 2 | Semanas 14–26
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Período: 22/01/2027 a 22/04/2027
+#### Semana 26 --- Wireshark, testes e projeto de rede
 
-Objetivo da fase: compreender arquitetura computacional, sistemas operacionais, redes e programação intermediária.
+Datas de referência: 16/04/2027--22/04/2027
 
-**Semana 14 — Arquitetura de computadores**
+Tópicos: Captura autorizada; filtros; leitura de DNS/TCP/HTTP; analisador de logs; monitor de rede em laboratório.
 
-Datas: 22/01/2027 – 28/01/2027
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Conteúdos:
+### Fase 3 --- Fundamentos de segurança (trimestre 3)
 
-- CPU.
-- RAM.
-- Armazenamento.
-- Processos.
-- Instruções.
-- Binário e hexadecimal.
-- Representação de dados.
+#### Semana 27 --- Princípios e vocabulário de segurança
 
-Entregáveis: exercícios de representação numérica e documentação da arquitetura básica.
+Datas de referência: 23/04/2027--29/04/2027
 
-**Semana 15 — Sistemas operacionais**
+Tópicos: CIA; ativo; ameaça; vulnerabilidade; risco; impacto; probabilidade; controle; defesa em profundidade.
 
-Datas: 29/01/2027 – 04/02/2027
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Conteúdos:
+#### Semana 28 --- Identidade e controle de acesso
 
-- Kernel.
-- Espaço de usuário.
-- Processos e threads.
-- Memória.
-- Sistema de arquivos.
-- Chamadas de sistema.
+Datas de referência: 30/04/2027--06/05/2027
 
-Entregáveis: exercícios e análise dos componentes de um sistema operacional.
+Tópicos: Autenticação; autorização; MFA; RBAC; princípio do menor privilégio; contas de serviço.
 
-**Semana 16 — Linux: arquivos e permissões**
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Datas: 05/02/2027 – 11/02/2027
+#### Semana 29 --- Senhas, segredos e sessões
 
-Conteúdos:
+Datas de referência: 07/05/2027--13/05/2027
 
-- Proprietários.
-- Grupos.
-- "chmod".
-- "chown".
-- "umask".
-- Permissões.
-- "sudo".
-- Usuários e grupos.
+Tópicos: Armazenamento seguro de senhas; hashing versus criptografia; gestão de segredos; sessões e tokens.
 
-Entregáveis: laboratório de permissões e checklist de configuração.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-**Semana 17 — Linux: processos e serviços**
+#### Semana 30 --- Criptografia I
 
-Datas: 12/02/2027 – 18/02/2027
+Datas de referência: 14/05/2027--20/05/2027
 
-Conteúdos:
+Tópicos: Criptografia simétrica/assimétrica; chaves; cifras; usos e limites; erros comuns de implementação.
 
-- "ps".
-- "top".
-- "kill".
-- "jobs".
-- "systemctl", quando disponível.
-- Serviços.
-- Logs.
-- Variáveis de ambiente.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Entregáveis: relatório de análise de processos e serviços.
+#### Semana 31 --- Hashing e assinaturas digitais
 
-**Semana 18 — Redes I: conceitos básicos**
+Datas de referência: 21/05/2027--27/05/2027
 
-Datas: 19/02/2027 – 25/02/2027
+Tópicos: Funções hash; integridade; salting; assinaturas; certificados; PKI; validação de certificados.
 
-Conteúdos:
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-- LAN e WAN.
-- Topologias.
-- Comutação.
-- Roteamento.
-- Largura de banda.
-- Latência.
-- Modelo OSI.
+#### Semana 32 --- TLS e comunicação segura
 
-Entregáveis: diagramas e exercícios de redes.
+Datas de referência: 28/05/2027--03/06/2027
 
-**Semana 19 — TCP/IP e encapsulamento**
+Tópicos: Handshake em alto nível; certificados; confiança; configuração segura; limites do HTTPS.
 
-Datas: 26/02/2027 – 04/03/2027
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Conteúdos:
+#### Semana 33 --- Hardening Linux
 
-- Camadas TCP/IP.
-- Quadros, pacotes e segmentos.
-- Endereços MAC e IP.
-- Gateways.
+Datas de referência: 04/06/2027--10/06/2027
 
-Entregáveis: diagrama de encapsulamento e exercícios.
+Tópicos: Atualizações; serviços mínimos; SSH; permissões; firewall local; auditoria básica; checklist.
 
-**Semana 20 — IPv4 e sub-redes I**
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Datas: 05/03/2027 – 11/03/2027
+#### Semana 34 --- Segurança Windows e PowerShell
 
-Conteúdos:
+Datas de referência: 11/06/2027--17/06/2027
 
-- IPv4.
-- Máscaras.
-- CIDR.
-- Endereços de rede e host.
-- Endereços privados e públicos.
-- Exercícios de subnetting.
+Tópicos: Contas; UAC; Defender; firewall; logs; PowerShell básico; atualizações e configuração segura.
 
-Entregáveis: lista de exercícios de endereçamento e subnetting.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-**Semana 21 — IPv4/IPv6 e roteamento**
+#### Semana 35 --- Segurança de redes
 
-Datas: 12/03/2027 – 18/03/2027
+Datas de referência: 18/06/2027--24/06/2027
 
-Conteúdos:
+Tópicos: Segmentação; firewall; IDS/IPS; VPN; Wi-Fi; exposição de serviços; regras de acesso.
 
-- IPv6 básico.
-- Rota padrão.
-- Tabela de rotas.
-- NAT.
-- Traceroute.
-- Limitações de redes móveis.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Entregáveis: análise de rotas e documentação dos testes.
+#### Semana 36 --- Gestão de vulnerabilidades
 
-**Semana 22 — Protocolos essenciais**
+Datas de referência: 25/06/2027--01/07/2027
 
-Datas: 19/03/2027 – 25/03/2027
+Tópicos: Inventário; CVE; CVSS; priorização; patch management; validação e exceções documentadas.
 
-Conteúdos:
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-- ARP.
-- ICMP.
-- DHCP.
-- DNS.
-- TCP.
-- UDP.
-- Portas.
-- Handshake TCP.
-- Resolução de nomes.
+#### Semana 37 --- Modelagem de ameaças
 
-Entregáveis: exercícios de protocolos e testes de resolução DNS.
+Datas de referência: 02/07/2027--08/07/2027
 
-**Semana 23 — HTTP, HTTPS e TLS**
+Tópicos: Ativos; fronteiras de confiança; diagramas de fluxo; STRIDE introdutório; mitigação.
 
-Datas: 26/03/2027 – 01/04/2027
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Conteúdos:
+#### Semana 38 --- Ética, privacidade e legislação
 
-- Métodos HTTP.
-- Códigos de resposta.
-- Cabeçalhos.
-- Cookies.
-- TLS.
-- Certificados.
-- Requisições e respostas.
+Datas de referência: 09/07/2027--15/07/2027
 
-Entregáveis: análise documentada de comunicações HTTP e HTTPS.
+Tópicos: Autorização; escopo; evidências; dados pessoais; responsabilidade; divulgação coordenada.
 
-**Semana 24 — Python intermediário I**
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Datas: 02/04/2027 – 08/04/2027
+#### Semana 39 --- Auditoria defensiva e projeto
 
-Conteúdos:
+Datas de referência: 16/07/2027--22/07/2027
 
-- Listas e dicionários.
-- Módulos.
-- Arquivos.
-- JSON.
-- Exceções.
-- Organização de scripts.
+Tópicos: Checklist de hardening; análise de configuração própria; matriz de risco; relatório e reteste.
 
-Entregáveis: scripts organizados e manipulação de arquivos JSON.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-**Semana 25 — Bash, APIs e SQL introdutório**
+### Fase 4 --- Segurança ofensiva autorizada e AppSec (trimestre 4)
 
-Datas: 09/04/2027 – 15/04/2027
+#### Semana 40 --- Metodologia de pentest
 
-Conteúdos:
+Datas de referência: 23/07/2027--29/07/2027
 
-- Pipes.
-- Redirecionamento.
-- "grep".
-- "sort".
-- "cut".
-- "curl".
-- APIs.
-- SQL "SELECT" e "WHERE".
-- Consultas seguras.
+Tópicos: Regras de engajamento; escopo; autorização; planejamento; evidências; comunicação e segurança operacional.
 
-Entregáveis: exercícios de terminal, consumo de API e consultas SQL.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-**Semana 26 — Wireshark, testes e projeto de rede**
+#### Semana 41 --- Reconhecimento e OSINT responsável
 
-Datas: 16/04/2027 – 22/04/2027
+Datas de referência: 30/07/2027--05/08/2027
 
-Conteúdos:
+Tópicos: Fontes públicas; validação de informações; escopo; coleta passiva; privacidade e limites.
 
-- Captura autorizada de tráfego.
-- Filtros.
-- Leitura de DNS.
-- Leitura de TCP e HTTP.
-- Analisador de logs.
-- Monitor de rede em laboratório.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Projeto da fase: ferramenta simples de análise de logs ou monitoramento de rede em ambiente autorizado.
+#### Semana 42 --- Nmap em laboratório
 
-Avaliação: arquitetura, Linux, protocolos, endereçamento e programação intermediária.
+Datas de referência: 06/08/2027--12/08/2027
 
----
+Tópicos: Descoberta autorizada; portas; serviços; opções comuns; interpretação; limites e impacto.
 
-**FASE 3 — FUNDAMENTOS DE SEGURANÇA**
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Trimestre 3 | Semanas 27–39
+#### Semana 43 --- Enumeração e análise de serviços
 
-Período: 23/04/2027 a 22/07/2027
+Datas de referência: 13/08/2027--19/08/2027
 
-Objetivo da fase: desenvolver fundamentos de segurança da informação, criptografia, administração segura e gestão de riscos.
+Tópicos: Banner grabbing em laboratório; versões; configuração; hipóteses; validação sem extrapolar escopo.
 
-**Semana 27 — Princípios e vocabulário de segurança**
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Datas: 23/04/2027 – 29/04/2027
+#### Semana 44 --- Fundamentos web
 
-Conteúdos:
+Datas de referência: 20/08/2027--26/08/2027
 
-- Confidencialidade, integridade e disponibilidade (CIA).
-- Ativos.
-- Ameaças.
-- Vulnerabilidades.
-- Riscos.
-- Impacto.
-- Probabilidade.
-- Controles.
-- Defesa em profundidade.
+Tópicos: Cliente-servidor; HTTP; DOM; cookies; sessões; autenticação; autorização; APIs.
 
-Entregáveis: glossário e exercícios de identificação de riscos.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-**Semana 28 — Identidade e controle de acesso**
+#### Semana 45 --- OWASP Top 10 e riscos web
 
-Datas: 30/04/2027 – 06/05/2027
+Datas de referência: 27/08/2027--02/09/2027
 
-Conteúdos:
+Tópicos: Classes de risco; impacto; causas; prevenção; priorização; leitura de advisories.
 
-- Autenticação.
-- Autorização.
-- MFA.
-- RBAC.
-- Menor privilégio.
-- Contas de serviço.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Entregáveis: matriz de controle de acesso e análise de permissões.
+#### Semana 46 --- SQL injection
 
-**Semana 29 — Senhas, segredos e sessões**
+Datas de referência: 03/09/2027--09/09/2027
 
-Datas: 07/05/2027 – 13/05/2027
+Tópicos: Causa; consultas parametrizadas; demonstração em app vulnerável; evidências; correção e reteste.
 
-Conteúdos:
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-- Armazenamento seguro de senhas.
-- Hashing versus criptografia.
-- Gestão de segredos.
-- Sessões.
-- Tokens.
+#### Semana 47 --- XSS e segurança do navegador
 
-Entregáveis: demonstração controlada e documentação de boas práticas.
+Datas de referência: 10/09/2027--16/09/2027
 
-**Semana 30 — Criptografia I**
+Tópicos: Stored/reflected/DOM XSS; escaping; sanitização; CSP; laboratório controlado; mitigação.
 
-Datas: 14/05/2027 – 20/05/2027
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Conteúdos:
+#### Semana 48 --- Autenticação e controle de acesso
 
-- Criptografia simétrica.
-- Criptografia assimétrica.
-- Chaves.
-- Cifras.
-- Usos e limites.
-- Erros comuns de implementação.
+Datas de referência: 17/09/2027--23/09/2027
 
-Entregáveis: exercícios e demonstrações didáticas de criptografia.
+Tópicos: Falhas de sessão; IDOR/BOLA; MFA; recuperação de conta; autorização server-side.
 
-**Semana 31 — Hashing e assinaturas digitais**
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Datas: 21/05/2027 – 27/05/2027
+#### Semana 49 --- SSRF, uploads e configuração
 
-Conteúdos:
+Datas de referência: 24/09/2027--30/09/2027
 
-- Funções hash.
-- Integridade.
-- Salting.
-- Assinaturas digitais.
-- Certificados.
-- PKI.
-- Validação de certificados.
+Tópicos: Modelo de ameaça; validação; allowlists; isolamento; limites de rede; controles defensivos.
 
-Entregáveis: comparação de hashes e verificação de integridade.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-**Semana 32 — TLS e comunicação segura**
+#### Semana 50 --- Burp Suite e APIs
 
-Datas: 28/05/2027 – 03/06/2027
+Datas de referência: 01/10/2027--07/10/2027
 
-Conteúdos:
+Tópicos: Proxy; histórico HTTP; repeater; testes autorizados; tokens; cabeçalhos; documentação de achados.
 
-- Handshake em alto nível.
-- Certificados.
-- Cadeia de confiança.
-- Configuração segura.
-- Limites do HTTPS.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Entregáveis: relatório de análise de certificados e comunicação segura.
+#### Semana 51 --- Secure coding e revisão
 
-**Semana 33 — Hardening Linux**
+Datas de referência: 08/10/2027--14/10/2027
 
-Datas: 04/06/2027 – 10/06/2027
+Tópicos: Validação; codificação de saída; dependências; tratamento de erros; revisão de código e testes.
 
-Conteúdos:
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-- Atualizações.
-- Serviços mínimos.
-- SSH.
-- Permissões.
-- Firewall local.
-- Auditoria básica.
-- Checklist de hardening.
+#### Semana 52 --- Pentest de laboratório e relatório
 
-Entregáveis: checklist aplicado e relatório de configuração segura.
+Datas de referência: 15/10/2027--21/10/2027
 
-**Semana 34 — Segurança Windows e PowerShell**
+Tópicos: Planejamento; achados reproduzíveis; severidade; evidências; correções; reteste; apresentação técnica.
 
-Datas: 11/06/2027 – 17/06/2027
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Conteúdos:
+### Fase 5 --- Blue Team, SOC e resposta a incidentes (trimestre 5)
 
-- Contas.
-- UAC.
-- Microsoft Defender.
-- Firewall.
-- Logs.
-- PowerShell básico.
-- Atualizações.
-- Configuração segura.
+#### Semana 53 --- Operações de SOC
 
-Entregáveis: checklist de segurança e exercícios de PowerShell.
+Datas de referência: 22/10/2027--28/10/2027
 
-**Semana 35 — Segurança de redes**
+Tópicos: Ciclo de alerta; triagem; severidade; escalonamento; documentação; métricas.
 
-Datas: 18/06/2027 – 24/06/2027
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Conteúdos:
+#### Semana 54 --- Logs e telemetria
 
-- Segmentação.
-- Firewall.
-- IDS/IPS.
-- VPN.
-- Wi-Fi.
-- Exposição de serviços.
-- Regras de acesso.
+Datas de referência: 29/10/2027--04/11/2027
 
-Entregáveis: diagrama de rede segura e regras documentadas.
+Tópicos: Syslog; logs de autenticação; timestamps; normalização; retenção; integridade.
 
-**Semana 36 — Gestão de vulnerabilidades**
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Datas: 25/06/2027 – 01/07/2027
+#### Semana 55 --- SIEM e correlação
 
-Conteúdos:
+Datas de referência: 05/11/2027--11/11/2027
 
-- Inventário.
-- CVE.
-- CVSS.
-- Priorização.
-- Patch management.
-- Validação.
-- Exceções documentadas.
+Tópicos: Eventos; regras; consultas; correlação; falsos positivos; casos de uso.
 
-Entregáveis: inventário de vulnerabilidades e matriz de priorização.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-**Semana 37 — Modelagem de ameaças**
+#### Semana 56 --- Wazuh ou alternativa de laboratório
 
-Datas: 02/07/2027 – 08/07/2027
+Datas de referência: 12/11/2027--18/11/2027
 
-Conteúdos:
+Tópicos: Arquitetura; agentes; eventos; alertas; configuração segura; recursos de hardware.
 
-- Ativos.
-- Fronteiras de confiança.
-- Diagramas de fluxo de dados.
-- STRIDE introdutório.
-- Mitigação.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Entregáveis: modelo de ameaças e plano de mitigação.
+#### Semana 57 --- MITRE ATT&CK
 
-**Semana 38 — Ética, privacidade e legislação**
+Datas de referência: 19/11/2027--25/11/2027
 
-Datas: 09/07/2027 – 15/07/2027
+Tópicos: Táticas; técnicas; procedimentos; mapeamento de eventos; uso responsável da matriz.
 
-Conteúdos:
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-- Autorização.
-- Escopo.
-- Evidências.
-- Dados pessoais.
-- Responsabilidade.
-- Divulgação coordenada.
+#### Semana 58 --- Detecção e engenharia de regras
 
-Entregáveis: análise de cenário ético e documento de autorização e escopo.
+Datas de referência: 26/11/2027--02/12/2027
 
-**Semana 39 — Auditoria defensiva e projeto**
+Tópicos: Hipóteses; fontes de dados; lógica; testes; cobertura; tuning; documentação.
 
-Datas: 16/07/2027 – 22/07/2027
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Conteúdos:
+#### Semana 59 --- Análise de phishing
 
-- Checklist de hardening.
-- Análise de configuração própria.
-- Matriz de risco.
-- Relatório.
-- Reteste.
+Datas de referência: 03/12/2027--09/12/2027
 
-Projeto da fase: auditoria defensiva de ambiente próprio ou laboratório, com evidências, recomendações e reteste.
+Tópicos: Cabeçalhos de e-mail; URLs; anexos suspeitos; indicadores; isolamento; comunicação segura.
 
-Avaliação: segurança da informação, criptografia, hardening e gestão de riscos.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
----
+#### Semana 60 --- Resposta a incidentes
 
-**FASE 4 — SEGURANÇA OFENSIVA AUTORIZADA E APPSEC**
+Datas de referência: 10/12/2027--16/12/2027
 
-Trimestre 4 | Semanas 40–52
+Tópicos: Preparação; identificação; contenção; erradicação; recuperação; lições aprendidas.
 
-Período: 23/07/2027 a 21/10/2027
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Objetivo da fase: compreender metodologias de testes de segurança, reconhecimento responsável e vulnerabilidades em aplicações web.
+#### Semana 61 --- Threat hunting
 
-**Semana 40 — Metodologia de pentest**
+Datas de referência: 17/12/2027--23/12/2027
 
-Datas: 23/07/2027 – 29/07/2027
+Tópicos: Hipóteses; consultas; baselines; análise comportamental; limites e falsos positivos.
 
-Conteúdos:
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-- Regras de engajamento.
-- Escopo.
-- Autorização.
-- Planejamento.
-- Evidências.
-- Comunicação.
-- Segurança operacional.
+#### Semana 62 --- Forense inicial de endpoint
 
-Entregáveis: modelo de regras de engajamento e plano de testes.
+Datas de referência: 24/12/2027--30/12/2027
 
-**Semana 41 — Reconhecimento e OSINT responsável**
+Tópicos: Linha do tempo; eventos; artefatos; preservação; coleta mínima; cadeia de custódia.
 
-Datas: 30/07/2027 – 05/08/2027
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Conteúdos:
+#### Semana 63 --- Playbooks e automação
 
-- Fontes públicas.
-- Validação de informações.
-- Escopo.
-- Coleta passiva.
-- Privacidade.
-- Limites éticos.
+Datas de referência: 31/12/2027--06/01/2028
 
-Entregáveis: relatório de reconhecimento com fontes e limites documentados.
+Tópicos: Runbooks; critérios de escalonamento; Python para parsing; controle humano; logs de ações.
 
-**Semana 42 — Nmap em laboratório**
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Datas: 06/08/2027 – 12/08/2027
+#### Semana 64 --- Simulação de incidente
 
-Conteúdos:
+Datas de referência: 07/01/2028--13/01/2028
 
-- Descoberta autorizada.
-- Portas.
-- Serviços.
-- Opções comuns.
-- Interpretação.
-- Limites e impacto.
+Tópicos: Eventos sintéticos; investigação; decisões; cronologia; relatório executivo e técnico.
 
-Entregáveis: relatório de descoberta de serviços em laboratório autorizado.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-**Semana 43 — Enumeração e análise de serviços**
+#### Semana 65 --- Projeto SOC
 
-Datas: 13/08/2027 – 19/08/2027
+Datas de referência: 14/01/2028--20/01/2028
 
-Conteúdos:
+Tópicos: Laboratório pequeno; regras de detecção; casos de teste; métricas; apresentação em inglês.
 
-- Banner grabbing em laboratório.
-- Versões.
-- Configuração.
-- Formulação de hipóteses.
-- Validação sem extrapolar escopo.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Entregáveis: inventário de serviços e relatório técnico.
+### Fase 6 --- Nuvem, DevSecOps e forense (trimestre 6)
 
-**Semana 44 — Fundamentos web**
+#### Semana 66 --- Fundamentos de cloud
 
-Datas: 20/08/2027 – 26/08/2027
+Datas de referência: 21/01/2028--27/01/2028
 
-Conteúdos:
+Tópicos: IaaS/PaaS/SaaS; regiões; zonas; responsabilidade compartilhada; custos e contas de laboratório.
 
-- Cliente-servidor.
-- HTTP.
-- DOM.
-- Cookies.
-- Sessões.
-- Autenticação.
-- Autorização.
-- APIs.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Entregáveis: diagrama de funcionamento de aplicação web.
+#### Semana 67 --- IAM e arquitetura segura
 
-**Semana 45 — OWASP Top 10 e riscos web**
+Datas de referência: 28/01/2028--03/02/2028
 
-Datas: 27/08/2027 – 02/09/2027
+Tópicos: Identidades; papéis; políticas; MFA; menor privilégio; segregação de funções.
 
-Conteúdos:
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-- Classes de risco.
-- Impacto.
-- Causas.
-- Prevenção.
-- Priorização.
-- Leitura de advisories.
+#### Semana 68 --- Redes e armazenamento em cloud
 
-Entregáveis: matriz de riscos web e recomendações defensivas.
+Datas de referência: 04/02/2028--10/02/2028
 
-**Semana 46 — SQL Injection**
+Tópicos: VPC/VNet; sub-redes; grupos de segurança; armazenamento; exposição pública; criptografia.
 
-Datas: 03/09/2027 – 09/09/2027
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Conteúdos:
+#### Semana 69 --- Logs e postura de segurança cloud
 
-- Causas da SQL Injection.
-- Consultas parametrizadas.
-- Demonstração em aplicação vulnerável.
-- Evidências.
-- Correção.
-- Reteste.
+Datas de referência: 11/02/2028--17/02/2028
 
-Entregáveis: laboratório controlado e relatório de correção.
+Tópicos: Logs de auditoria; alertas; inventário; configuração; resposta a exposição; custos.
 
-**Semana 47 — XSS e segurança do navegador**
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Datas: 10/09/2027 – 16/09/2027
+#### Semana 70 --- Docker e containers
 
-Conteúdos:
+Datas de referência: 18/02/2028--24/02/2028
 
-- Stored XSS.
-- Reflected XSS.
-- DOM XSS.
-- Escaping.
-- Sanitização.
-- CSP.
-- Laboratório controlado.
-- Mitigação.
+Tópicos: Imagens; containers; volumes; redes; Dockerfile; privilégios; imagens mínimas.
 
-Entregáveis: demonstração em laboratório e documentação das medidas de proteção.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-**Semana 48 — Autenticação e controle de acesso**
+#### Semana 71 --- Kubernetes introdutório
 
-Datas: 17/09/2027 – 23/09/2027
+Datas de referência: 25/02/2028--02/03/2028
 
-Conteúdos:
+Tópicos: Pods; deployments; services; secrets; RBAC; network policies; limites do laboratório.
 
-- Falhas de sessão.
-- IDOR/BOLA.
-- MFA.
-- Recuperação de conta.
-- Autorização no servidor.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Entregáveis: matriz de testes de autorização e relatório.
+#### Semana 72 --- DevSecOps e CI/CD
 
-**Semana 49 — SSRF, uploads e configuração**
+Datas de referência: 03/03/2028--09/03/2028
 
-Datas: 24/09/2027 – 30/09/2027
+Tópicos: Pipeline; testes; análise estática; dependências; secrets scanning; gates e exceções.
 
-Conteúdos:
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-- Modelo de ameaça.
-- Validação.
-- Allowlists.
-- Isolamento.
-- Limites de rede.
-- Controles defensivos.
+#### Semana 73 --- Infraestrutura como código
 
-Entregáveis: checklist de proteção para uploads e requisições externas.
+Datas de referência: 10/03/2028--16/03/2028
 
-**Semana 50 — Burp Suite e APIs**
+Tópicos: Princípios; revisão; estado; segredos; análise de configuração; mudanças controladas.
 
-Datas: 01/10/2027 – 07/10/2027
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Conteúdos:
+#### Semana 74 --- Forense digital e cadeia de custódia
 
-- Proxy.
-- Histórico HTTP.
-- Repeater.
-- Testes autorizados.
-- Tokens.
-- Cabeçalhos.
-- Documentação de achados.
+Datas de referência: 17/03/2028--23/03/2028
 
-Entregáveis: relatório de análise HTTP/API em ambiente de treinamento.
+Tópicos: Aquisição; hashes; preservação; documentação; autorização; integridade de evidências.
 
-**Semana 51 — Secure coding e revisão**
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Datas: 08/10/2027 – 14/10/2027
+#### Semana 75 --- Sistemas de arquivos e timelines
 
-Conteúdos:
+Datas de referência: 24/03/2028--30/03/2028
 
-- Validação.
-- Codificação de saída.
-- Dependências.
-- Tratamento de erros.
-- Revisão de código.
-- Testes.
+Tópicos: Metadados; timestamps; artefatos; timelines; ferramentas forenses; limitações.
 
-Entregáveis: revisão de código e correção de vulnerabilidades demonstrativas.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-**Semana 52 — Pentest de laboratório e relatório**
+#### Semana 76 --- Memória e análise de artefatos
 
-Datas: 15/10/2027 – 21/10/2027
+Datas de referência: 31/03/2028--06/04/2028
 
-Conteúdos:
+Tópicos: Conceitos de memória; Volatility introdutório; imagens de treino; interpretação cautelosa.
 
-- Planejamento.
-- Achados reproduzíveis.
-- Severidade.
-- Evidências.
-- Correções.
-- Reteste.
-- Apresentação técnica.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Projeto da fase: avaliação de segurança de aplicação de laboratório, com relatório profissional e recomendações.
+#### Semana 77 --- Malware e threat intelligence
 
-Avaliação: metodologia, escopo, identificação de vulnerabilidades, correção e comunicação técnica.
+Datas de referência: 07/04/2028--13/04/2028
 
----
+Tópicos: Análise estática/dinâmica em ambiente isolado; IOC; TTP; confiabilidade de fontes; OSINT.
 
-**FASE 5 — BLUE TEAM, SOC E RESPOSTA A INCIDENTES**
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Trimestre 5 | Semanas 53–65
+#### Semana 78 --- Projeto integrado de cloud/forense
 
-Período: 22/10/2027 a 20/01/2028
+Datas de referência: 14/04/2028--20/04/2028
 
-Objetivo da fase: desenvolver competências de monitoramento, detecção, análise de eventos, resposta a incidentes e investigação defensiva.
+Tópicos: Arquitetura segura; pipeline ou investigação sintética; relatório; custo; limitações e recomendações.
 
-**Semana 53 — Operações de SOC**
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Datas: 22/10/2027 – 28/10/2027
+### Fase 7 --- Especialização e pesquisa (trimestre 7)
 
-Conteúdos:
+#### Semana 79 --- Avaliação de especialização
 
-- Ciclo de alerta.
-- Triagem.
-- Severidade.
-- Escalonamento.
-- Documentação.
-- Métricas.
+Datas de referência: 21/04/2028--27/04/2028
 
-Entregáveis: fluxo de trabalho de SOC e exercícios de triagem.
+Tópicos: Inventário de competências; interesse; oportunidades; escolha de uma trilha principal.
 
-**Semana 54 — Logs e telemetria**
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Datas: 29/10/2027 – 04/11/2027
+#### Semana 80 --- Método de pesquisa técnica
 
-Conteúdos:
+Datas de referência: 28/04/2028--04/05/2028
 
-- Syslog.
-- Logs de autenticação.
-- Timestamps.
-- Normalização.
-- Retenção.
-- Integridade.
+Tópicos: Pergunta de pesquisa; hipótese; revisão bibliográfica; fontes confiáveis; ética e reprodutibilidade.
 
-Entregáveis: análise e organização de logs.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-**Semana 55 — SIEM e correlação**
+#### Semana 81 --- Especialização: aprofundamento I
 
-Datas: 05/11/2027 – 11/11/2027
+Datas de referência: 05/05/2028--11/05/2028
 
-Conteúdos:
+Tópicos: Fundamentos avançados da trilha escolhida; documentação de referência; laboratório controlado.
 
-- Eventos.
-- Regras.
-- Consultas.
-- Correlação.
-- Falsos positivos.
-- Casos de uso.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Entregáveis: consultas e regras de correlação documentadas.
+#### Semana 82 --- Especialização: aprofundamento II
 
-**Semana 56 — Wazuh ou alternativa de laboratório**
+Datas de referência: 12/05/2028--18/05/2028
 
-Datas: 12/11/2027 – 18/11/2027
+Tópicos: Ferramentas e metodologias específicas; comparação de abordagens; limitações.
 
-Conteúdos:
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-- Arquitetura.
-- Agentes.
-- Eventos.
-- Alertas.
-- Configuração segura.
-- Recursos de hardware.
+#### Semana 83 --- Especialização: engenharia prática
 
-Entregáveis: laboratório funcional ou alternativa leve documentada.
+Datas de referência: 19/05/2028--25/05/2028
 
-**Semana 57 — MITRE ATT&CK**
+Tópicos: Desenho de experimento; protótipo ou ferramenta; testes; controle de versões.
 
-Datas: 19/11/2027 – 25/11/2027
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Conteúdos:
+#### Semana 84 --- Leitura crítica de artigos
 
-- Táticas.
-- Técnicas.
-- Procedimentos.
-- Mapeamento de eventos.
-- Uso responsável da matriz.
+Datas de referência: 26/05/2028--01/06/2028
 
-Entregáveis: mapeamento de eventos e técnicas relevantes.
+Tópicos: Método; amostra; resultados; validade; limitações; reprodução de um experimento seguro.
 
-**Semana 58 — Detecção e engenharia de regras**
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Datas: 26/11/2027 – 02/12/2027
+#### Semana 85 --- Automação especializada
 
-Conteúdos:
+Datas de referência: 02/06/2028--08/06/2028
 
-- Hipóteses.
-- Fontes de dados.
-- Lógica.
-- Testes.
-- Cobertura.
-- Tuning.
-- Documentação.
+Tópicos: Python para tarefa da especialidade; testes; logging; tratamento de erros; qualidade de código.
 
-Entregáveis: regras de detecção testadas e documentadas.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-**Semana 59 — Análise de phishing**
+#### Semana 86 --- Arquitetura e análise avançada
 
-Datas: 03/12/2027 – 09/12/2027
+Datas de referência: 09/06/2028--15/06/2028
 
-Conteúdos:
+Tópicos: Modelagem; trade-offs; falhas; mitigação; padrões e referências relevantes à trilha.
 
-- Cabeçalhos de e-mail.
-- URLs.
-- Anexos suspeitos.
-- Indicadores.
-- Isolamento.
-- Comunicação segura.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Entregáveis: relatório de análise de phishing com amostras seguras.
+#### Semana 87 --- CTF e desafios autorizados
 
-**Semana 60 — Resposta a incidentes**
+Datas de referência: 16/06/2028--22/06/2028
 
-Datas: 10/12/2027 – 16/12/2027
+Tópicos: Planejamento; documentação; aprendizagem por problema; limites éticos; write-ups responsáveis.
 
-Conteúdos:
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-- Preparação.
-- Identificação.
-- Contenção.
-- Erradicação.
-- Recuperação.
-- Lições aprendidas.
+#### Semana 88 --- Projeto de pesquisa: proposta
 
-Entregáveis: plano de resposta a incidentes.
+Datas de referência: 23/06/2028--29/06/2028
 
-**Semana 61 — Threat hunting**
+Tópicos: Problema; objetivos; escopo; método; riscos; critérios de sucesso.
 
-Datas: 17/12/2027 – 23/12/2027
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Conteúdos:
+#### Semana 89 --- Projeto de pesquisa: execução
 
-- Hipóteses.
-- Consultas.
-- Baselines.
-- Análise comportamental.
-- Limites.
-- Falsos positivos.
+Datas de referência: 30/06/2028--06/07/2028
 
-Entregáveis: investigação baseada em hipóteses e relatório.
+Tópicos: Implementação; coleta de evidências; testes; análise de resultados.
 
-**Semana 62 — Forense inicial de endpoint**
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Datas: 24/12/2027 – 30/12/2027
+#### Semana 90 --- Projeto de pesquisa: validação
 
-Conteúdos:
+Datas de referência: 07/07/2028--13/07/2028
 
-- Linha do tempo.
-- Eventos.
-- Artefatos.
-- Preservação.
-- Coleta mínima.
-- Cadeia de custódia.
+Tópicos: Reprodução; revisão por pares informal; limites; correções; documentação.
 
-Entregáveis: documentação de investigação simulada.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-**Semana 63 — Playbooks e automação**
+#### Semana 91 --- Relatório e apresentação da pesquisa
 
-Datas: 31/12/2027 – 06/01/2028
+Datas de referência: 14/07/2028--20/07/2028
 
-Conteúdos:
+Tópicos: Artigo técnico; README; resultados; apresentação oral; feedback e próximos passos.
 
-- Runbooks.
-- Critérios de escalonamento.
-- Python para parsing.
-- Controle humano.
-- Logs de ações.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Entregáveis: playbook e ferramenta simples de automação.
+### Fase 8 --- Portfólio, carreira e projeto final (trimestre 8)
 
-**Semana 64 — Simulação de incidente**
+#### Semana 92 --- Auditoria do portfólio
 
-Datas: 07/01/2028 – 13/01/2028
+Datas de referência: 21/07/2028--27/07/2028
 
-Conteúdos:
+Tópicos: Seleção de projetos; qualidade; segurança; documentação; lacunas; plano de melhoria.
 
-- Eventos sintéticos.
-- Investigação.
-- Decisões.
-- Cronologia.
-- Relatório executivo.
-- Relatório técnico.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Entregáveis: investigação simulada e relatório completo.
+#### Semana 93 --- Engenharia de projeto final
 
-**Semana 65 — Projeto SOC**
+Datas de referência: 28/07/2028--03/08/2028
 
-Datas: 14/01/2028 – 20/01/2028
+Tópicos: Problema realista; requisitos; arquitetura; threat model; plano de execução.
 
-Conteúdos:
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-- Laboratório pequeno.
-- Regras de detecção.
-- Casos de teste.
-- Métricas.
-- Apresentação em inglês.
+#### Semana 94 --- Implementação do projeto final I
 
-Projeto da fase: laboratório SOC com eventos, regras de detecção, testes, documentação e apresentação técnica em inglês.
+Datas de referência: 04/08/2028--10/08/2028
 
-Avaliação: análise de logs, triagem, detecção, investigação e resposta a incidentes.
+Tópicos: Estrutura; protótipo; controle de versões; testes; registro de decisões.
 
----
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-**FASE 6 — NUVEM, DEVSECOPS E FORENSE**
+#### Semana 95 --- Implementação do projeto final II
 
-Trimestre 6 | Semanas 66–78
+Datas de referência: 11/08/2028--17/08/2028
 
-Período: 21/01/2028 a 20/04/2028
+Tópicos: Funcionalidades centrais; análise de segurança; tratamento de falhas; revisão.
 
-Objetivo da fase: desenvolver conhecimentos de arquitetura cloud, segurança de containers, integração segura de desenvolvimento e investigação forense digital.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-**Semana 66 — Fundamentos de cloud**
+#### Semana 96 --- Validação e evidências
 
-Datas: 21/01/2028 – 27/01/2028
+Datas de referência: 18/08/2028--24/08/2028
 
-Conteúdos:
+Tópicos: Testes; reprodução; métricas; limitações; revisão independente quando possível.
 
-- IaaS.
-- PaaS.
-- SaaS.
-- Regiões.
-- Zonas.
-- Responsabilidade compartilhada.
-- Custos.
-- Contas de laboratório.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Entregáveis: diagrama de arquitetura cloud e análise de responsabilidades.
+#### Semana 97 --- Documentação em inglês
 
-**Semana 67 — IAM e arquitetura segura**
+Datas de referência: 25/08/2028--31/08/2028
 
-Datas: 28/01/2028 – 03/02/2028
+Tópicos: README; arquitetura; instalação; uso; testes; limitações; relatório técnico.
 
-Conteúdos:
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-- Identidades.
-- Papéis.
-- Políticas.
-- MFA.
-- Menor privilégio.
-- Segregação de funções.
+#### Semana 98 --- Open source e colaboração
 
-Entregáveis: matriz IAM e políticas de acesso.
+Datas de referência: 01/09/2028--07/09/2028
 
-**Semana 68 — Redes e armazenamento em cloud**
+Tópicos: Issues; pull requests; revisão de código; comunicação; licença e conduta comunitária.
 
-Datas: 04/02/2028 – 10/02/2028
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Conteúdos:
+#### Semana 99 --- Certificações e planejamento
 
-- VPC/VNet.
-- Sub-redes.
-- Grupos de segurança.
-- Armazenamento.
-- Exposição pública.
-- Criptografia.
+Datas de referência: 08/09/2028--14/09/2028
 
-Entregáveis: diagrama de rede cloud segura.
+Tópicos: Comparar requisitos, custos, experiência exigida e alinhamento à especialidade; validar páginas oficiais.
 
-**Semana 69 — Logs e postura de segurança cloud**
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Datas: 11/02/2028 – 17/02/2028
+#### Semana 100 --- Currículo e perfil profissional
 
-Conteúdos:
+Datas de referência: 15/09/2028--21/09/2028
 
-- Logs de auditoria.
-- Alertas.
-- Inventário.
-- Configuração.
-- Resposta a exposição.
-- Custos.
+Tópicos: CV em inglês; LinkedIn; portfólio; descrição de resultados; honestidade sobre experiência.
 
-Entregáveis: checklist de postura de segurança cloud.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-**Semana 70 — Docker e containers**
+#### Semana 101 --- Entrevistas técnicas I
 
-Datas: 18/02/2028 – 24/02/2028
+Datas de referência: 22/09/2028--28/09/2028
 
-Conteúdos:
+Tópicos: Fundamentos; explicação de projetos; resolução de problemas; vocabulário técnico.
 
-- Imagens.
-- Containers.
-- Volumes.
-- Redes.
-- Dockerfile.
-- Privilégios.
-- Imagens mínimas.
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Entregáveis: aplicação containerizada com configuração segura.
+#### Semana 102 --- Entrevistas técnicas II
 
-**Semana 71 — Kubernetes introdutório**
+Datas de referência: 29/09/2028--05/10/2028
 
-Datas: 25/02/2028 – 02/03/2028
+Tópicos: Estudos de caso; incidentes simulados; perguntas comportamentais; apresentações em inglês.
 
-Conteúdos:
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-- Pods.
-- Deployments.
-- Services.
-- Secrets.
-- RBAC.
-- Network Policies.
-- Limites do laboratório.
+#### Semana 103 --- Apresentação pública
 
-Entregáveis: configuração introdutória e checklist de segurança Kubernetes.
+Datas de referência: 06/10/2028--12/10/2028
 
-**Semana 72 — DevSecOps e CI/CD**
+Tópicos: Demonstração do projeto; artigo; palestra curta; feedback; divulgação responsável.
 
-Datas: 03/03/2028 – 09/03/2028
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Conteúdos:
+#### Semana 104 --- Avaliação final e plano de continuidade
 
-- Pipeline.
-- Testes.
-- Análise estática.
-- Dependências.
-- Secrets scanning.
-- Gates.
-- Exceções.
+Datas de referência: 13/10/2028--19/10/2028
 
-Entregáveis: pipeline demonstrativo com verificações de segurança.
+Tópicos: Defesa do projeto; rubrica; retrospectiva; lacunas; plano de desenvolvimento para os próximos 12 meses.
 
-**Semana 73 — Infraestrutura como código**
+Entrega/evidência: notas próprias + exercícios resolvidos + uma evidência prática (código, captura, checklist ou relatório) + atividade curta de Technical English.
 
-Datas: 10/03/2028 – 16/03/2028
+## Avaliação e progressão
 
-Conteúdos:
+Escala de 0 a 100; meta recomendada: 80.
 
-- Princípios.
-- Revisão.
-- Estado.
-- Segredos.
-- Análise de configuração.
-- Mudanças controladas.
+Pesos: fundamentos 20%; exercícios 20%; laboratórios 30%; projeto/documentação 20%; inglês técnico 10%.
 
-Entregáveis: exemplo de infraestrutura como código e revisão de segurança.
+Competências críticas (segurança, autorização, tratamento de dados e entendimento dos fundamentos) exigem domínio demonstrado, mesmo que a média geral seja alta.
 
-**Semana 74 — Forense digital e cadeia de custódia**
+Se uma competência essencial não estiver consolidada, a semana seguinte recebe reforço e recuperação.
 
-Datas: 17/03/2028 – 23/03/2028
+## Modelo de relatório semanal
 
-Conteúdos:
+Copie este bloco ao final de cada semana:
 
-- Aquisição.
-- Hashes.
-- Preservação.
-- Documentação.
-- Autorização.
-- Integridade de evidências.
+```text
+Horas planejadas:
+Horas realizadas:
+Aulas/conteúdos concluídos:
+Nota e evidências:
+O que já consigo fazer sem ajuda:
+Erros e lacunas:
+Revisões necessárias:
+Objetivos da próxima semana:
+```
 
-Entregáveis: procedimento documentado de preservação de evidências.
+## Observações importantes
 
-**Semana 75 — Sistemas de arquivos e timelines**
+O plano é uma trilha orientadora, não uma promessa de especialização internacional em 24 meses.
 
-Datas: 24/03/2028 – 30/03/2028
+Ferramentas pagas, exames e recursos de nuvem serão avaliados antes de serem incluídos na execução.
 
-Conteúdos:
+A trilha dos meses 19--21 será escolhida com base no desempenho e no interesse demonstrado.
 
-- Metadados.
-- Timestamps.
-- Artefatos.
-- Timelines.
-- Ferramentas forenses.
-- Limitações.
-
-Entregáveis: linha do tempo de investigação sintética.
-
-**Semana 76 — Memória e análise de artefatos**
-
-Datas: 31/03/2028 – 06/04/2028
-
-Conteúdos:
-
-- Conceitos de memória.
-- Volatility introdutório.
-- Imagens de treinamento.
-- Interpretação cautelosa.
-
-Entregáveis: análise de imagem de memória de treinamento.
-
-**Semana 77 — Malware e threat intelligence**
-
-Datas: 07/04/2028 – 13/04/2028
-
-Conteúdos:
-
-- Análise estática e dinâmica em ambiente isolado.
-- IOC.
-- TTP.
-- Confiabilidade de fontes.
-- OSINT.
-
-Entregáveis: relatório de análise de amostra segura ou conjunto de indicadores sintéticos.
-
-**Semana 78 — Projeto integrado de cloud/forense**
-
-Datas: 14/04/2028 – 20/04/2028
-
-Conteúdos:
-
-- Arquitetura segura.
-- Pipeline ou investigação sintética.
-- Relatório.
-- Custo.
-- Limitações.
-- Recomendações.
-
-Projeto da fase: implementação de arquitetura segura em cloud/DevSecOps ou investigação forense reproduzível.
-
-Avaliação: arquitetura, identidade, containers, pipelines e integridade de evidências.
-
----
-
-**FASE 7 — ESPECIALIZAÇÃO E PESQUISA**
-
-Trimestre 7 | Semanas 79–91
-
-Período: 21/04/2028 a 20/07/2028
-
-Objetivo da fase: selecionar uma área de especialização, aprofundar conhecimentos, desenvolver capacidade de pesquisa e produzir trabalho técnico original ou reproduzível.
-
-**Semana 79 — Avaliação de especialização**
-
-Datas: 21/04/2028 – 27/04/2028
-
-Conteúdos:
-
-- Inventário de competências.
-- Interesses técnicos.
-- Oportunidades profissionais.
-- Escolha de uma trilha principal.
-
-Entregáveis: matriz de competências e justificativa da especialização.
-
-**Semana 80 — Método de pesquisa técnica**
-
-Datas: 28/04/2028 – 04/05/2028
-
-Conteúdos:
-
-- Pergunta de pesquisa.
-- Hipótese.
-- Revisão bibliográfica.
-- Fontes confiáveis.
-- Ética.
-- Reprodutibilidade.
-
-Entregáveis: proposta inicial de pesquisa.
-
-**Semana 81 — Especialização: aprofundamento I**
-
-Datas: 05/05/2028 – 11/05/2028
-
-Conteúdos:
-
-- Fundamentos avançados da trilha escolhida.
-- Documentação de referência.
-- Laboratório controlado.
-
-Entregáveis: relatório técnico de aprofundamento.
-
-**Semana 82 — Especialização: aprofundamento II**
-
-Datas: 12/05/2028 – 18/05/2028
-
-Conteúdos:
-
-- Ferramentas específicas.
-- Metodologias específicas.
-- Comparação de abordagens.
-- Limitações.
-
-Entregáveis: análise comparativa de ferramentas e metodologias.
-
-**Semana 83 — Especialização: engenharia prática**
-
-Datas: 19/05/2028 – 25/05/2028
-
-Conteúdos:
-
-- Desenho de experimento.
-- Protótipo ou ferramenta.
-- Testes.
-- Controle de versões.
-
-Entregáveis: protótipo funcional ou experimento documentado.
-
-**Semana 84 — Leitura crítica de artigos**
-
-Datas: 26/05/2028 – 01/06/2028
-
-Conteúdos:
-
-- Método.
-- Amostra.
-- Resultados.
-- Validade.
-- Limitações.
-- Reprodução de experimento seguro.
-
-Entregáveis: resenha técnica e reprodução controlada.
-
-**Semana 85 — Automação especializada**
-
-Datas: 02/06/2028 – 08/06/2028
-
-Conteúdos:
-
-- Python aplicado à especialidade.
-- Testes.
-- Logging.
-- Tratamento de erros.
-- Qualidade de código.
-
-Entregáveis: ferramenta ou automação específica.
-
-**Semana 86 — Arquitetura e análise avançada**
-
-Datas: 09/06/2028 – 15/06/2028
-
-Conteúdos:
-
-- Modelagem.
-- Trade-offs.
-- Falhas.
-- Mitigação.
-- Padrões e referências da trilha.
-
-Entregáveis: análise de arquitetura e relatório de decisões técnicas.
-
-**Semana 87 — CTF e desafios autorizados**
-
-Datas: 16/06/2028 – 22/06/2028
-
-Conteúdos:
-
-- Planejamento.
-- Documentação.
-- Aprendizagem por problema.
-- Limites éticos.
-- Write-ups responsáveis.
-
-Entregáveis: resolução documentada de desafios em ambientes autorizados.
-
-**Semana 88 — Projeto de pesquisa: proposta**
-
-Datas: 23/06/2028 – 29/06/2028
-
-Conteúdos:
-
-- Problema.
-- Objetivos.
-- Escopo.
-- Método.
-- Riscos.
-- Critérios de sucesso.
-
-Entregáveis: projeto de pesquisa formalizado.
-
-**Semana 89 — Projeto de pesquisa: execução**
-
-Datas: 30/06/2028 – 06/07/2028
-
-Conteúdos:
-
-- Implementação.
-- Coleta de evidências.
-- Testes.
-- Análise de resultados.
-
-Entregáveis: execução documentada e resultados preliminares.
-
-**Semana 90 — Projeto de pesquisa: validação**
-
-Datas: 07/07/2028 – 13/07/2028
-
-Conteúdos:
-
-- Reprodução.
-- Revisão por pares informal.
-- Limites.
-- Correções.
-- Documentação.
-
-Entregáveis: validação e revisão do trabalho.
-
-**Semana 91 — Relatório e apresentação da pesquisa**
-
-Datas: 14/07/2028 – 20/07/2028
-
-Conteúdos:
-
-- Artigo técnico.
-- README.
-- Resultados.
-- Apresentação oral.
-- Feedback.
-- Próximos passos.
-
-Projeto da fase: pesquisa técnica reproduzível, documentada e apresentada em inglês ou português técnico com resumo em inglês.
-
-Avaliação: profundidade, metodologia, reprodutibilidade e qualidade da documentação.
-
----
-
-**FASE 8 — PORTFÓLIO, CARREIRA E PROJETO FINAL**
-
-Trimestre 8 | Semanas 92–104
-
-Período: 21/07/2028 a 19/10/2028
-
-Objetivo da fase: consolidar a formação, construir um portfólio técnico de qualidade, preparar a entrada no mercado e apresentar um projeto final.
-
-**Semana 92 — Auditoria do portfólio**
-
-Datas: 21/07/2028 – 27/07/2028
-
-Conteúdos:
-
-- Seleção de projetos.
-- Qualidade.
-- Segurança.
-- Documentação.
-- Lacunas.
-- Plano de melhoria.
-
-Entregáveis: auditoria do GitHub e plano de melhorias.
-
-**Semana 93 — Engenharia de projeto final**
-
-Datas: 28/07/2028 – 03/08/2028
-
-Conteúdos:
-
-- Problema realista.
-- Requisitos.
-- Arquitetura.
-- Threat model.
-- Plano de execução.
-
-Entregáveis: especificação técnica e plano do projeto final.
-
-**Semana 94 — Implementação do projeto final I**
-
-Datas: 04/08/2028 – 10/08/2028
-
-Conteúdos:
-
-- Estrutura.
-- Protótipo.
-- Controle de versões.
-- Testes.
-- Registro de decisões.
-
-Entregáveis: estrutura inicial e protótipo.
-
-**Semana 95 — Implementação do projeto final II**
-
-Datas: 11/08/2028 – 17/08/2028
-
-Conteúdos:
-
-- Funcionalidades centrais.
-- Análise de segurança.
-- Tratamento de falhas.
-- Revisão.
-
-Entregáveis: implementação funcional e revisão técnica.
-
-**Semana 96 — Validação e evidências**
-
-Datas: 18/08/2028 – 24/08/2028
-
-Conteúdos:
-
-- Testes.
-- Reprodução.
-- Métricas.
-- Limitações.
-- Revisão independente, quando possível.
-
-Entregáveis: plano de testes, resultados e evidências.
-
-**Semana 97 — Documentação em inglês**
-
-Datas: 25/08/2028 – 31/08/2028
-
-Conteúdos:
-
-- README.
-- Arquitetura.
-- Instalação.
-- Uso.
-- Testes.
-- Limitações.
-- Relatório técnico.
-
-Entregáveis: documentação completa em inglês.
-
-**Semana 98 — Open source e colaboração**
-
-Datas: 01/09/2028 – 07/09/2028
-
-Conteúdos:
-
-- Issues.
-- Pull requests.
-- Revisão de código.
-- Comunicação.
-- Licença.
-- Conduta comunitária.
-
-Entregáveis: contribuição documentada ou simulação de fluxo colaborativo.
-
-**Semana 99 — Certificações e planejamento**
-
-Datas: 08/09/2028 – 14/09/2028
-
-Conteúdos:
-
-- Comparação de requisitos.
-- Custos.
-- Experiência exigida.
-- Alinhamento à especialidade.
-- Validação de páginas oficiais.
-
-Entregáveis: plano de certificações com justificativas e orçamento estimado.
-
-**Semana 100 — Currículo e perfil profissional**
-
-Datas: 15/09/2028 – 21/09/2028
-
-Conteúdos:
-
-- CV em inglês.
-- LinkedIn.
-- Portfólio.
-- Descrição de resultados.
-- Honestidade sobre experiência.
-
-Entregáveis: currículo e perfil profissional revisados.
-
-**Semana 101 — Entrevistas técnicas I**
-
-Datas: 22/09/2028 – 28/09/2028
-
-Conteúdos:
-
-- Fundamentos.
-- Explicação de projetos.
-- Resolução de problemas.
-- Vocabulário técnico.
-
-Entregáveis: simulação de entrevista técnica.
-
-**Semana 102 — Entrevistas técnicas II**
-
-Datas: 29/09/2028 – 05/10/2028
-
-Conteúdos:
-
-- Estudos de caso.
-- Incidentes simulados.
-- Perguntas comportamentais.
-- Apresentações em inglês.
-
-Entregáveis: simulação avançada de entrevista.
-
-**Semana 103 — Apresentação pública**
-
-Datas: 06/10/2028 – 12/10/2028
-
-Conteúdos:
-
-- Demonstração do projeto.
-- Artigo.
-- Palestra curta.
-- Feedback.
-- Divulgação responsável.
-
-Entregáveis: apresentação pública ou demonstração técnica documentada.
-
-**Semana 104 — Avaliação final e plano de continuidade**
-
-Datas: 13/10/2028 – 19/10/2028
-
-Conteúdos:
-
-- Defesa do projeto.
-
----
-
-🎯 **DECLARAÇÃO FINAL DO PROGRAMA**
-
-Este cronograma representa o compromisso acadêmico de uma formação progressiva, prática e orientada por competências.
-
-O objetivo não é simplesmente concluir 104 semanas de conteúdo.
-
-O objetivo é construir conhecimento sólido, capacidade de análise, autonomia técnica, responsabilidade profissional e competência para resolver problemas reais de cibersegurança.
-
-A evolução será registrada, avaliada e documentada continuamente.
-
-Princípio fundamental: aprender, praticar, demonstrar, documentar e evoluir.
+Não tente executar todas as ferramentas avançadas no Termux; quando necessário, usaremos alternativas leves, laboratórios remotos ou um computador compatível.
