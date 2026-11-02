@@ -1,89 +1,53 @@
 Cybersecurity | Computer Science & Cybersecurity Journey
 
-"Status" (https://img.shields.io/badge/Status-In%20Progress-blue)
-"Duration" (https://img.shields.io/badge/Study%20Plan-24%20Months-orange)
-"Python" (https://img.shields.io/badge/Python-3.x-blue?logo=python)
-"Platform" (https://img.shields.io/badge/Platform-Termux-black?logo=android)
-"Git" (https://img.shields.io/badge/Version%20Control-Git-orange?logo=git)
-"GitHub" (https://img.shields.io/badge/Hosted%20on-GitHub-black?logo=github)
-
-About This Project
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-In%20Progress-blue" />
+  <img src="https://img.shields.io/badge/Study%20Plan-24%20Months-orange" />
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Platform-Termux-black?logo=android" />
+  <img src="https://img.shields.io/badge/Version%20Control-Git-orange?logo=git" />
+  <img src="https://img.shields.io/badge/Hosted%20on-GitHub-black?logo=github" />
+</p>About This Project
 
 Welcome to my Computer Science and Cybersecurity learning journey.
 
-This repository documents my structured 24-month educational journey, from foundational computer science concepts to advanced cybersecurity topics.
+This repository documents my structured 24-month educational journey, progressing from foundational computer science concepts to advanced cybersecurity topics.
 
-My goal is to develop strong theoretical knowledge, practical technical skills, and professional competencies to become a highly qualified cybersecurity specialist.
+My goal is to develop strong theoretical knowledge, practical technical skills, and professional competencies to become an internationally recognized cybersecurity specialist.
 
 This is a continuous learning project. All exercises, notes, assessments, laboratories, and projects are documented here.
 
 Learning Profile
 
 Category| Description
-Current level| Beginner
-English level| Intermediate
-Study commitment| 15–17 hours per week
-Study duration| 24 months
-Main environment| Android / Termux
-Programming language| Python
-Version control| Git and GitHub
-Main objective| Computer Science and Cybersecurity specialization
+Current Level| Beginner
+English Level| Intermediate
+Study Commitment| 15–17 hours per week
+Study Duration| 24 months
+Main Environment| Android / Termux
+Programming Language| Python
+Version Control| Git and GitHub
+Main Objective| Computer Science and Cybersecurity Specialization
 
 Learning Roadmap
 
-The program is organized into progressive stages.
+The educational journey is organized into progressive stages.
 
-Stage 1 — Foundations
-
-- Computer Science fundamentals
-- Computational thinking
-- Algorithms and programming logic
-- Python programming
-- Discrete mathematics
-- Linux fundamentals
-- Git and GitHub
-
-Stage 2 — Core Computer Science
-
-- Data structures and algorithms
-- Computer architecture
-- Operating systems
-- Computer networks
-- Database systems
-- Object-oriented programming
-
-Stage 3 — Cybersecurity Fundamentals
-
-- Information security principles
-- Cryptography
-- Network security
-- Linux security
-- Web security
-- Vulnerability management
-- Security fundamentals and risk analysis
-
-Stage 4 — Advanced Cybersecurity
-
-- Ethical hacking
-- Penetration testing
-- Application security
-- Digital forensics
-- Incident response
-- Malware analysis
-- Cloud security
-- Security engineering
-
-Stage 5 — Professional Specialization
-
-- Red Team operations
-- Blue Team operations
-- Threat intelligence
-- Security research
-- Advanced practical laboratories
-- Professional portfolio
-- Certification preparation
-
-All offensive security activities will be conducted exclusively in authorized environments.
+Stage| Focus
+01| Computer Science Fundamentals
+02| Algorithms and Computational Thinking
+03| Programming and Data Structures
+04| Mathematics and Discrete Structures
+05| Operating Systems and Linux
+06| Computer Networks
+07| Databases and Software Engineering
+08| Information Security Fundamentals
+09| Cryptography and Network Security
+10| Defensive Security and Blue Team
+11| Offensive Security and Red Team
+12| Application Security and Cloud Security
+13| Digital Forensics and Incident Response
+14| Advanced Security Research and Specialization
 
 Repository Structure
 
@@ -106,77 +70,63 @@ cybersecurity/
 ├── .gitignore
 └── README.md
 
-New weekly directories will be added as the program progresses.
+New study weeks will be added as the program progresses.
 
 Study Methodology
 
 Each study week includes:
 
-1. Theoretical lessons.
-2. Practical exercises.
-3. Programming activities.
-4. Technical laboratories.
-5. Knowledge assessments.
-6. Technical English practice.
-7. Documentation and evidence.
-8. Weekly performance reviews.
+- Theoretical lessons.
+- Practical exercises.
+- Programming challenges.
+- Technical laboratories.
+- Knowledge assessments.
+- Practical projects.
+- Technical English activities.
+- Weekly progress reports.
 
-Technologies and Tools
+Tools and Technologies
 
-Technology| Purpose
-Python| Programming and automation
-Linux| Operating system fundamentals
-Termux| Mobile development environment
-Git| Version control
-GitHub| Project hosting and portfolio
-Networking tools| Network fundamentals and analysis
+- Python
+- Linux / Termux
+- Git
+- GitHub
+- Command Line Interface (CLI)
+- Markdown
 
-Additional technologies will be introduced throughout the program.
-
-Progress Tracker
-
-Milestone| Status
-Week 01 — Computer Science and Cybersecurity Foundations| Completed
-Week 02 — Algorithms and Computational Thinking| In Progress
-Remaining weeks| Planned
-
-Technical English
-
-Technical English is integrated into the learning process.
-
-The focus includes:
-
-- Cybersecurity terminology.
-- Technical documentation.
-- Reading security advisories.
-- Understanding research papers.
-- Professional technical communication.
+Additional tools and technologies will be introduced throughout the program.
 
 Portfolio and Practical Experience
 
-This repository will serve as a record of my technical development.
+This repository serves as my technical learning portfolio.
 
-It will contain:
+It documents my progress through:
 
-- Programming exercises.
-- Practical laboratories.
-- Technical reports.
-- Security research notes.
-- Personal projects.
-- Documented learning milestones.
+- Programming projects.
+- Linux administration exercises.
+- Network analysis laboratories.
+- Cybersecurity practical exercises.
+- Security assessments.
+- Technical documentation.
+- Research and specialization projects.
 
-Ethical Principles
+All security-related activities will be conducted in authorized and controlled environments.
 
-I am committed to responsible and ethical cybersecurity practices.
+Progress Tracking
 
-All security testing, scanning, penetration testing, and vulnerability research will respect authorization, legal requirements, and defined scopes.
+Milestone| Status
+Initial Diagnostic| Completed
+Week 01 — Computer Science and Cybersecurity Fundamentals| Completed
+Week 02 — Algorithms and Computational Thinking| In Progress
+Git and GitHub Configuration| Completed
+Technical Documentation| In Progress
 
-Long-Term Objective
+Professional Objective
 
-Build a solid foundation in Computer Science and progress toward advanced cybersecurity specialization through consistent study, practical experience, research, and continuous improvement.
+My long-term objective is to build the knowledge, practical experience, and professional skills required to work at an international level in cybersecurity.
 
-Learn. Practice. Document. Improve.
+I believe that consistent study, disciplined practice, and continuous improvement are essential to achieving this goal.
 
 ---
 
-This repository is actively maintained as part of my 24-month Computer Science and Cybersecurity learning journey.
+Learning never stops. Building knowledge, one day at a time.
