@@ -144,7 +144,7 @@ Os marcos serão submetidos a avaliações próprias. Caso existam lacunas relev
 
 6. CRONOGRAMA COMPLETO — 104 SEMANAS
 
-FASE 1 — FUNDAMENTOS DA COMPUTAÇÃO
+**FASE 1 — FUNDAMENTOS DA COMPUTAÇÃO**
 
 Trimestre 1 | Semanas 01–13
 
@@ -152,8 +152,10 @@ Período: 23/10/2026 a 21/01/2027
 
 Objetivo da fase: construir a base de lógica, matemática discreta, programação Python, utilização do terminal Linux e controle de versões.
 
-Semana 01 — Orientação, diagnóstico e ambiente de estudo
+**Semana 01 — Orientação, diagnóstico e ambiente de estudo**
+
 Datas: 23/10/2026 – 29/10/2026
+
 Conteúdos:
 - Diagnóstico inicial.
 - Método de estudo.
@@ -161,14 +163,15 @@ Conteúdos:
 - Termux.
 - Organização de diretórios.
 - Segurança básica do ambiente.
+  
 Entregáveis: notas, exercícios resolvidos, evidência prática e atividade de Technical English.
 
-Semana 02 — Algoritmos e pensamento computacional
+
+**Semana 02 — Algoritmos e pensamento computacional**
 
 Datas: 30/10/2026 – 05/11/2026
 
 Conteúdos:
-
 - Entrada, processamento e saída.
 - Decomposição de problemas.
 - Pseudocódigo.
@@ -177,26 +180,26 @@ Conteúdos:
 
 Entregáveis: notas, exercícios, algoritmo ou fluxograma e atividade de inglês técnico.
 
-Semana 03 — Python: variáveis e tipos
+
+**Semana 03 — Python: variáveis e tipos**
 
 Datas: 06/11/2026 – 12/11/2026
 
 Conteúdos:
-
 - Atribuição.
 - Tipos "int", "float", "str" e "bool".
 - "print()", "input()" e "type()".
 - Conversão de tipos.
 - Erros comuns.
-
+  
 Entregáveis: notas, exercícios e programas Python documentados.
 
-Semana 04 — Operadores e expressões
+
+**Semana 04 — Operadores e expressões**
 
 Datas: 13/11/2026 – 19/11/2026
 
 Conteúdos:
-
 - Operadores aritméticos.
 - Operadores de comparação.
 - Precedência de operadores.
@@ -205,7 +208,7 @@ Conteúdos:
 
 Entregáveis: exercícios de expressões e programas de cálculo.
 
-Semana 05 — Lógica proposicional I
+**Semana 05 — Lógica proposicional I**
 
 Datas: 20/11/2026 – 26/11/2026
 
@@ -220,7 +223,7 @@ Conteúdos:
 
 Entregáveis: exercícios de lógica e tabelas-verdade.
 
-Semana 06 — Python: decisões
+**Semana 06 — Python: decisões**
 
 Datas: 27/11/2026 – 03/12/2026
 
@@ -234,7 +237,7 @@ Conteúdos:
 
 Entregáveis: programas com estruturas condicionais e exercícios.
 
-Semana 07 — Python: repetição
+**Semana 07 — Python: repetição**
 
 Datas: 04/12/2026 – 10/12/2026
 
@@ -250,7 +253,7 @@ Conteúdos:
 
 Entregáveis: programas com estruturas de repetição e testes.
 
-Semana 08 — Strings e entrada segura
+**Semana 08 — Strings e entrada segura**
 
 Datas: 11/12/2026 – 17/12/2026
 
@@ -266,7 +269,7 @@ Conteúdos:
 
 Entregáveis: programas com tratamento inicial de entradas inválidas.
 
-Semana 09 — Estruturas de dados I
+**Semana 09 — Estruturas de dados I**
 
 Datas: 18/12/2026 – 24/12/2026
 
@@ -281,7 +284,7 @@ Conteúdos:
 
 Entregáveis: exercícios e pequenos programas com listas.
 
-Semana 10 — Funções
+**Semana 10 — Funções**
 
 Datas: 25/12/2026 – 31/12/2026
 
@@ -297,7 +300,7 @@ Conteúdos:
 
 Entregáveis: biblioteca de funções simples e exercícios.
 
-Semana 11 — Matemática discreta I
+**Semana 11 — Matemática discreta I**
 
 Datas: 01/01/2027 – 07/01/2027
 
@@ -312,7 +315,7 @@ Conteúdos:
 
 Entregáveis: exercícios matemáticos e exemplos computacionais.
 
-Semana 12 — Linux e terminal I
+**Semana 12 — Linux e terminal I**
 
 Datas: 08/01/2027 – 14/01/2027
 
@@ -331,7 +334,7 @@ Conteúdos:
 
 Entregáveis: exercícios de terminal e estrutura organizada de diretórios.
 
-Semana 13 — Git, revisão e projeto do trimestre
+**Semana 13 — Git, revisão e projeto do trimestre**
 
 Datas: 15/01/2027 – 21/01/2027
 
@@ -352,7 +355,7 @@ Avaliação: domínio de lógica, Python inicial, terminal e Git.
 
 ---
 
-FASE 2 — REDES, SISTEMAS E PROGRAMAÇÃO
+**FASE 2 — REDES, SISTEMAS E PROGRAMAÇÃO**
 
 Trimestre 2 | Semanas 14–26
 
@@ -360,7 +363,7 @@ Período: 22/01/2027 a 22/04/2027
 
 Objetivo da fase: compreender arquitetura computacional, sistemas operacionais, redes e programação intermediária.
 
-Semana 14 — Arquitetura de computadores
+**Semana 14 — Arquitetura de computadores**
 
 Datas: 22/01/2027 – 28/01/2027
 
@@ -376,7 +379,7 @@ Conteúdos:
 
 Entregáveis: exercícios de representação numérica e documentação da arquitetura básica.
 
-Semana 15 — Sistemas operacionais
+**Semana 15 — Sistemas operacionais**
 
 Datas: 29/01/2027 – 04/02/2027
 
@@ -391,7 +394,7 @@ Conteúdos:
 
 Entregáveis: exercícios e análise dos componentes de um sistema operacional.
 
-Semana 16 — Linux: arquivos e permissões
+**Semana 16 — Linux: arquivos e permissões**
 
 Datas: 05/02/2027 – 11/02/2027
 
@@ -408,7 +411,7 @@ Conteúdos:
 
 Entregáveis: laboratório de permissões e checklist de configuração.
 
-Semana 17 — Linux: processos e serviços
+**Semana 17 — Linux: processos e serviços**
 
 Datas: 12/02/2027 – 18/02/2027
 
@@ -425,7 +428,7 @@ Conteúdos:
 
 Entregáveis: relatório de análise de processos e serviços.
 
-Semana 18 — Redes I: conceitos básicos
+**Semana 18 — Redes I: conceitos básicos**
 
 Datas: 19/02/2027 – 25/02/2027
 
@@ -441,7 +444,7 @@ Conteúdos:
 
 Entregáveis: diagramas e exercícios de redes.
 
-Semana 19 — TCP/IP e encapsulamento
+**Semana 19 — TCP/IP e encapsulamento**
 
 Datas: 26/02/2027 – 04/03/2027
 
@@ -454,7 +457,7 @@ Conteúdos:
 
 Entregáveis: diagrama de encapsulamento e exercícios.
 
-Semana 20 — IPv4 e sub-redes I
+**Semana 20 — IPv4 e sub-redes I**
 
 Datas: 05/03/2027 – 11/03/2027
 
@@ -469,7 +472,7 @@ Conteúdos:
 
 Entregáveis: lista de exercícios de endereçamento e subnetting.
 
-Semana 21 — IPv4/IPv6 e roteamento
+**Semana 21 — IPv4/IPv6 e roteamento**
 
 Datas: 12/03/2027 – 18/03/2027
 
@@ -484,7 +487,7 @@ Conteúdos:
 
 Entregáveis: análise de rotas e documentação dos testes.
 
-Semana 22 — Protocolos essenciais
+**Semana 22 — Protocolos essenciais**
 
 Datas: 19/03/2027 – 25/03/2027
 
@@ -502,7 +505,7 @@ Conteúdos:
 
 Entregáveis: exercícios de protocolos e testes de resolução DNS.
 
-Semana 23 — HTTP, HTTPS e TLS
+**Semana 23 — HTTP, HTTPS e TLS**
 
 Datas: 26/03/2027 – 01/04/2027
 
@@ -518,7 +521,7 @@ Conteúdos:
 
 Entregáveis: análise documentada de comunicações HTTP e HTTPS.
 
-Semana 24 — Python intermediário I
+**Semana 24 — Python intermediário I**
 
 Datas: 02/04/2027 – 08/04/2027
 
@@ -533,7 +536,7 @@ Conteúdos:
 
 Entregáveis: scripts organizados e manipulação de arquivos JSON.
 
-Semana 25 — Bash, APIs e SQL introdutório
+**Semana 25 — Bash, APIs e SQL introdutório**
 
 Datas: 09/04/2027 – 15/04/2027
 
@@ -551,7 +554,7 @@ Conteúdos:
 
 Entregáveis: exercícios de terminal, consumo de API e consultas SQL.
 
-Semana 26 — Wireshark, testes e projeto de rede
+**Semana 26 — Wireshark, testes e projeto de rede**
 
 Datas: 16/04/2027 – 22/04/2027
 
@@ -570,7 +573,7 @@ Avaliação: arquitetura, Linux, protocolos, endereçamento e programação inte
 
 ---
 
-FASE 3 — FUNDAMENTOS DE SEGURANÇA
+**FASE 3 — FUNDAMENTOS DE SEGURANÇA**
 
 Trimestre 3 | Semanas 27–39
 
@@ -578,7 +581,7 @@ Período: 23/04/2027 a 22/07/2027
 
 Objetivo da fase: desenvolver fundamentos de segurança da informação, criptografia, administração segura e gestão de riscos.
 
-Semana 27 — Princípios e vocabulário de segurança
+**Semana 27 — Princípios e vocabulário de segurança**
 
 Datas: 23/04/2027 – 29/04/2027
 
@@ -596,7 +599,7 @@ Conteúdos:
 
 Entregáveis: glossário e exercícios de identificação de riscos.
 
-Semana 28 — Identidade e controle de acesso
+**Semana 28 — Identidade e controle de acesso**
 
 Datas: 30/04/2027 – 06/05/2027
 
@@ -611,7 +614,7 @@ Conteúdos:
 
 Entregáveis: matriz de controle de acesso e análise de permissões.
 
-Semana 29 — Senhas, segredos e sessões
+**Semana 29 — Senhas, segredos e sessões**
 
 Datas: 07/05/2027 – 13/05/2027
 
@@ -625,7 +628,7 @@ Conteúdos:
 
 Entregáveis: demonstração controlada e documentação de boas práticas.
 
-Semana 30 — Criptografia I
+**Semana 30 — Criptografia I**
 
 Datas: 14/05/2027 – 20/05/2027
 
@@ -640,7 +643,7 @@ Conteúdos:
 
 Entregáveis: exercícios e demonstrações didáticas de criptografia.
 
-Semana 31 — Hashing e assinaturas digitais
+**Semana 31 — Hashing e assinaturas digitais**
 
 Datas: 21/05/2027 – 27/05/2027
 
@@ -656,7 +659,7 @@ Conteúdos:
 
 Entregáveis: comparação de hashes e verificação de integridade.
 
-Semana 32 — TLS e comunicação segura
+**Semana 32 — TLS e comunicação segura**
 
 Datas: 28/05/2027 – 03/06/2027
 
@@ -670,7 +673,7 @@ Conteúdos:
 
 Entregáveis: relatório de análise de certificados e comunicação segura.
 
-Semana 33 — Hardening Linux
+**Semana 33 — Hardening Linux**
 
 Datas: 04/06/2027 – 10/06/2027
 
@@ -686,7 +689,7 @@ Conteúdos:
 
 Entregáveis: checklist aplicado e relatório de configuração segura.
 
-Semana 34 — Segurança Windows e PowerShell
+**Semana 34 — Segurança Windows e PowerShell**
 
 Datas: 11/06/2027 – 17/06/2027
 
@@ -703,7 +706,7 @@ Conteúdos:
 
 Entregáveis: checklist de segurança e exercícios de PowerShell.
 
-Semana 35 — Segurança de redes
+**Semana 35 — Segurança de redes**
 
 Datas: 18/06/2027 – 24/06/2027
 
@@ -719,7 +722,7 @@ Conteúdos:
 
 Entregáveis: diagrama de rede segura e regras documentadas.
 
-Semana 36 — Gestão de vulnerabilidades
+**Semana 36 — Gestão de vulnerabilidades**
 
 Datas: 25/06/2027 – 01/07/2027
 
@@ -735,7 +738,7 @@ Conteúdos:
 
 Entregáveis: inventário de vulnerabilidades e matriz de priorização.
 
-Semana 37 — Modelagem de ameaças
+**Semana 37 — Modelagem de ameaças**
 
 Datas: 02/07/2027 – 08/07/2027
 
@@ -749,7 +752,7 @@ Conteúdos:
 
 Entregáveis: modelo de ameaças e plano de mitigação.
 
-Semana 38 — Ética, privacidade e legislação
+**Semana 38 — Ética, privacidade e legislação**
 
 Datas: 09/07/2027 – 15/07/2027
 
@@ -764,7 +767,7 @@ Conteúdos:
 
 Entregáveis: análise de cenário ético e documento de autorização e escopo.
 
-Semana 39 — Auditoria defensiva e projeto
+**Semana 39 — Auditoria defensiva e projeto**
 
 Datas: 16/07/2027 – 22/07/2027
 
@@ -782,7 +785,7 @@ Avaliação: segurança da informação, criptografia, hardening e gestão de ri
 
 ---
 
-FASE 4 — SEGURANÇA OFENSIVA AUTORIZADA E APPSEC
+**FASE 4 — SEGURANÇA OFENSIVA AUTORIZADA E APPSEC**
 
 Trimestre 4 | Semanas 40–52
 
@@ -790,7 +793,7 @@ Período: 23/07/2027 a 21/10/2027
 
 Objetivo da fase: compreender metodologias de testes de segurança, reconhecimento responsável e vulnerabilidades em aplicações web.
 
-Semana 40 — Metodologia de pentest
+**Semana 40 — Metodologia de pentest**
 
 Datas: 23/07/2027 – 29/07/2027
 
@@ -806,7 +809,7 @@ Conteúdos:
 
 Entregáveis: modelo de regras de engajamento e plano de testes.
 
-Semana 41 — Reconhecimento e OSINT responsável
+**Semana 41 — Reconhecimento e OSINT responsável**
 
 Datas: 30/07/2027 – 05/08/2027
 
@@ -821,7 +824,7 @@ Conteúdos:
 
 Entregáveis: relatório de reconhecimento com fontes e limites documentados.
 
-Semana 42 — Nmap em laboratório
+**Semana 42 — Nmap em laboratório**
 
 Datas: 06/08/2027 – 12/08/2027
 
@@ -836,7 +839,7 @@ Conteúdos:
 
 Entregáveis: relatório de descoberta de serviços em laboratório autorizado.
 
-Semana 43 — Enumeração e análise de serviços
+**Semana 43 — Enumeração e análise de serviços**
 
 Datas: 13/08/2027 – 19/08/2027
 
@@ -850,7 +853,7 @@ Conteúdos:
 
 Entregáveis: inventário de serviços e relatório técnico.
 
-Semana 44 — Fundamentos web
+**Semana 44 — Fundamentos web**
 
 Datas: 20/08/2027 – 26/08/2027
 
@@ -867,7 +870,7 @@ Conteúdos:
 
 Entregáveis: diagrama de funcionamento de aplicação web.
 
-Semana 45 — OWASP Top 10 e riscos web
+**Semana 45 — OWASP Top 10 e riscos web**
 
 Datas: 27/08/2027 – 02/09/2027
 
@@ -882,7 +885,7 @@ Conteúdos:
 
 Entregáveis: matriz de riscos web e recomendações defensivas.
 
-Semana 46 — SQL Injection
+**Semana 46 — SQL Injection**
 
 Datas: 03/09/2027 – 09/09/2027
 
@@ -897,7 +900,7 @@ Conteúdos:
 
 Entregáveis: laboratório controlado e relatório de correção.
 
-Semana 47 — XSS e segurança do navegador
+**Semana 47 — XSS e segurança do navegador**
 
 Datas: 10/09/2027 – 16/09/2027
 
@@ -914,7 +917,7 @@ Conteúdos:
 
 Entregáveis: demonstração em laboratório e documentação das medidas de proteção.
 
-Semana 48 — Autenticação e controle de acesso
+**Semana 48 — Autenticação e controle de acesso**
 
 Datas: 17/09/2027 – 23/09/2027
 
@@ -928,7 +931,7 @@ Conteúdos:
 
 Entregáveis: matriz de testes de autorização e relatório.
 
-Semana 49 — SSRF, uploads e configuração
+**Semana 49 — SSRF, uploads e configuração**
 
 Datas: 24/09/2027 – 30/09/2027
 
@@ -943,7 +946,7 @@ Conteúdos:
 
 Entregáveis: checklist de proteção para uploads e requisições externas.
 
-Semana 50 — Burp Suite e APIs
+**Semana 50 — Burp Suite e APIs**
 
 Datas: 01/10/2027 – 07/10/2027
 
@@ -959,7 +962,7 @@ Conteúdos:
 
 Entregáveis: relatório de análise HTTP/API em ambiente de treinamento.
 
-Semana 51 — Secure coding e revisão
+**Semana 51 — Secure coding e revisão**
 
 Datas: 08/10/2027 – 14/10/2027
 
@@ -974,7 +977,7 @@ Conteúdos:
 
 Entregáveis: revisão de código e correção de vulnerabilidades demonstrativas.
 
-Semana 52 — Pentest de laboratório e relatório
+**Semana 52 — Pentest de laboratório e relatório**
 
 Datas: 15/10/2027 – 21/10/2027
 
@@ -994,7 +997,7 @@ Avaliação: metodologia, escopo, identificação de vulnerabilidades, correçã
 
 ---
 
-FASE 5 — BLUE TEAM, SOC E RESPOSTA A INCIDENTES
+**FASE 5 — BLUE TEAM, SOC E RESPOSTA A INCIDENTES**
 
 Trimestre 5 | Semanas 53–65
 
@@ -1002,7 +1005,7 @@ Período: 22/10/2027 a 20/01/2028
 
 Objetivo da fase: desenvolver competências de monitoramento, detecção, análise de eventos, resposta a incidentes e investigação defensiva.
 
-Semana 53 — Operações de SOC
+**Semana 53 — Operações de SOC**
 
 Datas: 22/10/2027 – 28/10/2027
 
@@ -1017,7 +1020,7 @@ Conteúdos:
 
 Entregáveis: fluxo de trabalho de SOC e exercícios de triagem.
 
-Semana 54 — Logs e telemetria
+**Semana 54 — Logs e telemetria**
 
 Datas: 29/10/2027 – 04/11/2027
 
@@ -1032,7 +1035,7 @@ Conteúdos:
 
 Entregáveis: análise e organização de logs.
 
-Semana 55 — SIEM e correlação
+**Semana 55 — SIEM e correlação**
 
 Datas: 05/11/2027 – 11/11/2027
 
@@ -1047,7 +1050,7 @@ Conteúdos:
 
 Entregáveis: consultas e regras de correlação documentadas.
 
-Semana 56 — Wazuh ou alternativa de laboratório
+**Semana 56 — Wazuh ou alternativa de laboratório**
 
 Datas: 12/11/2027 – 18/11/2027
 
@@ -1062,7 +1065,7 @@ Conteúdos:
 
 Entregáveis: laboratório funcional ou alternativa leve documentada.
 
-Semana 57 — MITRE ATT&CK
+**Semana 57 — MITRE ATT&CK**
 
 Datas: 19/11/2027 – 25/11/2027
 
@@ -1076,7 +1079,7 @@ Conteúdos:
 
 Entregáveis: mapeamento de eventos e técnicas relevantes.
 
-Semana 58 — Detecção e engenharia de regras
+**Semana 58 — Detecção e engenharia de regras**
 
 Datas: 26/11/2027 – 02/12/2027
 
@@ -1092,7 +1095,7 @@ Conteúdos:
 
 Entregáveis: regras de detecção testadas e documentadas.
 
-Semana 59 — Análise de phishing
+**Semana 59 — Análise de phishing**
 
 Datas: 03/12/2027 – 09/12/2027
 
@@ -1107,7 +1110,7 @@ Conteúdos:
 
 Entregáveis: relatório de análise de phishing com amostras seguras.
 
-Semana 60 — Resposta a incidentes
+**Semana 60 — Resposta a incidentes**
 
 Datas: 10/12/2027 – 16/12/2027
 
@@ -1122,7 +1125,7 @@ Conteúdos:
 
 Entregáveis: plano de resposta a incidentes.
 
-Semana 61 — Threat hunting
+**Semana 61 — Threat hunting**
 
 Datas: 17/12/2027 – 23/12/2027
 
@@ -1137,7 +1140,7 @@ Conteúdos:
 
 Entregáveis: investigação baseada em hipóteses e relatório.
 
-Semana 62 — Forense inicial de endpoint
+**Semana 62 — Forense inicial de endpoint**
 
 Datas: 24/12/2027 – 30/12/2027
 
@@ -1152,7 +1155,7 @@ Conteúdos:
 
 Entregáveis: documentação de investigação simulada.
 
-Semana 63 — Playbooks e automação
+**Semana 63 — Playbooks e automação**
 
 Datas: 31/12/2027 – 06/01/2028
 
@@ -1166,7 +1169,7 @@ Conteúdos:
 
 Entregáveis: playbook e ferramenta simples de automação.
 
-Semana 64 — Simulação de incidente
+**Semana 64 — Simulação de incidente**
 
 Datas: 07/01/2028 – 13/01/2028
 
@@ -1181,7 +1184,7 @@ Conteúdos:
 
 Entregáveis: investigação simulada e relatório completo.
 
-Semana 65 — Projeto SOC
+**Semana 65 — Projeto SOC**
 
 Datas: 14/01/2028 – 20/01/2028
 
@@ -1199,7 +1202,7 @@ Avaliação: análise de logs, triagem, detecção, investigação e resposta a 
 
 ---
 
-FASE 6 — NUVEM, DEVSECOPS E FORENSE
+**FASE 6 — NUVEM, DEVSECOPS E FORENSE**
 
 Trimestre 6 | Semanas 66–78
 
@@ -1207,7 +1210,7 @@ Período: 21/01/2028 a 20/04/2028
 
 Objetivo da fase: desenvolver conhecimentos de arquitetura cloud, segurança de containers, integração segura de desenvolvimento e investigação forense digital.
 
-Semana 66 — Fundamentos de cloud
+**Semana 66 — Fundamentos de cloud**
 
 Datas: 21/01/2028 – 27/01/2028
 
@@ -1224,7 +1227,7 @@ Conteúdos:
 
 Entregáveis: diagrama de arquitetura cloud e análise de responsabilidades.
 
-Semana 67 — IAM e arquitetura segura
+**Semana 67 — IAM e arquitetura segura**
 
 Datas: 28/01/2028 – 03/02/2028
 
@@ -1239,7 +1242,7 @@ Conteúdos:
 
 Entregáveis: matriz IAM e políticas de acesso.
 
-Semana 68 — Redes e armazenamento em cloud
+**Semana 68 — Redes e armazenamento em cloud**
 
 Datas: 04/02/2028 – 10/02/2028
 
@@ -1254,7 +1257,7 @@ Conteúdos:
 
 Entregáveis: diagrama de rede cloud segura.
 
-Semana 69 — Logs e postura de segurança cloud
+**Semana 69 — Logs e postura de segurança cloud**
 
 Datas: 11/02/2028 – 17/02/2028
 
@@ -1269,7 +1272,7 @@ Conteúdos:
 
 Entregáveis: checklist de postura de segurança cloud.
 
-Semana 70 — Docker e containers
+**Semana 70 — Docker e containers**
 
 Datas: 18/02/2028 – 24/02/2028
 
@@ -1285,7 +1288,7 @@ Conteúdos:
 
 Entregáveis: aplicação containerizada com configuração segura.
 
-Semana 71 — Kubernetes introdutório
+**Semana 71 — Kubernetes introdutório**
 
 Datas: 25/02/2028 – 02/03/2028
 
@@ -1301,7 +1304,7 @@ Conteúdos:
 
 Entregáveis: configuração introdutória e checklist de segurança Kubernetes.
 
-Semana 72 — DevSecOps e CI/CD
+**Semana 72 — DevSecOps e CI/CD**
 
 Datas: 03/03/2028 – 09/03/2028
 
@@ -1317,7 +1320,7 @@ Conteúdos:
 
 Entregáveis: pipeline demonstrativo com verificações de segurança.
 
-Semana 73 — Infraestrutura como código
+**Semana 73 — Infraestrutura como código**
 
 Datas: 10/03/2028 – 16/03/2028
 
@@ -1332,7 +1335,7 @@ Conteúdos:
 
 Entregáveis: exemplo de infraestrutura como código e revisão de segurança.
 
-Semana 74 — Forense digital e cadeia de custódia
+**Semana 74 — Forense digital e cadeia de custódia**
 
 Datas: 17/03/2028 – 23/03/2028
 
@@ -1347,7 +1350,7 @@ Conteúdos:
 
 Entregáveis: procedimento documentado de preservação de evidências.
 
-Semana 75 — Sistemas de arquivos e timelines
+**Semana 75 — Sistemas de arquivos e timelines**
 
 Datas: 24/03/2028 – 30/03/2028
 
@@ -1362,7 +1365,7 @@ Conteúdos:
 
 Entregáveis: linha do tempo de investigação sintética.
 
-Semana 76 — Memória e análise de artefatos
+**Semana 76 — Memória e análise de artefatos**
 
 Datas: 31/03/2028 – 06/04/2028
 
@@ -1375,7 +1378,7 @@ Conteúdos:
 
 Entregáveis: análise de imagem de memória de treinamento.
 
-Semana 77 — Malware e threat intelligence
+**Semana 77 — Malware e threat intelligence**
 
 Datas: 07/04/2028 – 13/04/2028
 
@@ -1389,7 +1392,7 @@ Conteúdos:
 
 Entregáveis: relatório de análise de amostra segura ou conjunto de indicadores sintéticos.
 
-Semana 78 — Projeto integrado de cloud/forense
+**Semana 78 — Projeto integrado de cloud/forense**
 
 Datas: 14/04/2028 – 20/04/2028
 
@@ -1408,7 +1411,7 @@ Avaliação: arquitetura, identidade, containers, pipelines e integridade de evi
 
 ---
 
-FASE 7 — ESPECIALIZAÇÃO E PESQUISA
+**FASE 7 — ESPECIALIZAÇÃO E PESQUISA**
 
 Trimestre 7 | Semanas 79–91
 
@@ -1416,7 +1419,7 @@ Período: 21/04/2028 a 20/07/2028
 
 Objetivo da fase: selecionar uma área de especialização, aprofundar conhecimentos, desenvolver capacidade de pesquisa e produzir trabalho técnico original ou reproduzível.
 
-Semana 79 — Avaliação de especialização
+**Semana 79 — Avaliação de especialização**
 
 Datas: 21/04/2028 – 27/04/2028
 
@@ -1429,7 +1432,7 @@ Conteúdos:
 
 Entregáveis: matriz de competências e justificativa da especialização.
 
-Semana 80 — Método de pesquisa técnica
+**Semana 80 — Método de pesquisa técnica**
 
 Datas: 28/04/2028 – 04/05/2028
 
@@ -1444,7 +1447,7 @@ Conteúdos:
 
 Entregáveis: proposta inicial de pesquisa.
 
-Semana 81 — Especialização: aprofundamento I
+**Semana 81 — Especialização: aprofundamento I**
 
 Datas: 05/05/2028 – 11/05/2028
 
@@ -1456,7 +1459,7 @@ Conteúdos:
 
 Entregáveis: relatório técnico de aprofundamento.
 
-Semana 82 — Especialização: aprofundamento II
+**Semana 82 — Especialização: aprofundamento II**
 
 Datas: 12/05/2028 – 18/05/2028
 
@@ -1469,7 +1472,7 @@ Conteúdos:
 
 Entregáveis: análise comparativa de ferramentas e metodologias.
 
-Semana 83 — Especialização: engenharia prática
+**Semana 83 — Especialização: engenharia prática**
 
 Datas: 19/05/2028 – 25/05/2028
 
@@ -1482,7 +1485,7 @@ Conteúdos:
 
 Entregáveis: protótipo funcional ou experimento documentado.
 
-Semana 84 — Leitura crítica de artigos
+**Semana 84 — Leitura crítica de artigos**
 
 Datas: 26/05/2028 – 01/06/2028
 
@@ -1497,7 +1500,7 @@ Conteúdos:
 
 Entregáveis: resenha técnica e reprodução controlada.
 
-Semana 85 — Automação especializada
+**Semana 85 — Automação especializada**
 
 Datas: 02/06/2028 – 08/06/2028
 
@@ -1511,7 +1514,7 @@ Conteúdos:
 
 Entregáveis: ferramenta ou automação específica.
 
-Semana 86 — Arquitetura e análise avançada
+**Semana 86 — Arquitetura e análise avançada**
 
 Datas: 09/06/2028 – 15/06/2028
 
@@ -1525,7 +1528,7 @@ Conteúdos:
 
 Entregáveis: análise de arquitetura e relatório de decisões técnicas.
 
-Semana 87 — CTF e desafios autorizados
+**Semana 87 — CTF e desafios autorizados**
 
 Datas: 16/06/2028 – 22/06/2028
 
@@ -1539,7 +1542,7 @@ Conteúdos:
 
 Entregáveis: resolução documentada de desafios em ambientes autorizados.
 
-Semana 88 — Projeto de pesquisa: proposta
+**Semana 88 — Projeto de pesquisa: proposta**
 
 Datas: 23/06/2028 – 29/06/2028
 
@@ -1554,7 +1557,7 @@ Conteúdos:
 
 Entregáveis: projeto de pesquisa formalizado.
 
-Semana 89 — Projeto de pesquisa: execução
+**Semana 89 — Projeto de pesquisa: execução**
 
 Datas: 30/06/2028 – 06/07/2028
 
@@ -1567,7 +1570,7 @@ Conteúdos:
 
 Entregáveis: execução documentada e resultados preliminares.
 
-Semana 90 — Projeto de pesquisa: validação
+**Semana 90 — Projeto de pesquisa: validação**
 
 Datas: 07/07/2028 – 13/07/2028
 
@@ -1581,7 +1584,7 @@ Conteúdos:
 
 Entregáveis: validação e revisão do trabalho.
 
-Semana 91 — Relatório e apresentação da pesquisa
+**Semana 91 — Relatório e apresentação da pesquisa**
 
 Datas: 14/07/2028 – 20/07/2028
 
@@ -1600,7 +1603,7 @@ Avaliação: profundidade, metodologia, reprodutibilidade e qualidade da documen
 
 ---
 
-FASE 8 — PORTFÓLIO, CARREIRA E PROJETO FINAL
+**FASE 8 — PORTFÓLIO, CARREIRA E PROJETO FINAL**
 
 Trimestre 8 | Semanas 92–104
 
@@ -1608,7 +1611,7 @@ Período: 21/07/2028 a 19/10/2028
 
 Objetivo da fase: consolidar a formação, construir um portfólio técnico de qualidade, preparar a entrada no mercado e apresentar um projeto final.
 
-Semana 92 — Auditoria do portfólio
+**Semana 92 — Auditoria do portfólio**
 
 Datas: 21/07/2028 – 27/07/2028
 
@@ -1623,7 +1626,7 @@ Conteúdos:
 
 Entregáveis: auditoria do GitHub e plano de melhorias.
 
-Semana 93 — Engenharia de projeto final
+**Semana 93 — Engenharia de projeto final**
 
 Datas: 28/07/2028 – 03/08/2028
 
@@ -1637,7 +1640,7 @@ Conteúdos:
 
 Entregáveis: especificação técnica e plano do projeto final.
 
-Semana 94 — Implementação do projeto final I
+**Semana 94 — Implementação do projeto final I**
 
 Datas: 04/08/2028 – 10/08/2028
 
@@ -1651,7 +1654,7 @@ Conteúdos:
 
 Entregáveis: estrutura inicial e protótipo.
 
-Semana 95 — Implementação do projeto final II
+**Semana 95 — Implementação do projeto final II**
 
 Datas: 11/08/2028 – 17/08/2028
 
@@ -1664,7 +1667,7 @@ Conteúdos:
 
 Entregáveis: implementação funcional e revisão técnica.
 
-Semana 96 — Validação e evidências
+**Semana 96 — Validação e evidências**
 
 Datas: 18/08/2028 – 24/08/2028
 
@@ -1678,7 +1681,7 @@ Conteúdos:
 
 Entregáveis: plano de testes, resultados e evidências.
 
-Semana 97 — Documentação em inglês
+**Semana 97 — Documentação em inglês**
 
 Datas: 25/08/2028 – 31/08/2028
 
@@ -1694,7 +1697,7 @@ Conteúdos:
 
 Entregáveis: documentação completa em inglês.
 
-Semana 98 — Open source e colaboração
+**Semana 98 — Open source e colaboração**
 
 Datas: 01/09/2028 – 07/09/2028
 
@@ -1709,7 +1712,7 @@ Conteúdos:
 
 Entregáveis: contribuição documentada ou simulação de fluxo colaborativo.
 
-Semana 99 — Certificações e planejamento
+**Semana 99 — Certificações e planejamento**
 
 Datas: 08/09/2028 – 14/09/2028
 
@@ -1723,7 +1726,7 @@ Conteúdos:
 
 Entregáveis: plano de certificações com justificativas e orçamento estimado.
 
-Semana 100 — Currículo e perfil profissional
+**Semana 100 — Currículo e perfil profissional**
 
 Datas: 15/09/2028 – 21/09/2028
 
@@ -1737,7 +1740,7 @@ Conteúdos:
 
 Entregáveis: currículo e perfil profissional revisados.
 
-Semana 101 — Entrevistas técnicas I
+**Semana 101 — Entrevistas técnicas I**
 
 Datas: 22/09/2028 – 28/09/2028
 
@@ -1750,7 +1753,7 @@ Conteúdos:
 
 Entregáveis: simulação de entrevista técnica.
 
-Semana 102 — Entrevistas técnicas II
+**Semana 102 — Entrevistas técnicas II**
 
 Datas: 29/09/2028 – 05/10/2028
 
@@ -1763,7 +1766,7 @@ Conteúdos:
 
 Entregáveis: simulação avançada de entrevista.
 
-Semana 103 — Apresentação pública
+**Semana 103 — Apresentação pública**
 
 Datas: 06/10/2028 – 12/10/2028
 
@@ -1777,7 +1780,7 @@ Conteúdos:
 
 Entregáveis: apresentação pública ou demonstração técnica documentada.
 
-Semana 104 — Avaliação final e plano de continuidade
+**Semana 104 — Avaliação final e plano de continuidade**
 
 Datas: 13/10/2028 – 19/10/2028
 
