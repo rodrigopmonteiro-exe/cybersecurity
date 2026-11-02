@@ -1,0 +1,7 @@
+Data: 30/10/2026
+Python:
+Python 3.13.13
+Git:
+git version 2.54.0
+Diretório:
+/data/data/com.termux/files/home/cybersecurity/semana-1/aula-06

@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+venv/
+.venv/
+
+# Arquivos sensíveis
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# Configurações locais
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.tmp
+*.log
+.DS_Store

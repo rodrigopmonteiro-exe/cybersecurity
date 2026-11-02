@@ -1,0 +1,5 @@
+nome = input("Digite seu nome: ")
+objetivo_1 = input("Digite seu primeiro objetivo: ")
+objetivo_2 = input("Digite seu segundo objetivo: ")
+objetivo_3 = input("Digite seu terceiro objetivo: ")
+print(f"Seu nome é {nome} e seus objetivos são: {objetivo_1}, {objetivo_2} e {objetivo_3}.")
