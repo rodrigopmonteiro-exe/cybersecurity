@@ -17,7 +17,6 @@ Status: Concluído
 - [x] Realizar o diagnóstico inicial de conhecimentos.
 - [x] Configurar e verificar o ambiente Termux.
 - [x] Aprender os fundamentos de Python.
-- [x] Estudar conceitos iniciais de matemática discreta.
 - [x] Aprender comandos básicos do terminal Linux.
 - [x] Configurar o Git e compreender seu funcionamento básico.
 - [x] Conhecer princípios fundamentais de segurança da informação.
@@ -54,18 +53,7 @@ Status: Concluído
 - [x] Estruturas condicionais "if" e "else".
 - [x] Execução e modificação de programas Python.
 
-2.3. Matemática discreta e lógica
-
-- [x] Conceito de proposição.
-- [x] Valores lógicos: True e False.
-- [x] Negação lógica.
-- [x] Operadores lógicos.
-- [x] Operador AND.
-- [x] Operador OR.
-- [x] Tabelas-verdade.
-- [x] Interpretação de expressões lógicas.
-
-2.4. Terminal Linux e Termux
+2.3. Terminal Linux e Termux
 
 - [x] Navegação entre diretórios.
 - [x] Criação de diretórios.
@@ -77,7 +65,7 @@ Status: Concluído
 - [x] Atualização do ambiente.
 - [x] Verificação de ferramentas instaladas.
 
-2.5. Git e controle de versão
+2.4. Git e controle de versão
 
 - [x] Instalação do Git no Termux.
 - [x] Configuração inicial do Git.
@@ -85,7 +73,7 @@ Status: Concluído
 - [x] Identificação e resolução de problemas na chave pública.
 - [x] Verificação da configuração.
 
-2.6. Fundamentos de segurança da informação
+2.5. Fundamentos de segurança da informação
 
 - [x] Confidencialidade.
 - [x] Integridade.
@@ -152,14 +140,7 @@ Status: Concluído
 - [x] Desenvolver o programa "inventario.py".
 - [x] Desenvolver o programa "diagnostico.py".
 
-4.2. Matemática discreta
-
-- [x] Resolver dez exercícios de lógica proposicional.
-- [x] Identificar proposições verdadeiras e falsas.
-- [x] Aplicar a negação lógica.
-- [x] Interpretar expressões lógicas.
-
-4.3. Terminal e segurança
+4.2. Terminal e segurança
 
 - [x] Navegar pelo sistema de diretórios.
 - [x] Criar e organizar arquivos.
@@ -168,7 +149,7 @@ Status: Concluído
 - [x] Calcular o hash de um programa.
 - [x] Responder questões sobre os princípios de segurança.
 
-4.4. Avaliação semanal
+4.3. Avaliação semanal
 
 - [x] Realizar revisão ativa.
 - [x] Responder questões conceituais.
@@ -198,7 +179,7 @@ Resultado: Git configurado corretamente.
 
 Problema 2 — Compreensão dos conceitos iniciais
 
-Dificuldade: Algumas dúvidas relacionadas à lógica proposicional, tipos de dados e conceitos de computação.
+Dificuldade: Tipos de dados e conceitos de computação.
 
 Solução:
 
@@ -229,7 +210,6 @@ Resultado: Ambiente de estudo organizado.
 
 - [x] Anotações das aulas 01 a 07.
 - [x] Exercícios de Python resolvidos.
-- [x] Dez exercícios de lógica proposicional.
 - [x] Programas Python desenvolvidos.
 - [x] Arquivo "inventario.py".
 - [x] Arquivo "diagnostico.py".
@@ -299,7 +279,6 @@ During this week, I learned the fundamentals of computer science, Linux commands
 
 8.2. Três pontos que precisam de melhoria
 
-- [x] Matemática discreta: Continuar praticando lógica proposicional e desenvolver maior segurança na resolução de problemas.
 - [x] Programação Python: Aprofundar estruturas condicionais, laços, funções e manipulação de dados.
 - [x] Inglês técnico: Ampliar o vocabulário e melhorar a leitura e interpretação de documentação técnica em inglês.
 

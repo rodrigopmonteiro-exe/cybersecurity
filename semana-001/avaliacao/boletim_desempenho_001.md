@@ -29,7 +29,6 @@ Disciplina| Resultado
 Fundamentos de Computação| Aprovado
 Linux e Termux| Aprovado
 Python básico| Aprovado
-Matemática Discreta| Aprovado
 Fundamentos de Cibersegurança| Aprovado
 Organização e documentação| Aprovado
 Technical English| Aprovado
@@ -42,7 +41,6 @@ Technical English| Aprovado
 - [x] Navegação e organização de diretórios.
 - [x] Criação e execução de programas Python.
 - [x] Utilização de variáveis, listas e laços.
-- [x] Compreensão de lógica proposicional.
 - [x] Conhecimento dos princípios CIA.
 - [x] Compreensão de permissões de arquivos.
 - [x] Configuração básica do Git e SSH.
