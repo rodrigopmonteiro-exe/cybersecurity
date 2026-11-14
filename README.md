@@ -1,275 +1,284 @@
-Cybersecurity — 24-Month Learning Journey
+# Cybersecurity Project Lab
 
-<p align="center">
-  <strong>Computer Science & Cybersecurity</strong><br>
-  From Foundations to Advanced Practical Skills
-</p><p align="center">
-  <img src="https://img.shields.io/badge/Duration-24%20Months-blue" alt="Duration: 24 Months">
-  <img src="https://img.shields.io/badge/Study%20Time-15--17%20Hours%2FWeek-green" alt="Study Time: 15-17 Hours per Week">
-  <img src="https://img.shields.io/badge/Current%20Level-Beginner-orange" alt="Current Level: Beginner">
-  <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" alt="Status: In Progress">
-</p>---
+**Practical Cybersecurity Projects | Security Engineering | Python | Linux**
 
-1. About This Project
-
-This repository documents a structured 24-month learning journey in Computer Science and Cybersecurity.
-
-The goal is to build a strong academic and practical foundation, progressing from fundamental computing concepts to advanced cybersecurity knowledge and specialized technical skills.
-
-This is not simply a collection of tutorials or completed exercises. It is a continuously documented educational program that combines:
-
-- Computer Science fundamentals.
-- Programming and software development.
-- Mathematics and computational logic.
-- Linux and operating systems.
-- Computer networks.
-- Information security.
-- Secure software development.
-- Defensive security and incident response.
-- Offensive security and penetration testing.
-- Cloud security and DevSecOps.
-- Technical research and communication.
-
-Every stage is supported by exercises, practical laboratories, assessments, projects, technical documentation, and measurable learning objectives.
-
-2. Learning Profile
-
-Category| Information
-Current level| Beginner
-English proficiency| Intermediate
-Study commitment| 15–17 hours per week
-Program duration| 24 months
-Primary programming language| Python
-Operating environment| Linux / Termux
-Version control| Git and GitHub
-Documentation format| Markdown
-Main objective| Computer Science and Cybersecurity education
-
-3. Main Objectives
-
-The program is designed to develop the ability to:
-
-1. Understand fundamental Computer Science concepts.
-2. Write, analyze, debug, and maintain programs.
-3. Understand operating systems and computer architecture.
-4. Configure, analyze, and troubleshoot computer networks.
-5. Identify vulnerabilities and understand security risks.
-6. Develop and evaluate secure applications.
-7. Monitor systems and investigate security incidents.
-8. Perform authorized security assessments.
-9. Understand cloud infrastructure and security architecture.
-10. Communicate technical findings clearly in English and Portuguese.
-
-The long-term objective is to develop the technical depth, practical experience, research ability, and professional judgment required for an international cybersecurity career.
-
-4. Academic Roadmap
-
-The program is organized into eight learning periods, each consisting of 13 weeks.
-
-Period| Weeks| Main Focus
-1| 01–13| Computer Science Foundations
-2| 14–26| Operating Systems, Linux and Networking
-3| 27–39| Programming, Data Structures and Security Fundamentals
-4| 40–52| Web Technologies and Application Security
-5| 53–65| Defensive Security and Security Operations
-6| 66–78| Offensive Security and Penetration Testing
-7| 79–91| Cloud Security, Containers and DevSecOps
-8| 92–104| Advanced Practice, Specialization and Portfolio
-
-The roadmap is a structured learning plan, not an inflexible calendar. Progression depends on demonstrated competence, practical evidence, and assessment results.
-
-5. Learning Methodology
-
-The program follows a competency-based learning model.
-
-Each lesson combines:
-
-1. Theory: understanding the concepts and principles.
-2. Demonstration: studying examples and technical procedures.
-3. Guided practice: solving exercises with appropriate support.
-4. Independent practice: completing tasks without step-by-step instructions.
-5. Practical laboratories: applying knowledge in controlled environments.
-6. Assessment: demonstrating understanding and technical ability.
-7. Documentation: recording results, decisions, and evidence.
-8. Review: checking knowledge retention and independent application.
-
-Competency Assessment
-
-Skills are evaluated using five dimensions:
-
-- Execution: Can the task be performed correctly?
-- Understanding: Can the underlying concepts be explained?
-- Debugging: Can errors be identified and corrected?
-- Adaptation: Can the knowledge be applied to a new problem?
-- Autonomy: Can the task be completed independently?
-
-Competencies are classified using the following scale:
-
-Level| Classification| Description
-0| Not Started| Not yet studied or assessed.
-1| Introduced| Understands basic concepts with guidance.
-2| Developing| Performs basic tasks with some assistance.
-3| Competent| Performs, explains, and corrects tasks independently.
-4| Advanced| Handles unfamiliar problems and evaluates alternative approaches.
-
-6. Technical Areas
-
-Computer Science Foundations
-
-- Programming with Python.
-- Algorithms and data structures.
-- Discrete mathematics.
-- Computational logic.
-- Computer architecture.
-- Databases.
-
-Systems and Infrastructure
-
-- Linux administration.
-- Operating systems.
-- Command-line tools.
-- Networking fundamentals.
-- TCP/IP and network protocols.
-- Network traffic analysis.
-
-Cybersecurity
-
-- Information security principles.
-- Risk management.
-- Cryptography fundamentals.
-- Identity and access management.
-- Vulnerability assessment.
-- Secure software development.
-- Application security.
-
-Defensive Security
-
-- Security monitoring.
-- Log analysis.
-- SIEM fundamentals.
-- Threat detection.
-- Incident response.
-- Digital forensics.
-- MITRE ATT&CK.
-
-Offensive Security
-
-- Reconnaissance and enumeration.
-- Security testing methodologies.
-- Web application testing.
-- Vulnerability analysis.
-- Exploitation fundamentals.
-- Privilege escalation.
-- Technical reporting.
-
-Cloud and Security Engineering
-
-- Cloud computing fundamentals.
-- Cloud security.
-- Container security.
-- DevSecOps.
-- Security architecture.
-- Threat modeling.
-- Secure infrastructure.
-
-7. Tools and Technologies
-
-The technologies below represent the tools and environments planned for progressive study. Their inclusion does not imply that all have already been mastered.
-
-Category| Tools and Technologies
-Programming| Python
-Operating environment| Linux, Termux
-Version control| Git, GitHub
-Documentation| Markdown
-Networking| Nmap, Wireshark, curl
-Application security| OWASP resources, Burp Suite
-Defensive security| Wazuh, SIEM platforms
-Offensive security| Authorized training laboratories
-Cloud| AWS, Microsoft Azure, Google Cloud
-Containers| Docker, Kubernetes
-Automation| Python, Bash, GitHub Actions
-
-Tools will be introduced according to the academic roadmap and the prerequisites of each subject.
-
-8. Practical Laboratories and Ethical Standards
-
-Practical work is an essential part of this program.
-
-Laboratories will be conducted using:
-
-- Locally controlled environments.
-- Personal systems and networks.
-- Intentionally vulnerable applications.
-- Authorized cybersecurity training platforms.
-- Cloud environments under appropriate account permissions.
-
-All offensive security activities must follow applicable laws, platform rules, and explicit authorization requirements.
-
-No unauthorized scanning, exploitation, access attempts, or testing against third-party systems is permitted.
-
-The purpose of offensive security training is to understand vulnerabilities and improve the security of systems.
-
-9. Technical English
-
-Technical English is integrated throughout the entire program.
-
-The learning process includes:
-
-- Reading official technical documentation.
-- Understanding cybersecurity terminology.
-- Studying research papers and technical publications.
-- Writing technical notes and reports.
-- Explaining technical concepts in English.
-- Developing professional communication skills.
-
-
-10. Certifications and Professional Development
-Potential certification paths include:
-
-- ISC2 Certified in Cybersecurity (CC).
-- Cisco CCST Cybersecurity.
-- CompTIA Network+.
-- CompTIA Security+.
-- Blue Team Level 1 (BTL1).
-- CompTIA PenTest+.
-- AWS Certified Cloud Practitioner.
-- AWS Certified Security – Specialty.
-- OffSec certifications.
-
-
-11. Progress Tracking and Evidence
-
-Progress is documented through:
-
-- Weekly study records.
-- Lesson notes.
-- Solved exercises.
-- Python programs and scripts.
-- Linux command-line evidence.
-- Laboratory reports.
-- Practical projects.
-- Assessment results.
-- Competency updates.
-- Technical English activities.
-
-
-12. Long-Term Vision
-
-The long-term objective is to build a professional profile based on:
-
-- Strong Computer Science fundamentals.
-- Advanced cybersecurity knowledge.
-- Practical technical competence.
-- Secure engineering principles.
-- Research and analytical thinking.
-- Professional technical communication.
-- Verifiable projects and contributions.
-- Continuous learning and development.
+A structured cybersecurity engineering laboratory focused on designing, developing, testing, and documenting practical security tools and solutions.
 
 ---
 
-13. Guiding Principle
+## About This Repository
 
-Learn deeply. Practice consistently. Demonstrate competence. Document everything. Improve continuously.
+The Cybersecurity Project Lab is a long-term technical portfolio dedicated to the development of practical cybersecurity projects.
 
-This repository is a record of the work, evidence, and progress behind that commitment.
+The objective is to transform theoretical knowledge into demonstrable technical skills through software development, security engineering, automation, analysis, and controlled security testing.
+
+This repository brings together projects designed to explore real-world cybersecurity challenges, progressively increasing in technical complexity.
+
+Rather than documenting a learning journey, this repository focuses on engineering solutions, building functional tools, solving security problems, and producing verifiable technical results.
+
+## Project Objectives
+
+- Develop practical cybersecurity tools using Python.
+- Apply computer science and programming concepts to security problems.
+- Understand and implement defensive security mechanisms.
+- Explore network analysis and security assessment.
+- Develop automation for security operations.
+- Investigate vulnerabilities in authorized environments.
+- Apply secure software development principles.
+- Build practical experience in Blue Team, Red Team, and Application Security.
+- Produce clean, maintainable, and well-documented code.
+- Build a professional cybersecurity engineering portfolio.
+
+## Technical Environment
+
+| Category | Technologies |
+|---|---|
+| Primary Language | Python |
+| Operating System | Debian Linux |
+| Development Environment | Termux / Debian via proot-distro |
+| IDE | code-server |
+| Version Control | Git |
+| Repository Hosting | GitHub |
+| Testing | Python testing tools |
+| Documentation | Markdown |
+
+Technologies will evolve according to the technical requirements of each project.
+
+---
+
+## Project Roadmap
+
+The laboratory is organized into five progressive development levels, containing 23 projects.
+
+### Level 01 — Security Fundamentals
+
+Focus: Python development, basic security tools, cryptography, and file security.
+
+| # | Project | Status |
+|---|---|---|
+| 01 | Password Auditor | In Progress |
+| 02 | Secure Password Generator | Planned |
+| 03 | SHA-256 Calculator | Planned |
+| 04 | File Integrity Monitor | Planned |
+| 05 | Log Analyzer | Planned |
+
+### Level 02 — Network Security
+
+Focus: networking fundamentals, network analysis, reconnaissance, and network security tools.
+
+| # | Project | Status |
+|---|---|---|
+| 06 | IP Address Analyzer | Planned |
+| 07 | TCP Port Scanner | Planned |
+| 08 | Host Availability Monitor | Planned |
+| 09 | HTTP Header Analyzer | Planned |
+| 10 | DNS Analyzer | Planned |
+
+### Level 03 — Security Engineering
+
+Focus: network traffic analysis, web security, vulnerability assessment, and secure application development.
+
+| # | Project | Status |
+|---|---|---|
+| 11 | Network Traffic Analyzer | Planned |
+| 12 | TLS Certificate Auditor | Planned |
+| 13 | Web Security Auditor | Planned |
+| 14 | Vulnerability Assessment Lab | Planned |
+| 15 | Secure Authentication System | Planned |
+
+### Level 04 — Defensive Security Operations
+
+Focus: security monitoring, incident response, threat intelligence, and security operations.
+
+| # | Project | Status |
+|---|---|---|
+| 16 | Security Event Monitor | Planned |
+| 17 | Mini SIEM | Planned |
+| 18 | Incident Response Lab | Planned |
+| 19 | Threat Intelligence Platform | Planned |
+
+### Level 05 — Advanced Security Engineering
+
+Focus: advanced detection systems, security automation, application security, and intelligent security solutions.
+
+| # | Project | Status |
+|---|---|---|
+| 20 | Security Detection Engine | Planned |
+| 21 | Blue Team Automation Platform | Planned |
+| 22 | AppSec Assessment Platform | Planned |
+| 23 | CyberDev AI | Planned |
+
+---
+
+## Project Expansion
+
+The Cybersecurity Project Lab is an evolving portfolio.
+
+The current roadmap establishes the initial development direction, but it is not a fixed or exhaustive list of projects.
+
+New projects may be added at any time to:
+
+- Explore emerging cybersecurity technologies and threats.
+- Address new security challenges and practical problems.
+- Develop tools for additional cybersecurity domains.
+- Explore advanced concepts and specialized research areas.
+- Improve or expand existing projects.
+- Incorporate new technologies, frameworks, and methodologies.
+
+New projects will be evaluated according to their technical relevance, educational value, practical applicability, and contribution to the overall portfolio.
+
+The project roadmap and repository structure may evolve as the laboratory grows.
+
+**Continuous development. Continuous improvement. No fixed limits.**
+
+---
+
+## Development Standards
+
+Every project follows a consistent engineering methodology.
+
+### 1. Problem Definition
+
+- Identify the security problem.
+- Define the project objectives.
+- Establish functional and technical requirements.
+- Determine the project scope and limitations.
+
+### 2. Design and Architecture
+
+- Define the system architecture.
+- Identify required components and dependencies.
+- Plan the implementation.
+- Consider security and maintainability from the beginning.
+
+### 3. Implementation
+
+- Write clean and maintainable code.
+- Apply appropriate programming principles.
+- Handle errors and unexpected inputs.
+- Follow secure development practices.
+
+### 4. Testing and Validation
+
+- Test expected functionality.
+- Validate input handling.
+- Identify and correct implementation errors.
+- Evaluate reliability and security considerations.
+
+### 5. Documentation
+
+Each project should include appropriate technical documentation:
+
+- Project overview.
+- Objectives and scope.
+- Architecture and implementation.
+- Installation and configuration.
+- Usage instructions.
+- Testing procedures.
+- Limitations and security considerations.
+- Demonstrations and technical evidence.
+
+### 6. Final Evaluation
+
+Projects are evaluated based on:
+
+- Functional correctness.
+- Code quality.
+- Security considerations.
+- Reliability.
+- Testing and validation.
+- Documentation quality.
+- Practical applicability.
+
+---
+
+## Repository Structure
+
+```text
+cybersecurity
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── 01-fundamentos/
+│   ├── 01-password-auditor/
+│   ├── 02-secure-password-generator/
+│   ├── 03-sha256-calculator/
+│   ├── 04-file-integrity-monitor/
+│   └── 05-log-analyzer/
+│
+├── 02-seguranca-de-redes/
+│   ├── 06-ip-address-analyzer/
+│   ├── 07-tcp-port-scanner/
+│   ├── 08-host-availability-monitor/
+│   ├── 09-http-header-analyzer/
+│   └── 10-dns-analyzer/
+│
+├── 03-engenharia-de-seguranca/
+│   ├── 11-network-traffic-analyzer/
+│   ├── 12-tls-certificate-auditor/
+│   ├── 13-web-security-auditor/
+│   ├── 14-vulnerability-assessment-lab/
+│   └── 15-secure-authentication-system/
+│
+├── 04-operacoes-de-seguranca/
+│   ├── 16-security-event-monitor/
+│   ├── 17-mini-siem/
+│   ├── 18-incident-response-lab/
+│   └── 19-threat-intelligence-platform/
+│
+├── 05-especializacao/
+│   ├── 20-security-detection-engine/
+│   ├── 21-blue-team-automation-platform/
+│   ├── 22-appsec-assessment-platform/
+│   └── 23-cyberdev-ai/
+│
+├── labs/
+│
+├── docs/
+│
+└── reports/
+
+---
+
+## Ethical and Responsible Development
+
+All security testing, scanning, analysis, and assessment activities must be conducted exclusively in authorized environments.
+
+This laboratory follows responsible cybersecurity development principles:
+
+- Legal and ethical use of security tools.
+- Explicit authorization before security testing.
+- Controlled laboratory environments.
+- Responsible vulnerability research.
+- Protection of sensitive information.
+- Secure handling of data and credentials.
+
+Tools developed in this repository are intended for educational, defensive, research, and authorized security assessment purposes.
+
+---
+
+## Author
+
+**Rodrigo Pinto Monteiro**
+
+Cybersecurity | Python Development | Linux | Security Engineering
+
+GitHub: [@rodrigopmonteiro-exe](https://github.com/rodrigopmonteiro-exe)
+
+---
+
+## Repository Purpose
+
+This repository represents an ongoing commitment to practical cybersecurity engineering.
+
+Every project is an opportunity to design, implement, test, analyze, and improve real technical solutions.
+
+**Build. Test. Secure. Document. Improve.**
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
