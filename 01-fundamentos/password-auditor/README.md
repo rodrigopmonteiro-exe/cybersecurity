@@ -44,7 +44,6 @@ No external Python packages are required.
 4. Open a terminal in the project directory.
 5. Execute the application using the following commands:
 
-    cd 01-fundamentos/password-auditor
     python src/main.py
 
 6. Enter a valid password when prompted.
